@@ -21,6 +21,6 @@ pd.set_option('display.max_columns', 20)
 def load_data(path):
     """Load the dataset"""
     df = pd.read_csv(path, parse_dates=["order_datetime"])
-    print("✅ Data loaded successfully")
+    print(" Data loaded successfully")
     print(f"   Shape: {df.shape}")
     return df
