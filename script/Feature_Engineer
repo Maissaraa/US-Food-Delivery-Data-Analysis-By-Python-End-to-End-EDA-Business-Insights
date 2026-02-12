@@ -1,0 +1,27 @@
+# ================= FEATURE ENGINEERING ==============
+def add_features(df):
+    """
+    Add new features to the dataset to enrich analysis:
+    - Time-based features: order month, day, hour, and weekend flag
+    - Financial features: estimated profit and tip percentage
+    Returns a new dataframe with the added features
+    """
+    df_feat = df.copy()
+    
+    print("\n" + "="*50)
+    print("ADDING FEATURES")
+    print("="*50)
+    
+    # Time features
+    df_feat["order_month"] = df_feat["order_datetime"].dt.month
+    df_feat["order_day"] = df_feat["order_datetime"].dt.day_name()
+    df_feat["order_hour"] = df_feat["order_datetime"].dt.hour
+    df_feat["is_weekend"] = df_feat["order_day"].isin(["Saturday", "Sunday"])
+    
+    # Financial features
+    df_feat["profit_estimate"] = df_feat["delivery_fee"] + df_feat["tip_amount"] - df_feat["discount_amount"]
+    df_feat["tip_percentage"] = (df_feat["tip_amount"] / df_feat["order_value"]) * 100
+    
+    print(f"Added {df_feat.shape[1] - df.shape[1]} new features")
+    
+    return df_feat
