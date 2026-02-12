@@ -1,0 +1,39 @@
+# ================= KPI CALCULATIONS ================
+def calculate_kpis(df):
+    """
+    Calculate key business metrics (KPIs) for the dataset:
+    - Total Revenue
+    - Average Order Value
+    - Total Orders
+    - Delivery Success Rate
+    - Average Delivery Time
+    - Average Tip
+    - Average Customer Rating
+    - Total Estimated Profit
+    Prints each KPI with proper formatting and returns a dictionary of values.
+    """
+    
+    print("\n" + "="*50)
+    print("KEY PERFORMANCE INDICATORS")
+    print("="*50)
+    
+    kpis = {
+        "Total Revenue": (df["total_amount"].sum(), "$"),
+        "Avg Order Value": (df["total_amount"].mean(), "$"),
+        "Total Orders": (len(df), ""),
+        "Delivery Success Rate": ((df["order_status"] == "Delivered").mean() * 100, "%"),
+        "Avg Delivery Time": (df["delivery_time_minutes"].mean(), "mins"),
+        "Avg Tip": (df["tip_amount"].mean(), "$"),
+        "Avg Rating": (df["customer_rating"].mean(), "stars"),
+        "Total Profit Estimate": (df["profit_estimate"].sum(), "$")
+    }
+    
+    for name, (value, unit) in kpis.items():
+        if unit == "$":
+            print(f"{name:.<25} ${value:,.2f}")
+        elif unit == "%":
+            print(f"{name:.<25} {value:.1f}%")
+        else:
+            print(f"{name:.<25} {value:,.0f} {unit}")
+    
+    return kpis
