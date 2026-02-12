@@ -1,0 +1,26 @@
+# ================= DATA CLEANING ====================
+def clean_data(df):
+    """
+    Clean the dataset to prepare it for analysis:
+    - Remove duplicate rows
+    - Filter out invalid or negative order values and delivery times
+    - Correct customer ratings to ensure they are between 1 and 5
+    Returns a cleaned copy of the original dataframe
+    """
+    df_clean = df.copy()
+    
+    print("\n" + "="*50)
+    print("CLEANING DATA")
+    print("="*50)
+    
+    # Remove duplicates
+    df_clean = df_clean.drop_duplicates()
+    
+    # Filter valid values
+    df_clean = df_clean[df_clean["order_value"] > 0]
+    df_clean = df_clean[df_clean["delivery_time_minutes"] > 0]
+    
+    # Fix ratings
+    df_clean.loc[~df_clean["customer_rating"].between(1,5), "customer_rating"] = np.nan
+    
+    return df_clean
