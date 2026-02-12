@@ -1,0 +1,1262 @@
+order_id	customer_id	restaurant_id	state	city	order_datetime	food_category	customer_segment	delivery_mode	payment_method	order_status	order_value	tax_amount	delivery_fee	tip_amount	discount_amount	total_amount	delivery_time_minutes	customer_rating
+1	CUST_22962	REST_187	Texas	Dallas	4/12/2024 19:28	Mexican	VIP	Standard	Credit Card	Delivered	41.52	3.32	6.08	4.46	0	55.38	54	4
+2	CUST_6311	REST_1055	Florida	Orlando	5/10/2024 21:52	Sushi	VIP	Express	Google Pay	Delivered	27.61	2.21	8.32	8.32	0	46.46	26	2
+3	CUST_1189	REST_1057	Illinois	Naperville	1/22/2024 11:24	Fast Food	New	Express	Apple Pay	Delivered	44.8	3.58	3.34	2.92	0	54.64	65	4
+4	CUST_15502	REST_1397	Florida	Miami	2/24/2024 19:56	Sushi	Returning	Standard	Cash	Refunded	16.71	1.34	2.78	6.08	0	26.91	28	2
+5	CUST_15541	REST_1204	California	San Francisco	9/21/2024 20:01	Mexican	New	Express	Apple Pay	Delivered	27.78	2.22	3.23	4.95	0	38.18	54	4
+6	CUST_7873	REST_1679	Florida	Orlando	1/2/2024 5:53	Mexican	New	Express	Credit Card	Refunded	57.23	4.58	5.78	1.85	10	59.44	50	2
+7	CUST_13185	REST_316	Florida	Tampa	12/16/2024 15:14	Fast Food	New	Express	Debit Card	Delivered	33.61	2.69	4.83	2.71	5	38.84	59	1
+8	CUST_3027	REST_747	Illinois	Springfield	6/5/2024 14:44	Mexican	VIP	Express	Cash	Delivered	31.39	2.51	2.95	9.87	5	41.72	25	3
+9	CUST_9392	REST_1963	California	San Diego	3/21/2024 7:34	Burgers	New	Express	Google Pay	Delivered	40.71	3.26	8.06	6.51	10	48.54	47	4
+10	CUST_6056	REST_1862	California	San Francisco	3/2/2024 23:36	Desserts	New	Standard	Debit Card	Delivered	50.64	4.05	6.88	6.38	5	62.95	28	3
+11	CUST_24419	REST_1584	Florida	Miami	9/13/2024 4:25	Healthy	New	Express	Debit Card	Delivered	25.64	2.05	2.74	7.11	0	37.54	46	3
+12	CUST_2678	REST_1294	California	Los Angeles	8/28/2024 19:31	Burgers	Returning	Standard	Apple Pay	Delivered	24.87	1.99	6.67	1.39	0	34.92	27	4
+13	CUST_47699	REST_1679	Florida	Orlando	11/22/2024 18:21	Pizza	New	Express	Credit Card	Delivered	38.52	3.08	4.27	1.05	0	46.92	25	4
+14	CUST_10474	REST_1482	Florida	Orlando	12/13/2024 6:32	Pizza	Returning	Standard	Apple Pay	Delivered	45.76	3.66	4.13	6.48	0	60.03	41	1
+15	CUST_4304	REST_1815	Florida	Miami	11/13/2024 4:32	Healthy	VIP	Standard	Google Pay	Delivered	30.89	2.47	8.16	3.23	0	44.75	63	2
+16	CUST_28728	REST_798	Florida	Tampa	2/21/2024 11:38	Desserts	Returning	Standard	Google Pay	Delivered	25.37	2.03	5.48	3.01	0	35.89	16	4
+17	CUST_27309	REST_1539	Florida	Miami	2/23/2024 22:36	Sushi	Returning	Standard	Cash	Delivered	49.84	3.99	6.58	5.31	0	65.72	69	3
+18	CUST_35698	REST_1634	Texas	Houston	7/2/2024 16:37	Pizza	Returning	Standard	Apple Pay	Delivered	17.88	1.43	4.71	6.32	0	30.34	47	1
+19	CUST_42106	REST_1271	Texas	Austin	5/3/2024 5:15	Sushi	New	Standard	Debit Card	Delivered	36.2	2.9	6.57	0.17	0	45.84	66	1
+20	CUST_48025	REST_250	New York	Rochester	5/7/2024 6:17	Burgers	Returning	Express	Cash	Delivered	28.96	2.32	7.53	6.76	5	40.57	56	3
+21	CUST_21932	REST_1160	Florida	Tampa	9/19/2024 15:25	Burgers	VIP	Express	Apple Pay	Cancelled	35.16	2.81	4.06	9.96	10	41.99	69	1
+22	CUST_13183	REST_727	Illinois	Naperville	8/20/2024 2:18	Desserts	VIP	Express	Google Pay	Delivered	39.53	3.16	6.86	8.97	5	53.52	22	4
+23	CUST_12969	REST_921	New York	New York City	4/13/2024 19:34	Mexican	Returning	Express	Credit Card	Delivered	41.8	3.34	8.34	2.84	0	56.32	55	4
+24	CUST_47214	REST_1318	New York	New York City	6/9/2024 3:32	Desserts	Returning	Standard	Google Pay	Delivered	33.03	2.64	5.46	1.79	0	42.92	47	4
+25	CUST_33352	REST_383	Texas	Dallas	1/22/2024 13:29	Healthy	New	Standard	Credit Card	Delivered	34.07	2.73	7.85	6.31	5	45.96	47	1
+26	CUST_19589	REST_576	California	Los Angeles	11/12/2024 15:18	Burgers	Returning	Express	Google Pay	Delivered	39.09	3.13	5.93	7.69	0	55.84	20	3
+27	CUST_11492	REST_1080	Illinois	Springfield	8/20/2024 4:23	Healthy	Returning	Standard	Cash	Delivered	42.27	3.38	5.93	9.8	0	61.38	47	4
+28	CUST_37631	REST_725	New York	Rochester	11/18/2024 17:24	Healthy	VIP	Standard	Google Pay	Delivered	11.67	0.93	4.87	8.44	10	15.91	36	3
+29	CUST_6801	REST_858	Texas	Dallas	5/6/2024 9:01	Burgers	VIP	Express	Credit Card	Delivered	45.59	3.65	3.32	7.09	0	59.65	64	1
+30	CUST_41941	REST_499	New York	New York City	1/13/2024 6:56	Desserts	Returning	Express	Apple Pay	Delivered	29.61	2.37	6.27	1.94	0	40.19	65	3
+31	CUST_23677	REST_413	Florida	Miami	5/22/2024 1:01	Sushi	New	Standard	Debit Card	Cancelled	57.67	4.61	4.47	1.55	10	58.3	63	4
+32	CUST_20508	REST_1695	Florida	Miami	6/18/2024 5:14	Sushi	Returning	Standard	Apple Pay	Delivered	26.89	2.15	4.66	1.27	0	34.97	19	3
+33	CUST_38233	REST_735	Florida	Orlando	7/14/2024 5:44	Healthy	Returning	Express	Apple Pay	Delivered	30.51	2.44	6.7	1.38	0	41.03	33	1
+34	CUST_6949	REST_890	California	San Diego	4/29/2024 18:27	Mexican	Returning	Express	Debit Card	Delivered	19.51	1.56	6.96	2.51	0	30.54	26	1
+35	CUST_4343	REST_1312	New York	Buffalo	5/8/2024 0:46	Fast Food	VIP	Express	Credit Card	Delivered	38.81	3.1	6.79	6.6	0	55.3	19	2
+36	CUST_20128	REST_1408	Illinois	Springfield	12/14/2024 22:02	Mexican	Returning	Standard	Cash	Delivered	15.65	1.25	3.99	3.56	5	19.45	19	3
+37	CUST_39649	REST_621	Illinois	Chicago	4/3/2024 13:51	Desserts	New	Standard	Cash	Refunded	43.39	3.47	4.58	4.65	0	56.09	50	2
+38	CUST_17364	REST_615	Illinois	Chicago	6/28/2024 9:57	Burgers	New	Standard	Google Pay	Delivered	42.2	3.38	8.1	5.01	0	58.69	30	3
+39	CUST_5000	REST_1056	California	San Diego	9/14/2024 16:27	Pizza	Returning	Standard	Credit Card	Delivered	42.77	3.42	5.95	3.88	0	56.02	51	4
+40	CUST_21491	REST_1730	California	San Diego	11/18/2024 0:32	Fast Food	VIP	Standard	Cash	Delivered	36.51	2.92	6.41	2.07	0	47.91	65	2
+41	CUST_21358	REST_1319	New York	Buffalo	2/4/2024 22:16	Mexican	VIP	Standard	Google Pay	Delivered	21.13	1.69	6.59	3.41	0	32.82	64	1
+42	CUST_39756	REST_556	New York	Buffalo	3/15/2024 23:35	Burgers	New	Standard	Debit Card	Delivered	53.84	4.31	5.01	9.68	0	72.84	49	1
+43	CUST_37208	REST_1818	Florida	Miami	4/8/2024 15:35	Mexican	New	Standard	Apple Pay	Delivered	50.33	4.03	4.54	9.31	5	63.21	39	3
+44	CUST_1698	REST_1142	California	Los Angeles	12/26/2024 16:48	Healthy	New	Standard	Credit Card	Delivered	27.9	2.23	5.53	8.26	0	43.92	26	1
+45	CUST_9335	REST_984	California	San Francisco	8/20/2024 18:11	Sushi	VIP	Standard	Apple Pay	Delivered	39.7	3.18	6.56	4.83	0	54.27	26	1
+46	CUST_12174	REST_497	Texas	Dallas	2/22/2024 22:15	Burgers	Returning	Express	Google Pay	Delivered	33.51	2.68	7.24	0.91	0	44.34	19	3
+47	CUST_40081	REST_1516	Texas	Austin	8/2/2024 10:10	Pizza	New	Express	Debit Card	Cancelled	42.37	3.39	3.11	0.84	5	44.71	16	1
+48	CUST_42459	REST_1780	Texas	Houston	1/29/2024 4:37	Sushi	Returning	Standard	Credit Card	Refunded	51.29	4.1	8.42	3.74	0	67.55	39	1
+49	CUST_29178	REST_138	Florida	Orlando	5/11/2024 3:05	Desserts	Returning	Express	Credit Card	Delivered	33.03	2.64	4.77	7.05	0	47.49	59	1
+50	CUST_40298	REST_447	Illinois	Chicago	8/29/2024 19:27	Sushi	Returning	Standard	Google Pay	Refunded	57.33	4.59	7.1	8.23	5	72.25	63	1
+51	CUST_21559	REST_985	New York	New York City	11/7/2024 0:37	Sushi	VIP	Standard	Credit Card	Refunded	51.31	4.1	8.37	5.56	0	69.34	51	4
+52	CUST_43356	REST_1689	New York	New York City	8/14/2024 18:19	Burgers	VIP	Express	Debit Card	Delivered	31.56	2.52	2.95	1.66	0	38.69	30	3
+53	CUST_37487	REST_797	Illinois	Naperville	1/12/2024 9:31	Sushi	New	Express	Credit Card	Delivered	33.28	2.66	3.14	3.36	0	42.44	42	4
+54	CUST_14216	REST_1847	California	Los Angeles	12/22/2024 8:35	Mexican	Returning	Express	Credit Card	Delivered	27.79	2.22	8.42	6.98	0	45.41	62	1
+55	CUST_2015	REST_1924	Florida	Orlando	2/15/2024 2:05	Burgers	Returning	Standard	Cash	Delivered	19.16	1.53	8.1	8.66	0	37.45	32	4
+56	CUST_7938	REST_788	New York	Buffalo	8/26/2024 16:10	Sushi	Returning	Standard	Apple Pay	Cancelled	56.98	4.56	6.06	3.81	10	61.41	48	1
+57	CUST_14456	REST_1208	California	San Diego	4/8/2024 0:20	Sushi	VIP	Standard	Google Pay	Delivered	35.06	2.8	7.11	9.45	5	49.42	60	1
+58	CUST_27657	REST_1471	California	Los Angeles	2/20/2024 12:12	Desserts	Returning	Standard	Debit Card	Delivered	35.56	2.84	3.74	8.78	5	45.92	53	2
+59	CUST_25285	REST_862	California	San Francisco	9/6/2024 1:53	Desserts	VIP	Express	Cash	Delivered	36.38	2.91	7.61	5.52	0	52.42	62	3
+60	CUST_16781	REST_1827	California	Los Angeles	10/29/2024 22:14	Pizza	New	Standard	Cash	Delivered	53.62	4.29	7.21	6.39	5	66.51	52	2
+61	CUST_43318	REST_1119	Texas	Houston	4/7/2024 17:29	Burgers	Returning	Express	Apple Pay	Delivered	24.58	1.97	6.86	5.47	0	38.88	56	3
+62	CUST_20963	REST_1975	California	San Francisco	3/21/2024 4:28	Fast Food	VIP	Express	Google Pay	Delivered	36.4	2.91	3.38	9.27	0	51.96	48	2
+63	CUST_16183	REST_194	Florida	Orlando	2/22/2024 1:12	Burgers	VIP	Standard	Credit Card	Delivered	39.51	3.16	4.55	5.37	0	52.59	30	4
+64	CUST_11161	REST_160	California	San Francisco	12/25/2024 3:55	Sushi	VIP	Standard	Credit Card	Delivered	18.54	1.48	4.97	8.74	0	33.73	33	1
+65	CUST_28693	REST_645	New York	Rochester	1/5/2024 17:27	Pizza	VIP	Standard	Credit Card	Delivered	32.17	2.57	5.79	5.34	0	45.87	40	1
+66	CUST_5432	REST_1149	California	San Francisco	3/13/2024 14:56	Healthy	VIP	Express	Apple Pay	Cancelled	34.08	2.73	6.63	5.12	0	48.56	22	1
+67	CUST_49513	REST_464	Texas	Houston	12/20/2024 19:14	Mexican	New	Standard	Apple Pay	Delivered	44.6	3.57	3.92	7.6	0	59.69	65	3
+68	CUST_41441	REST_905	Illinois	Naperville	1/3/2024 14:22	Mexican	VIP	Standard	Credit Card	Delivered	35.83	2.87	5.57	5.32	0	49.59	29	4
+69	CUST_43563	REST_1517	Texas	Dallas	4/28/2024 4:27	Burgers	New	Express	Debit Card	Delivered	27.24	2.18	3.22	8.91	0	41.55	59	2
+70	CUST_24275	REST_694	Illinois	Naperville	4/20/2024 3:46	Fast Food	Returning	Standard	Cash	Delivered	22.02	1.76	6.92	5.58	0	36.28	51	2
+71	CUST_28139	REST_1473	New York	New York City	6/28/2024 1:58	Sushi	Returning	Standard	Google Pay	Delivered	18.22	1.46	3.11	1.53	0	24.32	44	3
+72	CUST_11787	REST_1019	California	Los Angeles	5/31/2024 22:08	Sushi	VIP	Express	Google Pay	Delivered	41.76	3.34	2.98	5.25	0	53.33	16	4
+73	CUST_49153	REST_1558	Illinois	Springfield	8/7/2024 10:03	Sushi	Returning	Standard	Cash	Cancelled	56.54	4.52	7.43	7.18	0	75.67	19	2
+74	CUST_3048	REST_189	Texas	Dallas	4/27/2024 3:18	Burgers	New	Express	Credit Card	Delivered	34.11	2.73	3.7	7.36	0	47.9	52	1
+75	CUST_3219	REST_997	Florida	Miami	5/18/2024 3:12	Mexican	Returning	Express	Apple Pay	Delivered	27.18	2.17	4.52	1.34	0	35.21	16	4
+76	CUST_27614	REST_1542	California	Los Angeles	11/16/2024 4:08	Burgers	New	Standard	Credit Card	Delivered	35.57	2.85	7.06	5.96	0	51.44	63	1
+77	CUST_6415	REST_1443	Texas	Houston	11/13/2024 11:49	Sushi	New	Express	Google Pay	Delivered	39.45	3.16	8.13	1.81	0	52.55	43	4
+78	CUST_20282	REST_1502	California	Los Angeles	9/23/2024 8:36	Desserts	Returning	Standard	Debit Card	Delivered	27.75	2.22	3.71	1.64	0	35.32	18	1
+79	CUST_6984	REST_1146	Texas	Austin	8/24/2024 9:24	Mexican	VIP	Standard	Cash	Delivered	28.99	2.32	6.78	9	0	47.09	47	1
+80	CUST_5018	REST_1162	Illinois	Chicago	5/24/2024 0:46	Pizza	VIP	Standard	Cash	Delivered	57.88	4.63	4.8	5.44	10	62.75	20	3
+81	CUST_34187	REST_256	Texas	Dallas	6/27/2024 7:41	Healthy	New	Express	Cash	Delivered	39.06	3.12	6.22	5.33	5	48.73	47	1
+82	CUST_47197	REST_905	Florida	Orlando	10/15/2024 3:21	Desserts	Returning	Express	Debit Card	Delivered	30.02	2.4	6.78	4.94	5	39.14	61	4
+83	CUST_21609	REST_1534	Texas	Austin	12/30/2024 23:51	Burgers	Returning	Express	Debit Card	Delivered	50.44	4.04	3.4	2.29	5	55.17	65	4
+84	CUST_11789	REST_1257	Texas	Austin	10/18/2024 10:26	Burgers	New	Standard	Debit Card	Delivered	29.66	2.37	4.57	1.82	10	28.42	61	2
+85	CUST_16343	REST_1447	California	San Francisco	10/28/2024 10:11	Mexican	Returning	Standard	Google Pay	Delivered	31.77	2.54	6.86	5.93	0	47.1	51	4
+86	CUST_40964	REST_1585	Texas	Dallas	5/6/2024 9:48	Pizza	New	Standard	Debit Card	Refunded	29.72	2.38	5.96	6.07	0	44.13	36	3
+87	CUST_32880	REST_301	New York	Buffalo	9/13/2024 13:36	Sushi	Returning	Standard	Google Pay	Delivered	35.67	2.85	6.05	3.99	0	48.56	67	2
+88	CUST_9666	REST_517	Florida	Orlando	10/17/2024 19:24	Mexican	Returning	Standard	Debit Card	Refunded	48.13	3.85	7.68	9.23	0	68.89	57	3
+89	CUST_29734	REST_1102	Illinois	Springfield	12/29/2024 18:53	Healthy	VIP	Express	Apple Pay	Delivered	34.92	2.79	5.01	9.15	0	51.87	42	2
+90	CUST_32195	REST_1186	California	San Diego	2/18/2024 6:16	Burgers	Returning	Standard	Credit Card	Failed	19.17	1.53	8.27	1.49	0	30.46	63	3
+91	CUST_21908	REST_1600	Illinois	Chicago	9/13/2024 12:29	Burgers	New	Standard	Google Pay	Delivered	25.61	2.05	7.89	2.05	0	37.6	54	3
+92	CUST_39000	REST_213	Florida	Orlando	1/18/2024 0:13	Sushi	Returning	Express	Debit Card	Delivered	43.09	3.45	6.78	5.28	0	58.6	65	3
+93	CUST_41411	REST_1923	Florida	Orlando	5/11/2024 0:07	Fast Food	VIP	Standard	Debit Card	Delivered	18.11	1.45	6.36	4.09	0	30.01	43	4
+94	CUST_32480	REST_1362	Florida	Tampa	11/16/2024 22:02	Fast Food	Returning	Express	Credit Card	Delivered	25.67	2.05	3.89	6.72	0	38.33	65	1
+95	CUST_42124	REST_281	Illinois	Springfield	4/1/2024 14:07	Pizza	VIP	Standard	Google Pay	Delivered	32.12	2.57	6.83	8.56	5	45.08	45	3
+96	CUST_42874	REST_1671	California	San Diego	1/7/2024 9:06	Healthy	New	Express	Apple Pay	Delivered	30.5	2.44	6.92	8.48	0	48.34	32	2
+97	CUST_34572	REST_1033	Illinois	Naperville	10/29/2024 4:19	Healthy	New	Express	Apple Pay	Delivered	47.06	3.76	4.68	0.34	5	50.84	23	2
+98	CUST_49285	REST_731	Texas	Dallas	2/22/2024 11:34	Sushi	Returning	Express	Google Pay	Failed	28.91	2.31	8.19	7.64	0	47.05	37	4
+99	CUST_42401	REST_128	Texas	Houston	8/11/2024 16:49	Mexican	VIP	Standard	Apple Pay	Delivered	60.86	4.87	4.05	1.39	5	66.17	37	1
+100	CUST_27657	REST_1140	Illinois	Chicago	3/15/2024 5:17	Pizza	Returning	Express	Credit Card	Delivered	43.07	3.45	5.68	8.15	0	60.35	52	2
+101	CUST_36737	REST_1080	California	San Francisco	3/16/2024 22:52	Healthy	New	Express	Debit Card	Delivered	54.45	4.36	6.49	1.75	10	57.05	60	4
+102	CUST_25063	REST_775	Florida	Miami	5/9/2024 21:42	Sushi	VIP	Standard	Apple Pay	Delivered	53.85	4.31	3.61	0.9	5	57.67	53	4
+103	CUST_9942	REST_1271	Illinois	Springfield	8/14/2024 21:33	Desserts	New	Express	Debit Card	Delivered	41.24	3.3	3.31	4.84	0	52.69	66	3
+104	CUST_16048	REST_395	California	Los Angeles	12/2/2024 12:42	Desserts	Returning	Express	Google Pay	Delivered	33.58	2.69	4.51	7.71	0	48.49	39	1
+105	CUST_24393	REST_623	Illinois	Chicago	4/13/2024 9:24	Sushi	New	Express	Credit Card	Delivered	43.49	3.48	7.3	6.95	0	61.22	58	3
+106	CUST_45623	REST_315	Illinois	Chicago	10/31/2024 16:09	Healthy	VIP	Express	Apple Pay	Delivered	28.25	2.26	6.64	5.21	0	42.36	45	1
+107	CUST_26064	REST_1661	New York	Rochester	3/21/2024 22:36	Healthy	New	Express	Google Pay	Delivered	45.01	3.6	4	4.89	0	57.5	24	4
+108	CUST_38198	REST_728	Illinois	Chicago	7/17/2024 16:22	Healthy	New	Express	Debit Card	Delivered	40.51	3.24	5.83	4.73	0	54.31	65	4
+109	CUST_1614	REST_1396	Texas	Austin	11/23/2024 17:58	Pizza	Returning	Standard	Debit Card	Delivered	34.53	2.76	7.67	8.45	0	53.41	38	3
+110	CUST_24510	REST_463	Florida	Orlando	4/17/2024 12:33	Desserts	Returning	Standard	Google Pay	Delivered	43.18	3.45	7.81	5.3	0	59.74	63	4
+111	CUST_1545	REST_513	Florida	Orlando	12/14/2024 21:24	Mexican	Returning	Express	Google Pay	Delivered	36.74	2.94	5.06	8.77	0	53.51	27	1
+112	CUST_9436	REST_847	Florida	Miami	9/30/2024 2:58	Burgers	VIP	Standard	Credit Card	Delivered	55.56	4.44	8.49	3.51	5	67	58	3
+113	CUST_33913	REST_392	California	San Diego	9/22/2024 6:19	Desserts	Returning	Standard	Credit Card	Delivered	24.53	1.96	3.16	3.55	0	33.2	15	1
+114	CUST_2828	REST_160	California	San Francisco	3/13/2024 14:48	Pizza	VIP	Standard	Debit Card	Delivered	44.52	3.56	4.85	1.24	10	44.17	20	3
+115	CUST_49988	REST_1698	New York	New York City	11/14/2024 13:23	Fast Food	Returning	Standard	Google Pay	Delivered	62.72	5.02	3.5	9.91	0	81.15	65	1
+116	CUST_15199	REST_1897	Illinois	Chicago	11/25/2024 10:33	Pizza	New	Express	Apple Pay	Delivered	27.03	2.16	4.8	0.37	10	24.36	68	3
+117	CUST_29831	REST_1862	New York	Buffalo	8/2/2024 16:08	Healthy	VIP	Standard	Apple Pay	Delivered	30.52	2.44	7.05	6.96	0	46.97	61	1
+118	CUST_44642	REST_1087	Texas	Dallas	11/24/2024 3:13	Burgers	VIP	Standard	Debit Card	Delivered	20.92	1.67	7.66	4.57	0	34.82	17	1
+119	CUST_34742	REST_137	Illinois	Chicago	8/13/2024 11:41	Fast Food	New	Standard	Cash	Delivered	41.52	3.32	5.81	0.87	0	51.52	19	4
+120	CUST_22452	REST_692	Texas	Dallas	3/30/2024 17:05	Pizza	Returning	Standard	Google Pay	Delivered	48	3.84	8.27	1.09	5	56.2	59	4
+121	CUST_21695	REST_1270	Texas	Houston	11/13/2024 18:57	Pizza	New	Standard	Google Pay	Cancelled	57.38	4.59	5.76	8.64	5	71.37	42	1
+122	CUST_21670	REST_1790	Florida	Tampa	2/28/2024 15:40	Burgers	VIP	Express	Cash	Delivered	44.85	3.59	4.5	2.39	10	45.33	21	1
+123	CUST_43534	REST_181	Texas	Dallas	8/22/2024 12:57	Pizza	New	Standard	Apple Pay	Delivered	47.48	3.8	2.53	8.2	0	62.01	28	1
+124	CUST_35832	REST_459	Florida	Tampa	1/12/2024 6:01	Burgers	Returning	Express	Google Pay	Delivered	33.86	2.71	4.22	6.17	10	36.96	38	1
+125	CUST_17661	REST_1319	California	Los Angeles	6/11/2024 15:05	Desserts	New	Standard	Google Pay	Delivered	49.24	3.94	4.85	1.79	5	54.82	50	2
+126	CUST_21953	REST_1243	Texas	Houston	11/19/2024 16:11	Pizza	VIP	Standard	Apple Pay	Delivered	32.16	2.57	2.9	5.82	0	43.45	64	2
+127	CUST_45064	REST_1769	Texas	Dallas	7/10/2024 14:28	Fast Food	VIP	Standard	Apple Pay	Delivered	59.24	4.74	6.07	3.84	0	73.89	46	3
+128	CUST_24650	REST_496	Illinois	Naperville	2/27/2024 22:25	Desserts	VIP	Express	Credit Card	Cancelled	26.12	2.09	3.45	4.69	10	26.35	29	3
+129	CUST_45413	REST_847	New York	Rochester	10/11/2024 10:51	Sushi	New	Standard	Apple Pay	Delivered	40.56	3.24	3.88	1.31	5	43.99	43	1
+130	CUST_6626	REST_1380	Florida	Miami	10/29/2024 15:36	Mexican	Returning	Express	Debit Card	Delivered	41.93	3.35	6.33	3.98	0	55.59	52	3
+131	CUST_40341	REST_1084	New York	Rochester	6/10/2024 2:48	Healthy	VIP	Standard	Credit Card	Cancelled	19.98	1.6	7.69	4.73	10	24	67	4
+132	CUST_42652	REST_1659	New York	New York City	3/19/2024 13:49	Mexican	New	Express	Credit Card	Refunded	52.33	4.19	7.07	6.26	0	69.85	17	4
+133	CUST_6109	REST_600	Illinois	Naperville	2/15/2024 14:24	Fast Food	Returning	Standard	Google Pay	Delivered	17.89	1.43	5.85	2.26	0	27.43	38	4
+134	CUST_18773	REST_1618	California	San Diego	3/4/2024 12:16	Fast Food	Returning	Express	Debit Card	Delivered	42.27	3.38	2.57	0.72	0	48.94	46	3
+135	CUST_9783	REST_1433	Texas	Dallas	10/27/2024 0:59	Healthy	New	Standard	Debit Card	Delivered	23.4	1.87	3.95	9.87	0	39.09	34	1
+136	CUST_47824	REST_688	Texas	Houston	7/20/2024 7:31	Desserts	New	Express	Google Pay	Delivered	34.43	2.75	8.15	0.72	0	46.05	36	3
+137	CUST_7090	REST_416	Texas	Austin	7/12/2024 5:38	Fast Food	VIP	Standard	Google Pay	Delivered	42.59	3.41	7.43	0.41	0	53.84	20	1
+138	CUST_37679	REST_1813	New York	Rochester	9/18/2024 8:38	Mexican	VIP	Standard	Debit Card	Delivered	23.25	1.86	6.18	2.99	10	24.28	34	2
+139	CUST_22288	REST_1823	New York	New York City	4/20/2024 6:10	Burgers	VIP	Standard	Google Pay	Delivered	36.37	2.91	7.4	4.52	0	51.2	25	2
+140	CUST_21022	REST_849	Florida	Miami	1/12/2024 22:11	Healthy	VIP	Express	Debit Card	Delivered	46.4	3.71	3.46	8.72	0	62.29	22	1
+141	CUST_46500	REST_192	Texas	Dallas	4/28/2024 20:54	Fast Food	VIP	Standard	Debit Card	Delivered	41.07	3.29	5.46	0.82	0	50.64	29	1
+142	CUST_48908	REST_615	New York	New York City	11/27/2024 16:29	Burgers	New	Express	Google Pay	Delivered	11.03	0.88	8.26	4.16	5	19.33	34	4
+143	CUST_27958	REST_1541	New York	Buffalo	5/31/2024 17:48	Fast Food	VIP	Express	Apple Pay	Delivered	66.12	5.29	2.68	3.96	0	78.05	53	2
+144	CUST_20342	REST_1860	Texas	Dallas	8/30/2024 18:57	Desserts	VIP	Standard	Cash	Delivered	39.95	3.2	7.97	2.11	0	53.23	22	4
+145	CUST_35414	REST_113	Illinois	Springfield	8/27/2024 22:41	Healthy	New	Standard	Cash	Delivered	38.89	3.11	5.45	2.47	5	44.92	39	4
+146	CUST_44006	REST_1572	New York	Buffalo	5/9/2024 6:05	Burgers	Returning	Standard	Google Pay	Delivered	31.5	2.52	6.41	3.12	0	43.55	50	1
+147	CUST_14994	REST_1071	Texas	Austin	10/29/2024 10:09	Pizza	Returning	Express	Google Pay	Delivered	9.86	0.79	7.47	4.31	0	22.43	68	4
+148	CUST_10847	REST_1679	Florida	Miami	10/10/2024 10:36	Burgers	VIP	Express	Cash	Delivered	38.05	3.04	4.64	5.34	5	46.07	61	3
+149	CUST_34997	REST_1135	Florida	Miami	4/17/2024 19:49	Sushi	New	Standard	Credit Card	Delivered	20.15	1.61	3.58	0.89	0	26.23	67	2
+150	CUST_7638	REST_526	Florida	Orlando	8/3/2024 10:33	Sushi	VIP	Express	Apple Pay	Delivered	42.55	3.4	4.44	9.73	0	60.12	58	2
+151	CUST_14669	REST_616	California	Los Angeles	12/5/2024 22:44	Pizza	New	Express	Google Pay	Refunded	26.21	2.1	3.63	7.31	0	39.25	61	2
+152	CUST_16504	REST_1661	New York	Rochester	7/11/2024 22:54	Pizza	VIP	Standard	Apple Pay	Cancelled	41.07	3.29	8.17	6.83	0	59.36	54	1
+153	CUST_14380	REST_460	Texas	Houston	3/16/2024 7:24	Mexican	Returning	Standard	Apple Pay	Delivered	48.27	3.86	3.79	6.59	0	62.51	42	2
+154	CUST_20614	REST_588	New York	Buffalo	7/10/2024 5:08	Fast Food	New	Standard	Debit Card	Delivered	49.24	3.94	7.7	9.93	5	65.81	48	1
+155	CUST_39218	REST_1764	New York	New York City	4/11/2024 13:03	Mexican	Returning	Standard	Debit Card	Delivered	47.56	3.8	7.07	7.98	0	66.41	68	3
+156	CUST_13178	REST_927	Illinois	Springfield	3/29/2024 20:14	Sushi	New	Express	Apple Pay	Delivered	41.84	3.35	6.28	6.1	0	57.57	47	1
+157	CUST_29441	REST_427	New York	Buffalo	8/11/2024 16:34	Desserts	New	Standard	Cash	Delivered	54.7	4.38	6.22	4.63	0	69.93	20	4
+158	CUST_44790	REST_142	Illinois	Springfield	4/26/2024 11:04	Healthy	VIP	Standard	Cash	Delivered	47.12	3.77	4.89	5.8	0	61.58	20	2
+159	CUST_9906	REST_150	California	Los Angeles	12/29/2024 10:44	Pizza	VIP	Standard	Credit Card	Delivered	31.75	2.54	7.88	0.71	10	32.88	35	1
+160	CUST_37378	REST_1792	Florida	Orlando	10/1/2024 1:13	Healthy	New	Express	Cash	Delivered	50.14	4.01	5.42	2.57	0	62.14	49	4
+161	CUST_35054	REST_1474	Illinois	Springfield	5/23/2024 9:35	Pizza	New	Express	Debit Card	Cancelled	26.4	2.11	8.36	8.23	0	45.1	53	1
+162	CUST_43435	REST_1898	New York	Rochester	6/7/2024 6:55	Mexican	New	Standard	Debit Card	Delivered	53.7	4.3	7.26	1.85	10	57.11	58	4
+163	CUST_38384	REST_1906	Florida	Miami	6/21/2024 9:46	Desserts	Returning	Standard	Apple Pay	Delivered	36.47	2.92	7.42	8.84	0	55.65	56	4
+164	CUST_37451	REST_1183	Illinois	Chicago	5/31/2024 15:48	Pizza	New	Standard	Cash	Delivered	41.52	3.32	3.92	7.81	0	56.57	39	2
+165	CUST_15996	REST_761	California	San Francisco	6/12/2024 9:32	Mexican	VIP	Express	Cash	Delivered	21.29	1.7	3.91	8.69	0	35.59	29	3
+166	CUST_22400	REST_869	California	San Diego	6/8/2024 10:09	Healthy	VIP	Standard	Google Pay	Delivered	32	2.56	4.04	6.32	0	44.92	21	1
+167	CUST_39467	REST_1341	California	San Francisco	5/25/2024 2:41	Burgers	VIP	Standard	Google Pay	Delivered	55.13	4.41	6.65	9.91	0	76.1	46	3
+168	CUST_32367	REST_1476	Illinois	Springfield	4/18/2024 13:35	Sushi	Returning	Express	Apple Pay	Delivered	28.36	2.27	3.01	8.94	0	42.58	55	3
+169	CUST_35503	REST_1685	Florida	Tampa	7/14/2024 12:48	Desserts	VIP	Express	Google Pay	Delivered	40.92	3.27	2.92	6.4	0	53.51	58	1
+170	CUST_10686	REST_1921	New York	New York City	2/27/2024 2:21	Sushi	VIP	Standard	Credit Card	Delivered	46.58	3.73	6.52	9.94	0	66.77	36	4
+171	CUST_4083	REST_756	Illinois	Naperville	2/5/2024 4:12	Healthy	Returning	Standard	Credit Card	Delivered	50.73	4.06	3.52	4.09	0	62.4	22	4
+172	CUST_27116	REST_1995	Texas	Austin	1/3/2024 15:29	Sushi	New	Standard	Google Pay	Delivered	43.33	3.47	3.91	3.99	0	54.7	15	1
+173	CUST_10715	REST_837	Florida	Miami	10/12/2024 20:19	Pizza	VIP	Express	Google Pay	Delivered	26.01	2.08	7.03	1.28	5	31.4	50	1
+174	CUST_19880	REST_1966	New York	Rochester	5/30/2024 17:44	Desserts	VIP	Express	Google Pay	Cancelled	37.7	3.02	4.66	0.88	10	36.26	37	2
+175	CUST_37875	REST_1362	Illinois	Springfield	7/14/2024 17:54	Fast Food	New	Express	Debit Card	Delivered	40.39	3.23	5.95	5.67	0	55.24	52	2
+176	CUST_30619	REST_1649	Texas	Houston	10/17/2024 23:41	Fast Food	Returning	Express	Google Pay	Delivered	28.63	2.29	7.71	8.06	5	41.69	35	3
+177	CUST_30984	REST_263	New York	New York City	3/6/2024 1:34	Sushi	VIP	Standard	Credit Card	Delivered	35.34	2.83	6.35	8.22	0	52.74	15	2
+178	CUST_6772	REST_1240	Illinois	Chicago	12/1/2024 21:45	Burgers	Returning	Standard	Apple Pay	Delivered	34.89	2.79	3.55	5.03	0	46.26	35	2
+179	CUST_36262	REST_489	New York	Buffalo	1/25/2024 14:03	Burgers	Returning	Express	Google Pay	Delivered	37.9	3.03	8.12	8.76	0	57.81	57	2
+180	CUST_40256	REST_741	Illinois	Chicago	5/9/2024 22:18	Healthy	New	Express	Credit Card	Delivered	23.37	1.87	4.82	5.64	0	35.7	64	1
+181	CUST_7406	REST_1203	California	Los Angeles	2/25/2024 14:08	Pizza	New	Express	Cash	Delivered	20.23	1.62	2.95	7.83	0	32.63	47	4
+182	CUST_42779	REST_519	Texas	Austin	9/16/2024 6:39	Desserts	Returning	Standard	Google Pay	Delivered	31.88	2.55	7.38	6.15	0	47.96	53	2
+183	CUST_32174	REST_1864	Illinois	Chicago	3/3/2024 4:51	Healthy	Returning	Standard	Apple Pay	Delivered	55.57	4.45	4.63	5.26	0	69.91	19	2
+184	CUST_25022	REST_1949	Illinois	Chicago	7/1/2024 1:26	Pizza	New	Express	Google Pay	Delivered	22.29	1.78	5.01	7.9	0	36.98	19	1
+185	CUST_30300	REST_1917	Florida	Tampa	1/13/2024 20:25	Healthy	Returning	Standard	Cash	Delivered	23.07	1.85	5.79	4.54	5	30.25	48	4
+186	CUST_44404	REST_724	New York	New York City	4/21/2024 17:39	Fast Food	VIP	Express	Credit Card	Refunded	34.63	2.77	7.36	6.14	5	45.9	31	4
+187	CUST_42674	REST_858	Illinois	Springfield	5/8/2024 1:59	Burgers	VIP	Express	Credit Card	Delivered	32.63	2.61	8.08	2.53	5	40.85	36	4
+188	CUST_40851	REST_548	California	Los Angeles	3/19/2024 16:59	Pizza	Returning	Express	Cash	Delivered	30.44	2.44	5.2	8.82	0	46.9	22	1
+189	CUST_29903	REST_1949	Illinois	Chicago	7/18/2024 22:42	Burgers	New	Express	Cash	Delivered	48.12	3.85	3.13	0.36	0	55.46	50	3
+190	CUST_40261	REST_1475	California	San Diego	7/29/2024 6:50	Fast Food	New	Standard	Credit Card	Delivered	41.9	3.35	3.61	1.74	0	50.6	24	2
+191	CUST_26538	REST_1684	New York	New York City	4/20/2024 15:27	Sushi	Returning	Express	Apple Pay	Delivered	37.09	2.97	3.87	9.76	0	53.69	18	2
+192	CUST_35964	REST_1799	New York	New York City	4/14/2024 8:24	Sushi	Returning	Standard	Apple Pay	Delivered	37.95	3.04	5.68	0.42	10	37.09	54	2
+193	CUST_24953	REST_282	California	San Diego	9/25/2024 20:31	Healthy	Returning	Express	Debit Card	Delivered	43.95	3.52	6.44	1.28	0	55.19	54	3
+194	CUST_34453	REST_212	Florida	Orlando	11/29/2024 17:21	Fast Food	Returning	Express	Google Pay	Delivered	42.12	3.37	4.14	9.28	0	58.91	49	2
+195	CUST_18030	REST_762	New York	New York City	2/1/2024 22:38	Pizza	Returning	Standard	Cash	Delivered	45.05	3.6	5.26	8.42	5	57.33	25	4
+196	CUST_14057	REST_640	Illinois	Naperville	3/26/2024 21:42	Fast Food	New	Express	Cash	Delivered	25.24	2.02	4.12	5.4	5	31.78	66	3
+197	CUST_9706	REST_802	Illinois	Chicago	2/19/2024 14:50	Desserts	Returning	Express	Debit Card	Delivered	29.91	2.39	4.98	7.58	5	39.86	37	1
+198	CUST_42321	REST_1309	Illinois	Springfield	1/30/2024 6:43	Sushi	VIP	Standard	Google Pay	Delivered	23.72	1.9	6.32	7.61	0	39.55	15	4
+199	CUST_35196	REST_401	Florida	Tampa	9/17/2024 2:00	Burgers	Returning	Standard	Debit Card	Delivered	24.73	1.98	7.78	6.58	0	41.07	41	2
+200	CUST_11805	REST_1135	California	Los Angeles	4/21/2024 12:08	Mexican	Returning	Standard	Credit Card	Delivered	27.55	2.2	5.83	0.05	5	30.63	28	1
+201	CUST_10596	REST_1255	Florida	Orlando	1/20/2024 10:15	Pizza	Returning	Express	Cash	Delivered	29.55	2.36	7.76	9.96	0	49.63	38	2
+202	CUST_27661	REST_1041	Florida	Tampa	8/14/2024 4:37	Desserts	VIP	Express	Google Pay	Delivered	25.16	2.01	4.98	6.96	0	39.11	59	4
+203	CUST_28523	REST_865	California	San Diego	9/29/2024 22:06	Healthy	Returning	Express	Google Pay	Delivered	61.57	4.93	2.89	5.8	0	75.19	44	2
+204	CUST_1541	REST_1437	Florida	Orlando	6/7/2024 18:48	Pizza	VIP	Express	Credit Card	Delivered	31.45	2.52	6.32	1.49	0	41.78	45	4
+205	CUST_20194	REST_575	Texas	Austin	7/10/2024 18:47	Pizza	New	Standard	Google Pay	Delivered	24.15	1.93	6.91	2.36	0	35.35	25	1
+206	CUST_19394	REST_498	Florida	Miami	4/27/2024 12:32	Mexican	Returning	Express	Debit Card	Delivered	31.36	2.51	5.03	6.36	5	40.26	28	4
+207	CUST_33373	REST_809	California	San Francisco	3/15/2024 6:08	Desserts	VIP	Express	Debit Card	Delivered	39.27	3.14	3.49	7	0	52.9	59	3
+208	CUST_8999	REST_148	New York	Rochester	9/1/2024 18:41	Sushi	VIP	Standard	Debit Card	Delivered	35.58	2.85	7.62	2.26	0	48.31	19	4
+209	CUST_2431	REST_975	Illinois	Naperville	3/10/2024 3:38	Healthy	Returning	Express	Credit Card	Delivered	31.71	2.54	8.04	4.72	0	47.01	36	4
+210	CUST_35782	REST_1741	Florida	Miami	6/11/2024 22:27	Burgers	Returning	Express	Debit Card	Cancelled	23.01	1.84	7.22	9.75	0	41.82	20	4
+211	CUST_8927	REST_1326	California	Los Angeles	11/24/2024 12:35	Sushi	VIP	Express	Google Pay	Refunded	5.91	0.47	4.58	9	0	19.96	29	4
+212	CUST_21644	REST_413	Florida	Miami	7/17/2024 20:41	Pizza	New	Standard	Debit Card	Failed	45.61	3.65	7.47	7.88	0	64.61	19	3
+213	CUST_7304	REST_1301	Florida	Miami	3/27/2024 4:23	Healthy	Returning	Express	Credit Card	Delivered	19.76	1.58	8.18	9.67	0	39.19	56	1
+214	CUST_7171	REST_1053	New York	Rochester	11/22/2024 21:54	Mexican	New	Standard	Credit Card	Delivered	22.12	1.77	5.77	9.81	0	39.47	53	2
+215	CUST_47136	REST_1189	Illinois	Chicago	6/25/2024 16:33	Fast Food	VIP	Express	Apple Pay	Delivered	34.01	2.72	5.41	1.66	10	33.8	30	4
+216	CUST_5666	REST_1773	Texas	Dallas	5/4/2024 6:21	Burgers	VIP	Standard	Google Pay	Failed	25.05	2	4.24	7.87	0	39.16	65	3
+217	CUST_31932	REST_178	Illinois	Chicago	2/18/2024 6:20	Healthy	New	Express	Cash	Cancelled	29.21	2.34	7.04	5.19	0	43.78	42	2
+218	CUST_24648	REST_1677	Texas	Dallas	6/16/2024 16:01	Burgers	Returning	Express	Credit Card	Delivered	23.56	1.88	2.89	4.64	10	22.97	20	3
+219	CUST_8239	REST_666	New York	Buffalo	10/5/2024 17:42	Burgers	VIP	Express	Debit Card	Delivered	36.36	2.91	4.22	7.93	0	51.42	29	4
+220	CUST_20206	REST_947	New York	Buffalo	8/25/2024 7:17	Burgers	Returning	Express	Google Pay	Cancelled	17.74	1.42	3.45	6.96	5	24.57	17	3
+221	CUST_18071	REST_1742	Florida	Orlando	4/23/2024 10:39	Healthy	New	Express	Apple Pay	Delivered	65.52	5.24	2.7	3.64	5	72.1	44	2
+222	CUST_26150	REST_1232	California	San Francisco	9/2/2024 18:31	Desserts	New	Express	Google Pay	Failed	37.19	2.98	3.21	7.4	0	50.78	35	2
+223	CUST_27515	REST_1029	Texas	Houston	9/25/2024 1:03	Pizza	New	Express	Google Pay	Delivered	24.66	1.97	6.62	0.93	0	34.18	19	3
+224	CUST_31090	REST_1573	New York	Rochester	7/7/2024 8:51	Burgers	VIP	Standard	Google Pay	Cancelled	39.36	3.15	8.01	1.11	5	46.63	58	1
+225	CUST_26817	REST_289	Texas	Austin	7/31/2024 23:33	Fast Food	New	Express	Debit Card	Delivered	36.61	2.93	5.65	2.44	0	47.63	49	4
+226	CUST_12439	REST_995	Florida	Tampa	2/3/2024 8:50	Pizza	VIP	Express	Credit Card	Delivered	36.35	2.91	5.2	7.49	0	51.95	19	4
+227	CUST_1155	REST_1170	California	San Diego	5/18/2024 14:26	Pizza	VIP	Express	Credit Card	Delivered	24.16	1.93	6.56	3.25	0	35.9	23	4
+228	CUST_34209	REST_1938	Illinois	Springfield	5/3/2024 0:07	Sushi	New	Express	Cash	Delivered	38.89	3.11	2.94	0.77	0	45.71	35	3
+229	CUST_30516	REST_1330	New York	Buffalo	11/8/2024 20:52	Pizza	New	Express	Debit Card	Delivered	41.17	3.29	7.73	7.66	5	54.85	47	2
+230	CUST_3659	REST_600	New York	Buffalo	9/7/2024 22:58	Healthy	New	Standard	Google Pay	Delivered	37.15	2.97	3.17	4.47	0	47.76	49	3
+231	CUST_19351	REST_182	Florida	Orlando	1/30/2024 13:58	Fast Food	Returning	Express	Debit Card	Failed	28.58	2.29	6.94	9.18	0	46.99	17	2
+232	CUST_12002	REST_1759	Florida	Miami	10/1/2024 8:27	Healthy	VIP	Express	Apple Pay	Cancelled	33.91	2.71	2.61	9.63	5	43.86	33	3
+233	CUST_48192	REST_1777	New York	Rochester	4/29/2024 5:52	Fast Food	Returning	Express	Credit Card	Delivered	24.07	1.93	3.95	0.12	0	30.07	49	1
+234	CUST_41572	REST_1745	Florida	Tampa	11/29/2024 8:03	Healthy	New	Express	Credit Card	Delivered	36.1	2.89	2.89	8.77	5	45.65	69	4
+235	CUST_14615	REST_1399	California	Los Angeles	3/2/2024 16:47	Healthy	VIP	Standard	Cash	Delivered	36	2.88	8.47	8.56	0	55.91	58	1
+236	CUST_47087	REST_1424	California	San Francisco	7/19/2024 8:03	Fast Food	VIP	Standard	Debit Card	Delivered	29.39	2.35	7.71	0.65	10	30.1	54	4
+237	CUST_43533	REST_1911	California	Los Angeles	3/16/2024 13:46	Mexican	VIP	Express	Debit Card	Delivered	30.34	2.43	3.49	1.71	10	27.97	65	4
+238	CUST_12093	REST_1615	Illinois	Naperville	11/6/2024 6:27	Fast Food	New	Standard	Google Pay	Refunded	24.38	1.95	3.13	3.85	0	33.31	48	3
+239	CUST_42689	REST_382	Florida	Tampa	12/26/2024 0:07	Mexican	VIP	Express	Apple Pay	Delivered	27.53	2.2	4.03	3.62	0	37.38	56	1
+240	CUST_31519	REST_1812	Texas	Houston	4/2/2024 12:48	Mexican	VIP	Standard	Debit Card	Delivered	37.34	2.99	6.24	4.7	0	51.27	52	1
+241	CUST_28005	REST_332	California	San Francisco	10/28/2024 16:07	Sushi	New	Express	Apple Pay	Delivered	48.01	3.84	5.93	5.13	0	62.91	51	1
+242	CUST_23054	REST_496	Florida	Miami	2/10/2024 16:23	Healthy	VIP	Standard	Credit Card	Delivered	28.07	2.25	5.69	8.8	0	44.81	60	3
+243	CUST_45299	REST_544	California	San Diego	11/28/2024 13:44	Sushi	Returning	Standard	Debit Card	Delivered	18.47	1.48	4.97	9.08	5	29	59	2
+244	CUST_1726	REST_1812	Illinois	Naperville	4/12/2024 4:07	Burgers	Returning	Standard	Apple Pay	Delivered	12.7	1.02	7.68	0.02	5	16.42	32	2
+245	CUST_45409	REST_1878	Florida	Orlando	11/19/2024 0:35	Burgers	New	Standard	Apple Pay	Delivered	24.34	1.95	5.01	7.51	0	38.81	53	2
+246	CUST_13497	REST_662	New York	Rochester	10/11/2024 8:09	Sushi	Returning	Express	Google Pay	Refunded	31.32	2.51	4.67	5.94	0	44.44	53	4
+247	CUST_3282	REST_1956	Illinois	Chicago	9/15/2024 19:05	Mexican	Returning	Standard	Apple Pay	Delivered	35.7	2.86	3.35	0.12	0	42.03	29	2
+248	CUST_8461	REST_1919	Florida	Tampa	12/22/2024 20:48	Burgers	VIP	Standard	Google Pay	Delivered	26.06	2.08	3.8	4.67	5	31.61	57	2
+249	CUST_19626	REST_1279	Illinois	Springfield	4/8/2024 12:54	Healthy	Returning	Standard	Credit Card	Delivered	48.42	3.87	6.04	2.26	0	60.59	55	3
+250	CUST_19019	REST_1503	New York	Buffalo	1/23/2024 7:10	Healthy	New	Express	Debit Card	Delivered	36.58	2.93	5.99	3.71	0	49.21	53	2
+251	CUST_45014	REST_1602	Florida	Tampa	6/4/2024 4:06	Fast Food	VIP	Express	Apple Pay	Delivered	23.43	1.87	2.65	6.46	0	34.41	25	1
+252	CUST_30504	REST_1154	Florida	Miami	10/20/2024 4:07	Pizza	Returning	Standard	Google Pay	Delivered	29.84	2.39	4.69	2.18	10	29.1	59	2
+253	CUST_7591	REST_1357	Illinois	Naperville	11/20/2024 23:23	Mexican	VIP	Express	Debit Card	Delivered	41.56	3.32	4.81	0.39	0	50.08	20	3
+254	CUST_7313	REST_223	Florida	Orlando	5/4/2024 14:52	Fast Food	VIP	Express	Google Pay	Delivered	35.08	2.81	4.24	9	0	51.13	37	2
+255	CUST_37575	REST_1107	California	San Diego	7/14/2024 17:59	Desserts	Returning	Express	Debit Card	Delivered	24.66	1.97	6.14	1.52	0	34.29	19	1
+256	CUST_47633	REST_1477	Florida	Miami	10/31/2024 12:33	Pizza	Returning	Express	Apple Pay	Delivered	36.14	2.89	3.51	2.47	5	40.01	65	2
+257	CUST_16996	REST_582	Florida	Orlando	12/6/2024 13:43	Burgers	Returning	Express	Apple Pay	Delivered	42.62	3.41	5.77	1.65	0	53.45	48	3
+258	CUST_20218	REST_264	Illinois	Chicago	9/29/2024 2:59	Fast Food	VIP	Standard	Cash	Delivered	28.9	2.31	4.3	3.26	5	33.77	22	4
+259	CUST_2708	REST_1682	Illinois	Springfield	1/5/2024 16:36	Burgers	New	Express	Cash	Cancelled	16.71	1.34	8.28	9.09	5	30.42	35	2
+260	CUST_33272	REST_982	California	San Francisco	1/5/2024 16:55	Pizza	VIP	Express	Cash	Delivered	37.89	3.03	4.15	8.77	10	43.84	62	4
+261	CUST_3454	REST_498	California	San Diego	8/23/2024 19:31	Pizza	VIP	Express	Debit Card	Delivered	11.9	0.95	5.45	5.22	0	23.52	65	2
+262	CUST_29398	REST_871	Florida	Orlando	6/27/2024 20:13	Healthy	Returning	Standard	Credit Card	Delivered	34.06	2.72	5.24	4.43	0	46.45	49	4
+263	CUST_26518	REST_1617	New York	Rochester	11/24/2024 7:51	Fast Food	VIP	Standard	Debit Card	Delivered	22.72	1.82	4.37	2.56	0	31.47	69	4
+264	CUST_27943	REST_225	California	San Diego	4/23/2024 21:28	Sushi	VIP	Express	Cash	Delivered	25.47	2.04	2.68	8.72	0	38.91	26	2
+265	CUST_33792	REST_1672	California	San Francisco	6/17/2024 23:34	Desserts	VIP	Standard	Cash	Delivered	46.44	3.72	4.27	0.14	5	49.57	51	1
+266	CUST_30218	REST_293	Florida	Miami	8/19/2024 7:04	Pizza	New	Standard	Google Pay	Delivered	41.16	3.29	7.43	8.09	5	54.97	37	1
+267	CUST_33955	REST_1808	California	Los Angeles	10/16/2024 13:13	Fast Food	Returning	Express	Google Pay	Delivered	15.32	1.23	2.9	3.49	0	22.94	59	1
+268	CUST_41591	REST_1481	Illinois	Chicago	3/23/2024 5:15	Pizza	Returning	Standard	Credit Card	Delivered	15.41	1.23	6.59	1.13	5	19.36	16	2
+269	CUST_39454	REST_1150	New York	New York City	1/13/2024 23:46	Mexican	New	Standard	Google Pay	Delivered	40.12	3.21	4.91	2.93	0	51.17	53	1
+270	CUST_47132	REST_1910	New York	New York City	10/21/2024 0:16	Sushi	New	Express	Credit Card	Delivered	30.93	2.47	6.34	9.79	0	49.53	36	3
+271	CUST_13145	REST_1137	California	San Francisco	12/2/2024 22:22	Sushi	New	Standard	Apple Pay	Delivered	33.36	2.67	7.43	5.55	0	49.01	60	4
+272	CUST_6590	REST_875	New York	Rochester	2/22/2024 23:14	Desserts	VIP	Express	Debit Card	Delivered	48.08	3.85	5.82	5.2	0	62.95	69	3
+273	CUST_24545	REST_1984	California	Los Angeles	10/16/2024 17:55	Fast Food	VIP	Express	Apple Pay	Delivered	28.71	2.3	6.99	3.18	0	41.18	46	2
+274	CUST_16275	REST_988	New York	Rochester	10/20/2024 16:22	Burgers	Returning	Express	Debit Card	Delivered	36.83	2.95	6	4.67	0	50.45	42	3
+275	CUST_44148	REST_1206	Texas	Austin	4/30/2024 0:42	Fast Food	Returning	Express	Google Pay	Refunded	43.74	3.5	4.38	7.89	5	54.51	62	4
+276	CUST_27586	REST_1852	California	San Diego	6/27/2024 4:16	Desserts	Returning	Standard	Apple Pay	Delivered	29.14	2.33	6.62	4.94	0	43.03	24	3
+277	CUST_10821	REST_1836	Florida	Orlando	1/23/2024 20:20	Healthy	New	Standard	Cash	Delivered	32.98	2.64	4.17	1.3	0	41.09	33	3
+278	CUST_26599	REST_1676	California	San Diego	5/19/2024 4:41	Burgers	VIP	Standard	Google Pay	Delivered	37.39	2.99	3.13	4.99	0	48.5	62	2
+279	CUST_27654	REST_997	Illinois	Springfield	9/12/2024 13:34	Healthy	New	Standard	Debit Card	Delivered	28.9	2.31	7.11	4.17	5	37.49	23	2
+280	CUST_21360	REST_1851	Illinois	Chicago	11/5/2024 23:21	Pizza	Returning	Express	Credit Card	Refunded	33.23	2.66	3.79	6.78	0	46.46	50	2
+281	CUST_34002	REST_326	Texas	Houston	1/3/2024 5:43	Healthy	Returning	Standard	Debit Card	Delivered	36.66	2.93	5.31	5.79	0	50.69	63	2
+282	CUST_21132	REST_1225	New York	New York City	2/23/2024 9:52	Healthy	New	Standard	Apple Pay	Delivered	30.92	2.47	4.11	8.35	0	45.85	36	1
+283	CUST_2401	REST_1311	Texas	Dallas	12/21/2024 13:09	Sushi	Returning	Standard	Debit Card	Delivered	42.91	3.43	4.1	7.25	5	52.69	15	4
+284	CUST_33245	REST_1816	California	San Francisco	4/28/2024 15:46	Desserts	New	Standard	Credit Card	Delivered	31.69	2.54	3.82	1.32	5	34.37	61	2
+285	CUST_47607	REST_819	Illinois	Chicago	8/20/2024 1:36	Mexican	New	Standard	Apple Pay	Delivered	46.77	3.74	5.61	3.48	0	59.6	50	1
+286	CUST_28606	REST_828	Texas	Houston	5/14/2024 3:46	Mexican	Returning	Standard	Debit Card	Delivered	26.09	2.09	6.55	5.47	5	35.2	59	2
+287	CUST_47681	REST_1227	California	San Francisco	2/28/2024 3:39	Pizza	Returning	Standard	Google Pay	Refunded	33.76	2.7	6.98	4.74	0	48.18	19	4
+288	CUST_43512	REST_1694	New York	New York City	4/5/2024 19:49	Burgers	VIP	Express	Debit Card	Delivered	15.28	1.22	6.37	5.61	5	23.48	21	2
+289	CUST_9682	REST_1956	California	San Francisco	1/26/2024 9:58	Fast Food	Returning	Express	Credit Card	Delivered	21.66	1.73	7.37	6.36	0	37.12	66	2
+290	CUST_12033	REST_1876	Florida	Miami	8/3/2024 21:59	Sushi	New	Standard	Debit Card	Refunded	37.96	3.04	5.73	0.61	0	47.34	34	4
+291	CUST_45605	REST_697	California	Los Angeles	12/26/2024 10:55	Healthy	VIP	Express	Debit Card	Delivered	15.71	1.26	5.5	6.8	0	29.27	28	2
+292	CUST_12691	REST_592	Texas	Houston	10/28/2024 12:30	Fast Food	Returning	Standard	Cash	Delivered	37.22	2.98	2.76	1.66	0	44.62	47	1
+293	CUST_26851	REST_659	Texas	Dallas	8/27/2024 10:12	Healthy	VIP	Standard	Google Pay	Delivered	6.49	0.52	6.45	1.09	0	14.55	40	2
+294	CUST_31873	REST_1513	New York	Rochester	11/27/2024 10:36	Mexican	Returning	Express	Debit Card	Delivered	42.18	3.37	5.12	5.94	0	56.61	65	1
+295	CUST_9199	REST_577	Florida	Orlando	2/28/2024 1:16	Sushi	Returning	Express	Cash	Delivered	35.32	2.83	8.36	7.57	0	54.08	61	2
+296	CUST_42045	REST_1167	Florida	Miami	11/16/2024 10:38	Healthy	New	Standard	Apple Pay	Delivered	41.87	3.35	7.19	9.6	5	57.01	24	4
+297	CUST_38212	REST_1574	Illinois	Naperville	4/10/2024 9:42	Burgers	Returning	Standard	Debit Card	Cancelled	35.72	2.86	7.35	2.54	0	48.47	59	2
+298	CUST_21127	REST_700	Texas	Austin	8/15/2024 8:53	Mexican	Returning	Standard	Apple Pay	Delivered	19.12	1.53	4.89	9.2	10	24.74	63	3
+299	CUST_11195	REST_792	Florida	Miami	4/26/2024 2:34	Healthy	New	Express	Credit Card	Delivered	36.21	2.9	4.64	7.88	0	51.63	18	1
+300	CUST_13602	REST_1838	Illinois	Chicago	4/23/2024 0:57	Healthy	Returning	Express	Cash	Delivered	42.05	3.36	7.76	9.74	0	62.91	19	2
+301	CUST_47002	REST_760	California	San Francisco	7/11/2024 16:21	Burgers	VIP	Express	Google Pay	Delivered	30.12	2.41	8.2	5.82	0	46.55	40	3
+302	CUST_5557	REST_231	Florida	Orlando	4/18/2024 6:46	Fast Food	Returning	Express	Google Pay	Cancelled	43.24	3.46	7.92	8.46	0	63.08	34	3
+303	CUST_29152	REST_574	Texas	Houston	8/29/2024 19:44	Mexican	Returning	Standard	Debit Card	Delivered	19.97	1.6	4.49	8.55	0	34.61	29	3
+304	CUST_48068	REST_1659	Illinois	Chicago	7/13/2024 14:23	Healthy	VIP	Express	Google Pay	Delivered	39.36	3.15	7.46	0.48	5	45.45	18	3
+305	CUST_26275	REST_665	Florida	Orlando	10/16/2024 16:22	Desserts	VIP	Express	Google Pay	Delivered	32.99	2.64	5.78	5.32	0	46.73	24	4
+306	CUST_23318	REST_943	California	Los Angeles	4/12/2024 5:20	Pizza	New	Express	Debit Card	Delivered	42.99	3.44	4.32	2.3	0	53.05	50	3
+307	CUST_17589	REST_1308	Texas	Austin	6/17/2024 4:12	Fast Food	New	Standard	Debit Card	Delivered	14.29	1.14	4.45	7.13	5	22.01	61	2
+308	CUST_16088	REST_371	New York	Buffalo	8/15/2024 6:15	Desserts	Returning	Standard	Credit Card	Delivered	26.87	2.15	7.03	3.93	0	39.98	45	2
+309	CUST_14422	REST_252	Texas	Austin	7/20/2024 1:08	Pizza	Returning	Standard	Credit Card	Delivered	44.3	3.54	5.39	3.62	10	46.85	51	2
+310	CUST_21583	REST_1906	Texas	Austin	8/28/2024 0:24	Fast Food	New	Standard	Apple Pay	Delivered	18.26	1.46	3.53	9.72	0	32.97	20	1
+311	CUST_2538	REST_1460	New York	New York City	6/15/2024 16:33	Burgers	VIP	Express	Credit Card	Delivered	28.57	2.29	4.57	3.36	10	28.79	26	4
+312	CUST_20555	REST_1667	Illinois	Naperville	6/23/2024 12:54	Healthy	New	Standard	Credit Card	Delivered	41.48	3.32	5.8	3.12	0	53.72	18	2
+313	CUST_24255	REST_1438	California	Los Angeles	12/4/2024 10:51	Healthy	Returning	Express	Apple Pay	Delivered	38.07	3.05	6.2	8.43	0	55.75	20	1
+314	CUST_46580	REST_1363	Texas	Austin	6/16/2024 18:52	Mexican	VIP	Express	Credit Card	Delivered	31.12	2.49	5.53	7.18	5	41.32	49	3
+315	CUST_20477	REST_982	Illinois	Chicago	7/22/2024 15:58	Mexican	New	Express	Apple Pay	Delivered	37.25	2.98	6.56	6.25	0	53.04	22	3
+316	CUST_47289	REST_599	New York	New York City	7/24/2024 23:54	Pizza	Returning	Express	Cash	Delivered	37.76	3.02	5.93	8.33	10	45.04	47	1
+317	CUST_24620	REST_217	California	San Diego	1/12/2024 20:10	Sushi	VIP	Express	Cash	Delivered	30.6	2.45	8.11	4.31	5	40.47	47	2
+318	CUST_19990	REST_1802	Illinois	Naperville	2/19/2024 15:40	Sushi	New	Standard	Apple Pay	Refunded	19.64	1.57	6.61	3.32	0	31.14	27	4
+319	CUST_16166	REST_813	Texas	Austin	6/30/2024 6:14	Burgers	Returning	Standard	Apple Pay	Refunded	38.17	3.05	7.21	6.01	10	44.44	22	2
+320	CUST_2988	REST_1205	Texas	Houston	3/2/2024 9:16	Fast Food	Returning	Standard	Cash	Delivered	30.68	2.45	3.12	5.48	10	31.73	55	1
+321	CUST_11825	REST_265	Florida	Miami	8/6/2024 16:11	Burgers	VIP	Express	Cash	Refunded	37.08	2.97	5.6	7.4	0	53.05	57	3
+322	CUST_30267	REST_1606	Illinois	Naperville	10/21/2024 14:37	Healthy	New	Express	Credit Card	Delivered	26.58	2.13	2.91	4.3	0	35.92	44	1
+323	CUST_37963	REST_1182	California	San Diego	10/16/2024 21:02	Healthy	VIP	Express	Debit Card	Delivered	47.09	3.77	5.2	6.72	0	62.78	43	4
+324	CUST_3994	REST_659	California	Los Angeles	3/5/2024 18:25	Pizza	VIP	Express	Debit Card	Delivered	10.93	0.87	5.19	6.12	0	23.11	36	4
+325	CUST_41585	REST_1543	New York	New York City	4/7/2024 12:27	Desserts	VIP	Standard	Debit Card	Delivered	18.41	1.47	8.12	5.42	10	23.42	60	2
+326	CUST_13977	REST_1542	Texas	Dallas	10/14/2024 5:47	Mexican	Returning	Standard	Debit Card	Cancelled	53.49	4.28	6.49	4.98	5	64.24	35	3
+327	CUST_26640	REST_269	Texas	Dallas	9/27/2024 3:28	Sushi	New	Express	Cash	Delivered	1.16	0.09	8.48	2.29	0	12.02	59	4
+328	CUST_39462	REST_836	Florida	Miami	2/8/2024 16:52	Pizza	VIP	Express	Debit Card	Delivered	41.99	3.36	7.76	7.39	0	60.5	19	3
+329	CUST_27249	REST_1461	Texas	Houston	10/16/2024 7:10	Fast Food	New	Express	Google Pay	Delivered	55.46	4.44	6.14	6.73	0	72.77	33	4
+330	CUST_11103	REST_702	Texas	Houston	11/14/2024 12:55	Burgers	New	Standard	Debit Card	Delivered	31.39	2.51	3.7	6.17	5	38.77	65	2
+331	CUST_19257	REST_667	New York	Rochester	7/27/2024 8:05	Fast Food	New	Standard	Debit Card	Delivered	27.84	2.23	7.69	9.15	5	41.91	16	1
+332	CUST_39506	REST_1672	Florida	Miami	2/27/2024 10:58	Mexican	Returning	Standard	Apple Pay	Delivered	47.89	3.83	6.73	4.28	0	62.73	32	2
+333	CUST_27711	REST_1959	Florida	Miami	3/3/2024 21:10	Pizza	VIP	Express	Google Pay	Delivered	19.5	1.56	6.04	4.08	0	31.18	15	3
+334	CUST_6103	REST_1024	Illinois	Springfield	1/3/2024 13:37	Pizza	Returning	Express	Debit Card	Delivered	40.13	3.21	6.43	2.6	0	52.37	24	4
+335	CUST_3187	REST_1567	Illinois	Springfield	1/21/2024 17:06	Burgers	VIP	Standard	Debit Card	Delivered	44.71	3.58	5.18	8.06	0	61.53	56	3
+336	CUST_3591	REST_666	Texas	Austin	6/1/2024 20:57	Burgers	Returning	Express	Credit Card	Refunded	41.56	3.32	7.47	7.89	0	60.24	50	2
+337	CUST_28253	REST_360	Illinois	Springfield	6/25/2024 9:57	Burgers	New	Standard	Google Pay	Delivered	32.24	2.58	5.82	5.03	0	45.67	31	4
+338	CUST_45589	REST_1495	Texas	Austin	11/8/2024 21:08	Healthy	Returning	Express	Apple Pay	Delivered	24.78	1.98	3.46	6.74	0	36.96	37	1
+339	CUST_42680	REST_737	California	San Diego	9/3/2024 7:20	Burgers	Returning	Standard	Debit Card	Delivered	46.71	3.74	5.59	1.61	0	57.65	56	3
+340	CUST_45571	REST_1134	Texas	Houston	5/1/2024 9:46	Sushi	VIP	Standard	Debit Card	Delivered	46.02	3.68	3.13	2.22	0	55.05	69	3
+341	CUST_15665	REST_274	Florida	Orlando	9/2/2024 18:53	Burgers	New	Standard	Cash	Delivered	47.26	3.78	4.99	4.29	0	60.32	43	2
+342	CUST_33972	REST_659	California	San Francisco	12/19/2024 18:12	Sushi	New	Express	Google Pay	Delivered	60.06	4.8	7.72	6.31	0	78.89	43	3
+343	CUST_47182	REST_920	Texas	Dallas	5/7/2024 23:25	Healthy	VIP	Standard	Google Pay	Delivered	22.79	1.82	7.09	6.79	5	33.49	31	3
+344	CUST_10359	REST_124	New York	Buffalo	1/25/2024 2:14	Desserts	VIP	Standard	Debit Card	Delivered	35.39	2.83	7.81	2.22	5	43.25	23	4
+345	CUST_1717	REST_1536	California	Los Angeles	11/7/2024 0:28	Pizza	VIP	Express	Debit Card	Delivered	39.34	3.15	5.41	3.34	5	46.24	16	1
+346	CUST_44442	REST_483	California	San Francisco	9/27/2024 2:10	Mexican	Returning	Express	Apple Pay	Delivered	39.06	3.12	2.95	3.88	5	44.01	46	4
+347	CUST_37945	REST_933	Texas	Dallas	1/22/2024 5:11	Sushi	Returning	Standard	Apple Pay	Delivered	41.86	3.35	7.59	5.46	10	48.26	68	3
+348	CUST_46095	REST_158	Florida	Orlando	1/20/2024 9:28	Sushi	VIP	Express	Apple Pay	Delivered	26.01	2.08	5.18	0.7	5	28.97	18	3
+349	CUST_48664	REST_1004	New York	Rochester	2/29/2024 19:10	Pizza	New	Express	Cash	Delivered	50.47	4.04	2.55	2.18	0	59.24	48	1
+350	CUST_4439	REST_1552	New York	Rochester	7/25/2024 15:24	Burgers	Returning	Standard	Credit Card	Delivered	46.62	3.73	5.99	4.26	0	60.6	46	2
+351	CUST_35693	REST_1024	Illinois	Naperville	7/27/2024 2:36	Healthy	New	Standard	Debit Card	Delivered	43.02	3.44	4.82	6.62	0	57.9	30	3
+352	CUST_37284	REST_1392	California	Los Angeles	10/3/2024 3:41	Fast Food	VIP	Standard	Apple Pay	Delivered	23.98	1.92	5.97	6.32	0	38.19	30	4
+353	CUST_28216	REST_1853	Florida	Orlando	4/13/2024 7:44	Fast Food	New	Express	Debit Card	Delivered	30.55	2.44	7.95	5.07	0	46.01	26	3
+354	CUST_11744	REST_338	Texas	Austin	12/11/2024 22:17	Desserts	VIP	Standard	Google Pay	Delivered	18.13	1.45	8.25	4.31	0	32.14	17	2
+355	CUST_8957	REST_1709	California	San Diego	3/1/2024 0:29	Pizza	Returning	Express	Apple Pay	Delivered	25.19	2.02	6.67	2.19	0	36.07	29	3
+356	CUST_17544	REST_1663	Illinois	Naperville	10/5/2024 22:05	Desserts	VIP	Express	Apple Pay	Delivered	27.69	2.22	7.22	7.74	5	39.87	51	3
+357	CUST_45535	REST_1867	Texas	Dallas	1/22/2024 5:20	Desserts	VIP	Express	Apple Pay	Delivered	46.76	3.74	7.2	4.29	0	61.99	21	4
+358	CUST_45799	REST_1673	California	San Francisco	3/17/2024 5:17	Pizza	VIP	Standard	Credit Card	Delivered	39.27	3.14	7.57	2.49	0	52.47	34	4
+359	CUST_5594	REST_1049	California	Los Angeles	10/25/2024 9:02	Sushi	New	Standard	Credit Card	Delivered	33.83	2.71	3.28	0.22	0	40.04	62	1
+360	CUST_49483	REST_1818	New York	Buffalo	10/17/2024 21:37	Sushi	New	Standard	Apple Pay	Cancelled	28.95	2.32	2.6	9.17	5	38.04	57	2
+361	CUST_9210	REST_782	Texas	Houston	12/20/2024 2:15	Desserts	New	Standard	Debit Card	Delivered	13.98	1.12	4.84	0.69	0	20.63	57	1
+362	CUST_4262	REST_1438	Illinois	Naperville	10/2/2024 15:18	Desserts	Returning	Express	Google Pay	Delivered	16.67	1.33	7.71	3.79	0	29.5	35	4
+363	CUST_20610	REST_1690	New York	Rochester	2/19/2024 3:53	Mexican	New	Standard	Credit Card	Cancelled	42.51	3.4	6.06	0.53	0	52.5	37	3
+364	CUST_30877	REST_557	Texas	Austin	10/3/2024 11:04	Healthy	VIP	Standard	Cash	Delivered	45.62	3.65	2.83	6.44	10	48.54	15	4
+365	CUST_22133	REST_1557	Florida	Miami	11/22/2024 3:00	Fast Food	VIP	Express	Apple Pay	Delivered	41.75	3.34	5.23	6.68	5	52	62	1
+366	CUST_3690	REST_1279	California	San Diego	2/28/2024 10:14	Healthy	Returning	Express	Cash	Delivered	24.44	1.96	7.53	8.03	10	31.96	44	1
+367	CUST_12413	REST_759	Texas	Houston	11/17/2024 4:48	Pizza	VIP	Standard	Google Pay	Delivered	39.64	3.17	6	5.93	0	54.74	54	2
+368	CUST_18359	REST_1168	Illinois	Naperville	7/27/2024 19:51	Pizza	Returning	Express	Google Pay	Failed	32.55	2.6	3.98	6.91	0	46.04	62	3
+369	CUST_34998	REST_706	New York	Rochester	6/29/2024 22:23	Healthy	New	Standard	Cash	Delivered	27.76	2.22	6.65	6.03	0	42.66	60	4
+370	CUST_26500	REST_593	Illinois	Chicago	8/18/2024 20:54	Sushi	VIP	Express	Credit Card	Delivered	27.36	2.19	4.88	6.69	5	36.12	64	3
+371	CUST_37738	REST_1928	Illinois	Springfield	12/29/2024 1:58	Burgers	VIP	Express	Google Pay	Delivered	14.24	1.14	3.11	1.67	0	20.16	54	4
+372	CUST_47172	REST_961	Texas	Houston	10/22/2024 11:55	Mexican	New	Express	Google Pay	Delivered	32.23	2.58	3.43	2.07	0	40.31	24	3
+373	CUST_39847	REST_265	New York	New York City	1/28/2024 16:35	Sushi	Returning	Express	Cash	Cancelled	29.53	2.36	3.76	8.09	0	43.74	37	2
+374	CUST_46541	REST_1389	New York	New York City	5/9/2024 22:10	Fast Food	VIP	Standard	Cash	Delivered	37.18	2.97	5.88	8.04	0	54.07	60	4
+375	CUST_31134	REST_205	Florida	Miami	12/20/2024 11:47	Pizza	New	Standard	Cash	Delivered	36.4	2.91	5.15	9.84	0	54.3	48	1
+376	CUST_22902	REST_205	California	San Diego	10/4/2024 12:24	Mexican	Returning	Standard	Google Pay	Delivered	33.79	2.7	5.95	6.67	5	44.11	69	3
+377	CUST_1446	REST_1967	Texas	Houston	1/13/2024 16:31	Burgers	New	Standard	Credit Card	Delivered	31.65	2.53	3.67	4.89	5	37.74	33	4
+378	CUST_48448	REST_323	California	San Francisco	11/22/2024 2:47	Fast Food	New	Standard	Google Pay	Delivered	45.14	3.61	4.94	3.28	0	56.97	27	1
+379	CUST_23523	REST_1674	Florida	Tampa	12/2/2024 16:36	Healthy	VIP	Standard	Debit Card	Refunded	55.75	4.46	5.58	8.7	0	74.49	27	4
+380	CUST_30932	REST_857	Texas	Dallas	7/5/2024 5:37	Desserts	New	Express	Debit Card	Cancelled	35.89	2.87	7.63	1.65	5	43.04	36	4
+381	CUST_8243	REST_1300	Illinois	Naperville	7/18/2024 22:07	Healthy	VIP	Express	Google Pay	Delivered	49.96	4	4.02	9.39	5	62.37	43	3
+382	CUST_47675	REST_1610	Florida	Orlando	11/20/2024 19:24	Mexican	New	Express	Cash	Delivered	28.25	2.26	2.65	2.53	0	35.69	18	1
+383	CUST_49400	REST_1181	Illinois	Chicago	2/14/2024 9:49	Desserts	VIP	Standard	Cash	Delivered	33.23	2.66	3.89	2.65	0	42.43	41	1
+384	CUST_25486	REST_1352	Florida	Miami	10/5/2024 13:07	Desserts	Returning	Standard	Debit Card	Delivered	28.61	2.29	3.75	2.38	10	27.03	39	1
+385	CUST_31957	REST_1217	California	San Francisco	9/28/2024 22:01	Burgers	Returning	Express	Apple Pay	Delivered	35.96	2.88	6.72	9.35	0	54.91	57	1
+386	CUST_30896	REST_1303	Florida	Miami	4/3/2024 20:47	Desserts	VIP	Standard	Debit Card	Delivered	54.34	4.35	4.54	5.11	0	68.34	45	1
+387	CUST_26864	REST_1923	Illinois	Naperville	6/28/2024 0:56	Desserts	VIP	Express	Google Pay	Delivered	49.4	3.95	3.46	0.25	0	57.06	47	1
+388	CUST_48966	REST_372	New York	New York City	3/12/2024 11:00	Mexican	Returning	Express	Debit Card	Delivered	32.38	2.59	6.16	2	0	43.13	43	1
+389	CUST_39599	REST_1356	New York	Rochester	12/6/2024 7:22	Pizza	New	Standard	Apple Pay	Delivered	32.62	2.61	4.41	7.49	0	47.13	65	3
+390	CUST_38531	REST_372	Florida	Tampa	12/9/2024 16:20	Mexican	Returning	Standard	Credit Card	Delivered	42.6	3.41	8.27	6.68	10	50.96	52	4
+391	CUST_1307	REST_1693	Illinois	Chicago	2/7/2024 22:36	Pizza	New	Standard	Credit Card	Delivered	38.98	3.12	4.16	2.82	10	39.08	55	4
+392	CUST_15330	REST_895	California	San Diego	9/3/2024 13:18	Burgers	VIP	Express	Apple Pay	Delivered	41.4	3.31	4.37	3.4	0	52.48	32	4
+393	CUST_44919	REST_283	Texas	Houston	10/22/2024 0:11	Fast Food	VIP	Standard	Debit Card	Delivered	29.38	2.35	8.07	0.62	0	40.42	38	3
+394	CUST_32349	REST_1101	California	Los Angeles	5/21/2024 12:24	Burgers	VIP	Standard	Debit Card	Refunded	21.14	1.69	7.98	1.89	0	32.7	34	4
+395	CUST_47550	REST_1255	New York	New York City	12/25/2024 9:18	Healthy	New	Standard	Debit Card	Delivered	23.61	1.89	4.91	8.85	5	34.26	69	4
+396	CUST_30523	REST_1556	Florida	Miami	5/8/2024 21:24	Fast Food	Returning	Standard	Debit Card	Cancelled	55.97	4.48	6.88	9.4	0	76.73	35	2
+397	CUST_17260	REST_169	Texas	Houston	10/20/2024 14:57	Mexican	VIP	Standard	Credit Card	Refunded	44.36	3.55	5.1	1.64	0	54.65	62	4
+398	CUST_46927	REST_1786	Florida	Orlando	10/29/2024 22:03	Mexican	VIP	Standard	Cash	Delivered	15.5	1.24	5.99	1.06	5	18.79	54	2
+399	CUST_48159	REST_542	New York	Buffalo	5/17/2024 19:48	Burgers	New	Express	Apple Pay	Failed	32.83	2.63	7.18	0.99	0	43.63	43	1
+400	CUST_19395	REST_207	California	Los Angeles	3/13/2024 15:01	Fast Food	VIP	Standard	Cash	Delivered	31.32	2.51	6.93	0.32	0	41.08	40	1
+401	CUST_43571	REST_996	Illinois	Springfield	8/7/2024 8:38	Mexican	Returning	Standard	Apple Pay	Delivered	34.21	2.74	4.59	0.5	0	42.04	54	1
+402	CUST_6454	REST_1332	California	San Francisco	4/20/2024 0:00	Burgers	New	Standard	Debit Card	Delivered	40.41	3.23	3.33	6.89	5	48.86	49	1
+403	CUST_21908	REST_873	Texas	Dallas	7/26/2024 7:46	Healthy	New	Standard	Cash	Delivered	35.97	2.88	3.44	8.35	0	50.64	28	3
+404	CUST_34783	REST_774	Texas	Dallas	3/12/2024 14:53	Burgers	VIP	Express	Cash	Delivered	27.43	2.19	7.07	7.82	0	44.51	19	2
+405	CUST_31143	REST_853	Florida	Orlando	2/27/2024 16:22	Healthy	VIP	Standard	Google Pay	Failed	28.88	2.31	5.35	4.08	0	40.62	31	1
+406	CUST_25042	REST_850	Texas	Austin	1/14/2024 13:12	Sushi	VIP	Standard	Apple Pay	Delivered	35.41	2.83	3.84	2.39	0	44.47	31	3
+407	CUST_45172	REST_925	Illinois	Naperville	4/9/2024 2:31	Pizza	VIP	Express	Credit Card	Delivered	27.36	2.19	7.9	9.62	0	47.07	51	4
+408	CUST_38292	REST_957	California	San Francisco	8/26/2024 3:39	Desserts	Returning	Standard	Apple Pay	Delivered	12.71	1.02	3.44	8.27	0	25.44	59	2
+409	CUST_37966	REST_1101	Texas	Houston	10/13/2024 2:53	Pizza	New	Standard	Cash	Delivered	24.48	1.96	7.52	0.5	0	34.46	30	3
+410	CUST_24099	REST_1733	New York	Buffalo	10/12/2024 9:37	Sushi	New	Express	Cash	Cancelled	21.62	1.73	5.69	6.77	0	35.81	59	3
+411	CUST_20601	REST_1906	New York	New York City	12/15/2024 5:55	Mexican	New	Standard	Credit Card	Delivered	32.21	2.58	4.77	9.15	0	48.71	46	1
+412	CUST_4722	REST_910	California	San Francisco	8/16/2024 9:19	Healthy	New	Express	Debit Card	Failed	48.98	3.92	3.79	8.84	0	65.53	18	3
+413	CUST_15191	REST_858	New York	Buffalo	12/2/2024 8:18	Sushi	Returning	Standard	Credit Card	Delivered	50.7	4.06	7.33	9.47	0	71.56	56	3
+414	CUST_26416	REST_1914	Texas	Austin	11/11/2024 11:22	Burgers	VIP	Express	Apple Pay	Delivered	20.85	1.67	5.26	4.31	0	32.09	61	1
+415	CUST_1717	REST_1613	California	San Diego	2/16/2024 19:22	Mexican	VIP	Express	Debit Card	Delivered	21.06	1.68	3.53	4.18	5	25.45	44	3
+416	CUST_11338	REST_1582	New York	New York City	5/6/2024 8:24	Healthy	VIP	Express	Apple Pay	Delivered	31.6	2.53	6.47	6.02	0	46.62	35	2
+417	CUST_39218	REST_883	New York	Rochester	6/21/2024 6:54	Sushi	New	Express	Apple Pay	Delivered	24.14	1.93	4.17	0.36	10	20.6	32	3
+418	CUST_36113	REST_175	Texas	Dallas	7/5/2024 15:05	Burgers	Returning	Express	Cash	Delivered	23.38	1.87	7.19	3.14	0	35.58	18	3
+419	CUST_13205	REST_674	Florida	Orlando	9/2/2024 1:25	Pizza	VIP	Standard	Credit Card	Delivered	46.42	3.71	4.13	9.04	0	63.3	26	1
+420	CUST_26095	REST_1960	Texas	Austin	9/10/2024 10:16	Mexican	VIP	Standard	Apple Pay	Delivered	22.75	1.82	3.83	3.18	0	31.58	50	4
+421	CUST_35172	REST_1416	Illinois	Springfield	4/27/2024 14:11	Fast Food	VIP	Express	Apple Pay	Delivered	22.91	1.83	4.49	6.63	5	30.86	29	4
+422	CUST_25860	REST_1783	New York	Buffalo	10/1/2024 12:41	Fast Food	New	Standard	Apple Pay	Delivered	23.32	1.87	3.75	2.96	10	21.9	50	2
+423	CUST_36349	REST_791	New York	Buffalo	8/11/2024 15:17	Healthy	Returning	Standard	Google Pay	Cancelled	53.81	4.3	3.66	6.42	0	68.19	50	1
+424	CUST_42107	REST_1132	Texas	Austin	8/18/2024 18:18	Mexican	New	Express	Debit Card	Delivered	24.69	1.98	6.39	8.75	5	36.81	64	2
+425	CUST_40560	REST_717	New York	Buffalo	1/5/2024 19:22	Desserts	VIP	Standard	Debit Card	Delivered	25.64	2.05	6.53	2.71	0	36.93	18	3
+426	CUST_1287	REST_1957	Texas	Houston	6/7/2024 2:56	Fast Food	VIP	Standard	Credit Card	Delivered	50.97	4.08	5.54	6.38	10	56.97	24	2
+427	CUST_38770	REST_986	Florida	Miami	7/12/2024 23:16	Fast Food	Returning	Express	Credit Card	Delivered	61.71	4.94	2.64	4.3	0	73.59	21	2
+428	CUST_38422	REST_1304	New York	New York City	11/1/2024 11:30	Pizza	New	Express	Cash	Delivered	35.13	2.81	5.33	4.92	0	48.19	16	2
+429	CUST_3537	REST_894	Florida	Tampa	10/6/2024 3:43	Fast Food	VIP	Express	Credit Card	Delivered	33.34	2.67	3.06	9.64	0	48.71	16	1
+430	CUST_5873	REST_543	New York	Rochester	5/23/2024 1:59	Mexican	New	Standard	Cash	Refunded	31.57	2.53	2.51	3.78	0	40.39	47	1
+431	CUST_30978	REST_1676	Illinois	Springfield	12/26/2024 21:41	Desserts	New	Standard	Google Pay	Failed	44.14	3.53	3.77	1.22	5	47.66	46	2
+432	CUST_43847	REST_604	California	San Francisco	3/29/2024 1:11	Healthy	VIP	Standard	Debit Card	Delivered	19.88	1.59	4.49	4.65	0	30.61	34	3
+433	CUST_49321	REST_1408	New York	Buffalo	2/29/2024 1:00	Fast Food	VIP	Standard	Apple Pay	Delivered	49.33	3.95	5.46	6.33	5	60.07	51	4
+434	CUST_4981	REST_773	California	San Francisco	12/5/2024 6:23	Fast Food	VIP	Express	Credit Card	Refunded	46.05	3.68	4.68	5.47	5	54.88	26	2
+435	CUST_28564	REST_263	Illinois	Naperville	2/5/2024 12:35	Healthy	New	Standard	Cash	Delivered	45.57	3.65	8.47	6.05	0	63.74	52	3
+436	CUST_6581	REST_1866	California	San Diego	5/30/2024 12:58	Desserts	Returning	Standard	Apple Pay	Delivered	43.42	3.47	2.99	9.24	0	59.12	20	4
+437	CUST_7638	REST_655	Texas	Houston	12/2/2024 12:22	Pizza	New	Standard	Apple Pay	Delivered	11.36	0.91	3.31	0.94	5	11.52	59	3
+438	CUST_14666	REST_884	New York	Rochester	12/8/2024 7:58	Burgers	New	Express	Google Pay	Delivered	43.5	3.48	4.29	8.91	0	60.18	60	2
+439	CUST_15252	REST_936	Texas	Dallas	7/8/2024 22:31	Mexican	New	Express	Cash	Delivered	42.3	3.38	3.01	5.49	0	54.18	39	4
+440	CUST_13853	REST_1467	Texas	Houston	9/3/2024 0:19	Fast Food	Returning	Express	Cash	Delivered	68.19	5.46	3.33	0.81	5	72.79	68	2
+441	CUST_29572	REST_951	Florida	Miami	1/16/2024 2:19	Pizza	New	Express	Apple Pay	Delivered	50.32	4.03	4.46	3.06	0	61.87	43	4
+442	CUST_19028	REST_375	Florida	Tampa	6/9/2024 2:59	Pizza	New	Standard	Cash	Delivered	39.06	3.12	3.27	5.78	0	51.23	18	3
+443	CUST_43932	REST_976	Texas	Dallas	10/1/2024 5:26	Fast Food	Returning	Express	Debit Card	Cancelled	20.82	1.67	2.65	2.85	0	27.99	33	4
+444	CUST_34691	REST_236	New York	New York City	7/18/2024 9:25	Fast Food	Returning	Express	Debit Card	Delivered	40.39	3.23	3.15	4.78	0	51.55	33	4
+445	CUST_20041	REST_526	New York	Buffalo	2/8/2024 18:11	Desserts	New	Express	Cash	Delivered	25.99	2.08	2.79	2.96	10	23.82	20	2
+446	CUST_31771	REST_475	Texas	Austin	8/17/2024 16:41	Desserts	VIP	Standard	Google Pay	Delivered	34.46	2.76	3.42	9.77	0	50.41	53	1
+447	CUST_22199	REST_1392	Florida	Orlando	11/19/2024 11:25	Sushi	Returning	Express	Apple Pay	Delivered	26.61	2.13	8.15	5.3	5	37.19	68	2
+448	CUST_11762	REST_1471	Texas	Austin	4/25/2024 21:03	Healthy	VIP	Standard	Google Pay	Refunded	48.95	3.92	4.88	7.56	0	65.31	37	1
+449	CUST_28405	REST_433	Illinois	Chicago	10/5/2024 17:27	Mexican	VIP	Standard	Debit Card	Delivered	13.08	1.05	7.39	4.67	0	26.19	42	1
+450	CUST_49344	REST_1046	Illinois	Naperville	7/26/2024 13:29	Fast Food	New	Express	Cash	Delivered	46.32	3.71	8.15	8.73	0	66.91	61	1
+451	CUST_32728	REST_1292	California	San Diego	3/4/2024 21:51	Fast Food	New	Standard	Debit Card	Delivered	23.35	1.87	4.99	7.3	0	37.51	21	4
+452	CUST_10121	REST_1639	Texas	Houston	11/1/2024 5:26	Burgers	VIP	Standard	Google Pay	Delivered	8.08	0.65	4.53	1.27	0	14.53	57	2
+453	CUST_48025	REST_855	Texas	Dallas	8/5/2024 3:00	Healthy	Returning	Express	Apple Pay	Delivered	33.54	2.68	3.09	1.16	0	40.47	41	4
+454	CUST_8354	REST_1154	California	Los Angeles	11/29/2024 17:27	Pizza	VIP	Standard	Cash	Delivered	30.11	2.41	4.28	1.43	0	38.23	31	3
+455	CUST_7411	REST_321	Illinois	Naperville	10/30/2024 13:25	Pizza	New	Standard	Cash	Delivered	38.32	3.07	3.7	3.15	5	43.24	40	1
+456	CUST_7533	REST_681	California	Los Angeles	9/11/2024 6:00	Desserts	Returning	Express	Apple Pay	Delivered	-5.07	-0.41	4.44	9.88	0	8.84	38	2
+457	CUST_8797	REST_961	New York	Buffalo	1/19/2024 4:17	Pizza	New	Standard	Cash	Delivered	43.18	3.45	6.53	4.81	5	52.97	23	2
+458	CUST_23195	REST_1610	Florida	Miami	11/27/2024 22:28	Mexican	Returning	Express	Apple Pay	Delivered	36.51	2.92	4.18	1.32	0	44.93	68	2
+459	CUST_16882	REST_679	Texas	Houston	9/15/2024 6:42	Desserts	New	Express	Google Pay	Delivered	54.42	4.35	7.93	8.35	0	75.05	18	1
+460	CUST_28832	REST_1208	California	San Francisco	4/7/2024 23:21	Burgers	Returning	Express	Credit Card	Delivered	31.87	2.55	3.81	9.35	0	47.58	30	3
+461	CUST_36892	REST_579	New York	New York City	6/15/2024 18:54	Burgers	Returning	Express	Cash	Cancelled	30.09	2.41	7.42	8.25	5	43.17	53	2
+462	CUST_25604	REST_1074	New York	Rochester	9/27/2024 6:28	Sushi	VIP	Express	Cash	Delivered	34.78	2.78	2.57	1.43	5	36.56	26	3
+463	CUST_30122	REST_656	California	San Francisco	10/20/2024 12:28	Sushi	VIP	Standard	Cash	Delivered	6.48	0.52	7.53	1.45	0	15.98	30	1
+464	CUST_3062	REST_938	Florida	Miami	7/13/2024 15:08	Pizza	VIP	Standard	Google Pay	Delivered	30.94	2.48	5.85	9.6	0	48.87	55	2
+465	CUST_35457	REST_1617	California	San Francisco	4/22/2024 4:43	Desserts	Returning	Express	Cash	Delivered	29.14	2.33	2.96	1.7	0	36.13	55	4
+466	CUST_28281	REST_1438	New York	Rochester	10/5/2024 10:05	Burgers	VIP	Express	Google Pay	Delivered	44.85	3.59	6.61	9.49	0	64.54	42	3
+467	CUST_42282	REST_1021	Illinois	Springfield	2/25/2024 14:08	Fast Food	Returning	Express	Google Pay	Delivered	30.66	2.45	4.51	1.77	0	39.39	30	4
+468	CUST_20281	REST_1189	Illinois	Chicago	4/3/2024 12:12	Burgers	New	Standard	Apple Pay	Delivered	34.23	2.74	3.52	0.51	0	41	59	2
+469	CUST_40449	REST_849	Illinois	Springfield	6/23/2024 11:46	Fast Food	New	Express	Debit Card	Refunded	59.13	4.73	6.38	8.44	0	78.68	59	4
+470	CUST_41437	REST_1398	Texas	Austin	8/3/2024 8:00	Fast Food	New	Standard	Apple Pay	Delivered	23.11	1.85	4.96	9.78	0	39.7	69	4
+471	CUST_33894	REST_1606	Illinois	Chicago	12/13/2024 0:18	Mexican	Returning	Express	Credit Card	Delivered	25.88	2.07	3.59	9.57	5	36.11	52	1
+472	CUST_21923	REST_784	Texas	Austin	5/5/2024 22:59	Desserts	New	Express	Credit Card	Delivered	35.46	2.84	8.48	1.35	0	48.13	58	3
+473	CUST_34949	REST_1712	Illinois	Springfield	8/1/2024 20:25	Desserts	New	Express	Google Pay	Delivered	28.02	2.24	6.52	4.84	0	41.62	37	3
+474	CUST_4159	REST_1426	California	Los Angeles	8/12/2024 20:56	Burgers	New	Express	Apple Pay	Delivered	20.91	1.67	3.69	3.15	0	29.42	56	3
+475	CUST_29967	REST_211	New York	Buffalo	2/19/2024 15:19	Desserts	Returning	Standard	Google Pay	Delivered	22.49	1.8	6.97	4.12	0	35.38	63	3
+476	CUST_31232	REST_157	Texas	Houston	5/27/2024 4:53	Pizza	VIP	Express	Google Pay	Delivered	49.72	3.98	5.01	5.99	0	64.7	20	3
+477	CUST_29311	REST_1654	Florida	Orlando	9/5/2024 5:05	Fast Food	New	Standard	Apple Pay	Delivered	35.77	2.86	8.15	1.74	0	48.52	63	4
+478	CUST_5603	REST_1249	New York	Rochester	12/9/2024 12:34	Desserts	VIP	Express	Cash	Delivered	30.68	2.45	7.88	1.96	0	42.97	39	4
+479	CUST_19255	REST_1871	Illinois	Springfield	8/13/2024 18:22	Mexican	VIP	Express	Debit Card	Delivered	53.71	4.3	7.98	5.72	0	71.71	32	2
+480	CUST_18898	REST_650	Florida	Miami	12/10/2024 12:05	Desserts	Returning	Express	Google Pay	Delivered	29.74	2.38	6.04	0.67	5	33.83	24	2
+481	CUST_28856	REST_371	New York	Buffalo	8/31/2024 17:59	Desserts	Returning	Standard	Cash	Delivered	15.93	1.27	7.68	3.09	0	27.97	66	1
+482	CUST_40683	REST_1037	Texas	Austin	9/3/2024 4:19	Desserts	Returning	Standard	Google Pay	Delivered	52.76	4.22	7.35	8.86	5	68.19	45	1
+483	CUST_24849	REST_1287	Illinois	Chicago	1/8/2024 2:47	Sushi	Returning	Standard	Google Pay	Delivered	30.3	2.42	3.33	0.01	10	26.06	26	1
+484	CUST_18174	REST_1738	Texas	Austin	3/14/2024 23:08	Sushi	VIP	Express	Cash	Failed	33.09	2.65	7.06	3.13	0	45.93	53	1
+485	CUST_46264	REST_592	New York	Rochester	5/30/2024 13:25	Burgers	VIP	Standard	Cash	Delivered	43.31	3.46	6.65	9.66	0	63.08	27	2
+486	CUST_3933	REST_951	Florida	Tampa	12/24/2024 9:54	Desserts	VIP	Standard	Google Pay	Delivered	43.82	3.51	5.53	3.12	0	55.98	33	2
+487	CUST_6586	REST_969	Illinois	Naperville	11/10/2024 18:46	Healthy	Returning	Standard	Credit Card	Delivered	40.81	3.26	4.44	7.65	0	56.16	44	3
+488	CUST_33335	REST_1623	Texas	Dallas	10/31/2024 15:46	Pizza	Returning	Standard	Cash	Delivered	41.4	3.31	4.1	8.12	0	56.93	31	3
+489	CUST_20581	REST_1562	Texas	Austin	6/21/2024 12:06	Desserts	VIP	Standard	Google Pay	Delivered	39.9	3.19	3.38	6.9	10	43.37	38	3
+490	CUST_24474	REST_1725	California	San Diego	1/26/2024 18:33	Fast Food	VIP	Standard	Debit Card	Delivered	41.61	3.33	2.88	1.77	0	49.59	68	4
+491	CUST_17574	REST_1323	Florida	Orlando	12/24/2024 7:50	Fast Food	New	Express	Apple Pay	Delivered	33.29	2.66	7.65	1.32	5	39.92	18	3
+492	CUST_10158	REST_271	Illinois	Naperville	9/2/2024 12:39	Sushi	VIP	Standard	Cash	Delivered	39.06	3.12	7.66	9.59	0	59.43	25	2
+493	CUST_34139	REST_1810	Texas	Houston	6/26/2024 3:36	Desserts	VIP	Express	Cash	Delivered	64.82	5.19	5.27	8.29	5	78.57	66	2
+494	CUST_6454	REST_1202	New York	Buffalo	9/9/2024 16:59	Mexican	New	Express	Credit Card	Refunded	38.18	3.05	6.85	1.13	0	49.21	29	2
+495	CUST_10916	REST_1379	Texas	Austin	10/18/2024 22:07	Healthy	Returning	Standard	Apple Pay	Delivered	46.56	3.72	7.68	1.32	10	49.28	63	1
+496	CUST_28125	REST_1600	California	Los Angeles	1/1/2024 1:14	Fast Food	VIP	Standard	Debit Card	Delivered	52.41	4.19	4.64	3.44	0	64.68	39	2
+497	CUST_16804	REST_856	Florida	Orlando	1/14/2024 7:26	Sushi	New	Express	Apple Pay	Delivered	32.82	2.63	6.48	5.95	0	47.88	51	4
+498	CUST_7054	REST_1605	Florida	Miami	11/1/2024 16:42	Mexican	Returning	Standard	Credit Card	Delivered	33.72	2.7	5.25	2.57	5	39.24	31	3
+499	CUST_41277	REST_931	Florida	Tampa	11/20/2024 4:19	Fast Food	Returning	Standard	Cash	Delivered	25.44	2.04	7.67	1.05	0	36.2	48	3
+500	CUST_40008	REST_612	Florida	Tampa	6/5/2024 5:58	Desserts	Returning	Express	Credit Card	Delivered	66.78	5.34	2.91	7.24	10	72.27	18	1
+501	CUST_6583	REST_901	California	Los Angeles	3/22/2024 10:58	Burgers	New	Standard	Google Pay	Delivered	52.47	4.2	3.16	0.36	10	50.19	56	4
+502	CUST_25746	REST_394	Illinois	Chicago	2/25/2024 16:12	Pizza	Returning	Express	Credit Card	Delivered	44.69	3.58	2.99	4.52	5	50.78	31	3
+503	CUST_38333	REST_1629	Texas	Dallas	5/25/2024 22:53	Desserts	VIP	Standard	Cash	Delivered	38.33	3.07	5.4	9.87	5	51.67	60	1
+504	CUST_35635	REST_1421	Texas	Houston	2/21/2024 17:42	Fast Food	New	Express	Apple Pay	Delivered	34.73	2.78	4.1	5.35	5	41.96	65	2
+505	CUST_30245	REST_385	Florida	Orlando	5/7/2024 19:23	Fast Food	Returning	Express	Debit Card	Delivered	18.93	1.51	5.07	0.61	0	26.12	25	4
+506	CUST_28025	REST_1882	New York	Rochester	5/5/2024 18:40	Desserts	VIP	Express	Google Pay	Failed	36.92	2.95	5.72	8.4	0	53.99	52	2
+507	CUST_19300	REST_996	Florida	Orlando	7/25/2024 13:55	Sushi	VIP	Standard	Debit Card	Cancelled	38.8	3.1	3.24	0.71	10	35.85	43	2
+508	CUST_1060	REST_1177	Florida	Orlando	11/16/2024 18:00	Healthy	Returning	Express	Credit Card	Delivered	24.38	1.95	3.98	8.6	0	38.91	30	4
+509	CUST_3155	REST_1970	California	Los Angeles	3/5/2024 3:09	Mexican	Returning	Express	Apple Pay	Cancelled	30.9	2.47	7.32	9.81	0	50.5	59	4
+510	CUST_25700	REST_1204	Florida	Orlando	7/24/2024 13:15	Healthy	Returning	Express	Debit Card	Delivered	35.02	2.8	3.46	6.91	0	48.19	20	2
+511	CUST_12360	REST_1402	Florida	Orlando	10/14/2024 8:19	Fast Food	VIP	Standard	Apple Pay	Refunded	25.49	2.04	4.91	7.93	0	40.37	27	3
+512	CUST_26279	REST_1342	Florida	Tampa	11/30/2024 11:26	Desserts	New	Standard	Apple Pay	Refunded	39.07	3.13	4.61	0.43	0	47.24	16	3
+513	CUST_36228	REST_645	California	San Francisco	4/6/2024 15:22	Sushi	New	Express	Debit Card	Delivered	29.82	2.39	5.37	7.68	0	45.26	55	3
+514	CUST_49128	REST_1696	New York	New York City	3/11/2024 2:57	Sushi	Returning	Standard	Google Pay	Delivered	63.01	5.04	6.25	8.08	0	82.38	46	2
+515	CUST_47270	REST_1805	New York	Buffalo	4/12/2024 9:06	Pizza	VIP	Express	Apple Pay	Delivered	41.45	3.32	5.81	2.42	0	53	26	4
+516	CUST_4565	REST_286	Florida	Tampa	7/26/2024 8:31	Fast Food	New	Standard	Google Pay	Delivered	46.09	3.69	4.68	8.24	0	62.7	16	3
+517	CUST_7858	REST_173	California	Los Angeles	10/18/2024 17:06	Sushi	New	Express	Cash	Delivered	19.22	1.54	4.97	0.72	0	26.45	62	3
+518	CUST_32376	REST_827	Illinois	Springfield	4/26/2024 5:40	Fast Food	Returning	Standard	Cash	Refunded	30.44	2.44	2.98	1.47	0	37.33	16	4
+519	CUST_2364	REST_760	Texas	Austin	11/13/2024 23:08	Mexican	New	Express	Cash	Delivered	25.65	2.05	5.92	5.82	5	34.44	43	4
+520	CUST_14393	REST_1652	Florida	Orlando	3/14/2024 12:16	Sushi	Returning	Express	Cash	Delivered	31.22	2.5	3.67	1.66	10	29.05	63	1
+521	CUST_33922	REST_1906	Texas	Austin	8/10/2024 3:17	Fast Food	VIP	Express	Google Pay	Delivered	67.14	5.37	5.97	0.55	0	79.03	69	3
+522	CUST_39367	REST_1816	Florida	Orlando	12/11/2024 19:25	Pizza	Returning	Standard	Cash	Delivered	35.78	2.86	5.04	3.42	10	37.1	47	2
+523	CUST_20810	REST_1835	California	Los Angeles	10/1/2024 16:43	Burgers	Returning	Express	Debit Card	Delivered	43.31	3.46	4.55	4.34	5	50.66	67	2
+524	CUST_10344	REST_660	Florida	Miami	9/19/2024 13:45	Burgers	Returning	Express	Apple Pay	Delivered	41.99	3.36	5.77	0.41	5	46.53	68	4
+525	CUST_20097	REST_189	Illinois	Naperville	5/23/2024 7:28	Healthy	VIP	Standard	Apple Pay	Delivered	62.11	4.97	5.38	6.62	0	79.08	47	2
+526	CUST_35305	REST_497	New York	Buffalo	4/30/2024 12:19	Mexican	Returning	Standard	Google Pay	Delivered	26.86	2.15	3.8	9.67	5	37.48	63	4
+527	CUST_43919	REST_1701	New York	New York City	8/5/2024 11:32	Burgers	VIP	Standard	Google Pay	Delivered	22.83	1.83	5.18	1.23	0	31.07	37	3
+528	CUST_40469	REST_998	Texas	Houston	7/23/2024 22:16	Mexican	New	Express	Google Pay	Delivered	45.18	3.61	7.53	5.51	0	61.83	54	2
+529	CUST_4089	REST_623	Illinois	Springfield	4/9/2024 13:15	Healthy	VIP	Express	Cash	Cancelled	39.83	3.19	5.59	4.97	0	53.58	68	2
+530	CUST_48668	REST_718	New York	Rochester	2/20/2024 7:06	Burgers	New	Standard	Credit Card	Delivered	32.89	2.63	5.83	5.84	0	47.19	21	3
+531	CUST_23469	REST_628	Florida	Orlando	3/9/2024 10:14	Mexican	Returning	Standard	Debit Card	Delivered	20.5	1.64	6.74	5.35	0	34.23	22	1
+532	CUST_25054	REST_1137	New York	Buffalo	9/23/2024 5:07	Sushi	Returning	Standard	Credit Card	Delivered	31.98	2.56	8.07	7.39	0	50	52	4
+533	CUST_47476	REST_965	Texas	Houston	4/28/2024 13:33	Desserts	New	Express	Debit Card	Delivered	30.6	2.45	5.69	5.64	0	44.38	36	1
+534	CUST_34541	REST_491	New York	Rochester	5/11/2024 17:04	Burgers	VIP	Express	Cash	Delivered	26.54	2.12	3.24	1.21	5	28.11	25	3
+535	CUST_6127	REST_903	Florida	Miami	5/19/2024 8:01	Sushi	Returning	Standard	Debit Card	Delivered	10.3	0.82	5.62	1.98	5	13.72	26	1
+536	CUST_9669	REST_778	Texas	Austin	1/14/2024 15:53	Burgers	Returning	Standard	Cash	Cancelled	39.27	3.14	7	8.05	0	57.46	37	3
+537	CUST_19064	REST_1174	New York	New York City	5/8/2024 5:37	Desserts	VIP	Standard	Credit Card	Delivered	34.64	2.77	4.52	9.21	0	51.14	38	3
+538	CUST_44046	REST_900	Illinois	Chicago	9/22/2024 23:07	Mexican	VIP	Standard	Google Pay	Delivered	28.45	2.28	4.52	1.8	0	37.05	42	1
+539	CUST_25600	REST_942	Florida	Tampa	8/31/2024 11:47	Pizza	New	Standard	Debit Card	Delivered	31.14	2.49	7.47	3.78	10	34.88	66	4
+540	CUST_24777	REST_695	New York	Rochester	12/8/2024 6:39	Burgers	VIP	Express	Cash	Delivered	28.91	2.31	8.16	2.51	0	41.89	64	1
+541	CUST_42136	REST_238	Texas	Dallas	9/2/2024 17:45	Burgers	VIP	Express	Debit Card	Cancelled	49.54	3.96	7.81	2.31	0	63.62	40	4
+542	CUST_30412	REST_961	New York	Rochester	6/9/2024 14:12	Mexican	New	Express	Debit Card	Delivered	16.42	1.31	6.71	2.85	0	27.29	37	3
+543	CUST_12673	REST_1537	Illinois	Chicago	11/5/2024 15:00	Sushi	VIP	Express	Google Pay	Delivered	32.93	2.63	3.18	1.72	0	40.46	33	1
+544	CUST_5763	REST_693	California	San Francisco	9/15/2024 7:58	Sushi	VIP	Standard	Credit Card	Delivered	24.67	1.97	3.11	7.52	10	27.27	36	4
+545	CUST_44790	REST_1096	California	San Diego	9/14/2024 4:06	Fast Food	Returning	Express	Credit Card	Delivered	36.49	2.92	3.26	5.82	5	43.49	25	2
+546	CUST_2798	REST_1163	New York	New York City	11/3/2024 12:40	Burgers	New	Express	Credit Card	Delivered	43.52	3.48	3.29	3.1	0	53.39	49	3
+547	CUST_23356	REST_595	California	Los Angeles	5/22/2024 15:35	Mexican	VIP	Standard	Cash	Delivered	33.04	2.64	3.85	6.17	0	45.7	63	3
+548	CUST_14161	REST_1532	Illinois	Naperville	5/30/2024 15:29	Mexican	New	Standard	Debit Card	Delivered	54.44	4.36	7.11	4.26	0	70.17	40	1
+549	CUST_28105	REST_977	California	San Francisco	9/12/2024 15:32	Sushi	Returning	Standard	Credit Card	Delivered	35.96	2.88	7.98	3.88	5	45.7	53	2
+550	CUST_17928	REST_170	Illinois	Springfield	12/30/2024 15:57	Desserts	VIP	Express	Credit Card	Delivered	24.69	1.98	4.68	9.38	0	40.73	22	1
+551	CUST_16198	REST_947	California	San Francisco	9/12/2024 18:09	Fast Food	VIP	Express	Debit Card	Delivered	24.64	1.97	3.95	2.03	10	22.59	39	3
+552	CUST_37770	REST_1633	Illinois	Springfield	4/7/2024 3:36	Burgers	Returning	Express	Credit Card	Delivered	15.52	1.24	5.11	8.7	0	30.57	69	2
+553	CUST_41563	REST_1192	Florida	Miami	4/14/2024 13:03	Sushi	VIP	Standard	Google Pay	Delivered	21.65	1.73	3.96	2.92	10	20.26	15	3
+554	CUST_49885	REST_1213	New York	Rochester	12/17/2024 16:47	Burgers	New	Express	Apple Pay	Delivered	34.61	2.77	8.22	8.66	0	54.26	52	3
+555	CUST_3429	REST_1090	Texas	Austin	5/29/2024 3:48	Sushi	VIP	Express	Google Pay	Delivered	42.63	3.41	4.04	9.34	0	59.42	61	4
+556	CUST_36919	REST_796	Florida	Miami	2/17/2024 18:42	Healthy	VIP	Express	Debit Card	Delivered	15.52	1.24	5.51	9.1	5	26.37	29	3
+557	CUST_41633	REST_1978	Texas	Houston	7/13/2024 21:48	Fast Food	VIP	Express	Google Pay	Delivered	25.81	2.06	5.8	4.17	5	32.84	34	3
+558	CUST_1402	REST_513	Florida	Orlando	5/30/2024 15:36	Mexican	VIP	Standard	Apple Pay	Delivered	34.59	2.77	4.91	5.03	5	42.3	28	2
+559	CUST_29902	REST_552	Illinois	Chicago	12/21/2024 19:51	Sushi	Returning	Express	Debit Card	Delivered	48.7	3.9	2.54	4.57	0	59.71	24	2
+560	CUST_25660	REST_1153	California	Los Angeles	5/7/2024 18:20	Burgers	VIP	Standard	Apple Pay	Delivered	29.69	2.38	3.08	7.2	0	42.35	23	1
+561	CUST_40520	REST_545	California	San Francisco	3/9/2024 19:39	Desserts	VIP	Standard	Apple Pay	Delivered	30	2.4	7.2	0.11	5	34.71	63	4
+562	CUST_14844	REST_191	New York	New York City	4/17/2024 9:30	Mexican	VIP	Express	Google Pay	Refunded	34.24	2.74	7.82	8.94	0	53.74	60	3
+563	CUST_48340	REST_1510	New York	Rochester	6/30/2024 4:55	Burgers	New	Standard	Cash	Cancelled	10.9	0.87	8.21	8.24	5	23.22	49	1
+564	CUST_22939	REST_783	New York	New York City	2/9/2024 2:24	Desserts	VIP	Express	Cash	Delivered	31.19	2.5	5.14	5.1	0	43.93	35	4
+565	CUST_9070	REST_1241	Illinois	Naperville	7/16/2024 18:52	Burgers	New	Express	Debit Card	Delivered	45.16	3.61	2.54	8.11	10	49.42	56	3
+566	CUST_47098	REST_1652	New York	Buffalo	10/2/2024 8:16	Healthy	VIP	Express	Debit Card	Delivered	36.76	2.94	2.64	5.34	0	47.68	32	1
+567	CUST_18106	REST_879	Illinois	Chicago	9/2/2024 6:16	Healthy	Returning	Express	Google Pay	Delivered	34.08	2.73	3.12	2.95	0	42.88	44	4
+568	CUST_48374	REST_1019	New York	New York City	7/21/2024 2:22	Burgers	VIP	Express	Debit Card	Delivered	33.23	2.66	4.81	3.47	0	44.17	49	2
+569	CUST_35618	REST_1219	New York	New York City	10/9/2024 18:44	Fast Food	New	Express	Google Pay	Delivered	27.92	2.23	3.85	5.05	0	39.05	36	2
+570	CUST_28445	REST_1602	Illinois	Chicago	1/27/2024 17:58	Sushi	VIP	Express	Apple Pay	Delivered	43.38	3.47	3.34	5.69	5	50.88	21	4
+571	CUST_10219	REST_266	New York	Rochester	2/7/2024 8:58	Fast Food	VIP	Express	Apple Pay	Refunded	27.21	2.18	6.1	5.5	0	40.99	39	4
+572	CUST_14180	REST_777	Texas	Austin	7/22/2024 1:42	Sushi	Returning	Standard	Google Pay	Delivered	39.52	3.16	3.54	2.67	0	48.89	29	4
+573	CUST_22387	REST_1994	New York	Rochester	8/4/2024 0:06	Desserts	Returning	Express	Google Pay	Delivered	33.83	2.71	4.42	1.92	0	42.88	24	3
+574	CUST_3042	REST_602	New York	Rochester	4/17/2024 16:03	Desserts	Returning	Express	Credit Card	Delivered	11.07	0.89	4.93	0.03	5	11.92	48	2
+575	CUST_14890	REST_608	Florida	Tampa	2/14/2024 18:33	Pizza	New	Express	Credit Card	Delivered	33.33	2.67	3.81	1.34	10	31.15	62	1
+576	CUST_38939	REST_1769	Florida	Tampa	1/7/2024 12:55	Fast Food	VIP	Standard	Credit Card	Delivered	49.46	3.96	7.77	0.9	5	57.09	46	2
+577	CUST_16138	REST_1602	Florida	Orlando	8/6/2024 12:18	Fast Food	VIP	Standard	Apple Pay	Delivered	32.31	2.58	5.17	3.03	5	38.09	39	4
+578	CUST_34122	REST_1972	California	Los Angeles	11/19/2024 13:13	Pizza	Returning	Express	Apple Pay	Delivered	47.25	3.78	2.58	6.44	0	60.05	27	4
+579	CUST_30113	REST_495	Florida	Tampa	3/6/2024 19:27	Fast Food	VIP	Standard	Apple Pay	Delivered	47.56	3.8	4.32	8.12	0	63.8	34	3
+580	CUST_6065	REST_452	Florida	Tampa	2/8/2024 12:40	Sushi	New	Express	Apple Pay	Delivered	44.12	3.53	3.13	5.69	0	56.47	68	4
+581	CUST_37713	REST_1239	California	Los Angeles	5/7/2024 12:34	Mexican	New	Standard	Apple Pay	Delivered	10.24	0.82	5.98	8.89	0	25.93	22	3
+582	CUST_44539	REST_540	New York	Buffalo	3/15/2024 12:06	Sushi	New	Standard	Apple Pay	Delivered	31.19	2.5	4.28	9.3	0	47.27	30	1
+583	CUST_37863	REST_313	Texas	Dallas	7/17/2024 6:16	Healthy	VIP	Standard	Credit Card	Delivered	20.19	1.62	4.32	6.21	0	32.34	29	4
+584	CUST_27756	REST_1098	Texas	Dallas	12/14/2024 7:36	Desserts	Returning	Express	Credit Card	Cancelled	33.02	2.64	7.09	2.66	5	40.41	68	1
+585	CUST_27639	REST_921	California	San Francisco	10/19/2024 18:30	Desserts	New	Standard	Debit Card	Delivered	22.49	1.8	5.09	9.99	0	39.37	48	4
+586	CUST_20091	REST_1915	Florida	Miami	1/2/2024 12:40	Burgers	New	Express	Debit Card	Delivered	24.16	1.93	4.1	9.11	0	39.3	44	2
+587	CUST_19312	REST_1699	New York	Buffalo	5/7/2024 6:41	Mexican	Returning	Standard	Google Pay	Delivered	49.03	3.92	8.32	4.54	0	65.81	65	3
+588	CUST_14753	REST_1326	California	San Diego	9/16/2024 2:55	Desserts	Returning	Standard	Credit Card	Delivered	30.05	2.4	4.17	9.31	0	45.93	35	3
+589	CUST_36712	REST_380	Texas	Austin	8/10/2024 5:45	Desserts	VIP	Standard	Google Pay	Delivered	44.03	3.52	5.59	5.39	0	58.53	34	3
+590	CUST_9772	REST_876	California	San Diego	7/9/2024 18:01	Healthy	New	Express	Google Pay	Delivered	39.31	3.14	7.46	7.01	0	56.92	52	1
+591	CUST_29036	REST_1105	Florida	Tampa	1/10/2024 17:11	Fast Food	Returning	Express	Cash	Delivered	43.1	3.45	4.53	9.14	10	50.22	35	1
+592	CUST_24183	REST_1380	California	San Francisco	12/11/2024 5:43	Burgers	New	Standard	Cash	Delivered	33.09	2.65	2.84	3.43	0	42.01	17	4
+593	CUST_29477	REST_457	New York	Rochester	2/16/2024 12:55	Healthy	New	Standard	Credit Card	Cancelled	34.94	2.8	7.72	7.37	0	52.83	25	4
+594	CUST_30685	REST_952	Texas	Dallas	9/20/2024 0:52	Pizza	New	Standard	Google Pay	Delivered	39.45	3.16	6.53	3.34	0	52.48	34	4
+595	CUST_21981	REST_1715	Florida	Miami	2/27/2024 13:30	Fast Food	Returning	Standard	Apple Pay	Cancelled	40.52	3.24	6	6.84	5	51.6	59	2
+596	CUST_38275	REST_531	Illinois	Springfield	2/6/2024 21:06	Healthy	Returning	Express	Cash	Delivered	61.93	4.95	6.03	8.4	0	81.31	28	1
+597	CUST_28867	REST_939	Florida	Orlando	8/12/2024 8:56	Desserts	New	Express	Apple Pay	Delivered	16.38	1.31	2.66	7.35	0	27.7	19	2
+598	CUST_32816	REST_1022	Illinois	Springfield	5/14/2024 9:35	Healthy	VIP	Standard	Credit Card	Refunded	42.94	3.44	4.2	6.94	0	57.52	24	2
+599	CUST_26601	REST_303	Florida	Orlando	6/1/2024 21:02	Pizza	Returning	Standard	Cash	Delivered	15.36	1.23	7.16	0.71	0	24.46	34	3
+600	CUST_30299	REST_848	Texas	Austin	1/24/2024 15:19	Sushi	New	Standard	Cash	Delivered	46.3	3.7	6.34	3.14	10	49.48	61	3
+601	CUST_6577	REST_1670	New York	New York City	2/15/2024 22:10	Burgers	Returning	Standard	Credit Card	Failed	41.61	3.33	2.79	4.84	0	52.57	50	4
+602	CUST_47858	REST_804	Florida	Orlando	1/16/2024 16:50	Desserts	VIP	Standard	Google Pay	Delivered	19.61	1.57	3.9	1.57	0	26.65	65	4
+603	CUST_40937	REST_1100	Florida	Orlando	10/25/2024 4:34	Mexican	VIP	Standard	Credit Card	Delivered	15.02	1.2	7.77	1.97	10	15.96	46	4
+604	CUST_39967	REST_646	Florida	Orlando	10/2/2024 17:52	Healthy	Returning	Standard	Credit Card	Delivered	31.5	2.52	8.17	6.77	0	48.96	68	4
+605	CUST_32076	REST_280	Texas	Dallas	8/4/2024 15:57	Mexican	Returning	Express	Debit Card	Delivered	23.23	1.86	5.04	4.52	5	29.65	18	4
+606	CUST_2044	REST_1735	Florida	Tampa	6/28/2024 20:17	Desserts	VIP	Express	Apple Pay	Delivered	35.4	2.83	4.62	6.56	0	49.41	53	3
+607	CUST_23259	REST_275	New York	New York City	2/8/2024 21:25	Healthy	New	Express	Apple Pay	Delivered	46.67	3.73	5.92	8.32	10	54.64	47	3
+608	CUST_41164	REST_1717	Florida	Orlando	12/24/2024 14:50	Healthy	VIP	Express	Cash	Delivered	33.67	2.69	7.29	1.07	5	39.72	26	1
+609	CUST_14100	REST_461	Illinois	Chicago	9/26/2024 22:11	Fast Food	Returning	Standard	Debit Card	Delivered	47.83	3.83	8.12	9.41	0	69.19	47	4
+610	CUST_22400	REST_1266	California	San Diego	4/9/2024 17:08	Burgers	New	Standard	Apple Pay	Delivered	25.72	2.06	4.13	0.04	0	31.95	56	1
+611	CUST_32345	REST_161	California	San Francisco	11/30/2024 3:17	Sushi	New	Standard	Cash	Delivered	24.15	1.93	7.89	9.35	10	33.32	52	1
+612	CUST_24525	REST_560	Illinois	Naperville	12/27/2024 17:57	Mexican	Returning	Standard	Google Pay	Delivered	33.87	2.71	4.12	8.2	10	38.9	28	1
+613	CUST_44241	REST_1155	Texas	Austin	4/1/2024 19:36	Burgers	New	Standard	Credit Card	Delivered	36.17	2.89	6.28	9.88	0	55.22	17	2
+614	CUST_7041	REST_485	California	San Diego	4/23/2024 11:28	Sushi	New	Express	Debit Card	Failed	33.19	2.66	7.4	3.78	0	47.03	60	4
+615	CUST_9012	REST_1745	Texas	Dallas	1/25/2024 18:12	Sushi	Returning	Standard	Apple Pay	Delivered	39.85	3.19	6.86	7.87	0	57.77	56	4
+616	CUST_19174	REST_1577	Illinois	Springfield	11/25/2024 23:42	Fast Food	VIP	Express	Credit Card	Delivered	24.05	1.92	4.66	7.53	0	38.16	17	1
+617	CUST_11762	REST_1994	Florida	Miami	1/3/2024 23:52	Pizza	Returning	Standard	Google Pay	Refunded	21.38	1.71	7.85	8.14	5	34.08	32	1
+618	CUST_21081	REST_590	Texas	Austin	4/9/2024 7:51	Healthy	Returning	Standard	Credit Card	Delivered	15.73	1.26	2.6	8.74	0	28.33	44	4
+619	CUST_11450	REST_826	New York	Buffalo	4/7/2024 14:08	Sushi	Returning	Standard	Cash	Refunded	42.37	3.39	6.49	3.43	0	55.68	46	2
+620	CUST_25530	REST_328	Texas	Austin	1/27/2024 18:49	Burgers	New	Standard	Apple Pay	Delivered	24.57	1.97	2.54	4.23	5	28.31	61	4
+621	CUST_29804	REST_633	New York	New York City	10/5/2024 6:25	Burgers	Returning	Express	Cash	Delivered	29.12	2.33	5.14	0.69	0	37.28	42	1
+622	CUST_36983	REST_1840	Illinois	Springfield	4/16/2024 22:32	Fast Food	VIP	Express	Apple Pay	Failed	22.22	1.78	5.43	2.04	0	31.47	40	4
+623	CUST_35550	REST_545	Illinois	Naperville	8/28/2024 5:01	Sushi	New	Standard	Credit Card	Delivered	55.98	4.48	6.02	4.92	0	71.4	20	2
+624	CUST_6682	REST_1786	Florida	Orlando	5/29/2024 21:05	Pizza	VIP	Express	Google Pay	Delivered	30.31	2.42	5.42	9.35	0	47.5	54	2
+625	CUST_46836	REST_325	Illinois	Naperville	3/29/2024 12:20	Pizza	Returning	Standard	Google Pay	Delivered	52.78	4.22	3.82	1.65	0	62.47	48	3
+626	CUST_36312	REST_1526	Illinois	Naperville	8/17/2024 2:41	Pizza	VIP	Standard	Debit Card	Delivered	31.6	2.53	8.41	6.66	0	49.2	53	1
+627	CUST_39411	REST_432	Illinois	Chicago	5/12/2024 2:10	Desserts	Returning	Express	Debit Card	Delivered	32.86	2.63	8.34	0.05	0	43.88	51	1
+628	CUST_1028	REST_1030	Illinois	Naperville	7/26/2024 15:23	Mexican	VIP	Standard	Credit Card	Delivered	12.84	1.03	4.84	7.33	0	26.04	29	4
+629	CUST_2906	REST_1355	Florida	Miami	12/16/2024 9:40	Fast Food	VIP	Standard	Debit Card	Delivered	34.01	2.72	4.53	0.07	0	41.33	17	2
+630	CUST_44813	REST_1722	New York	Rochester	11/29/2024 15:00	Mexican	VIP	Standard	Apple Pay	Delivered	37.92	3.03	3.23	6.33	5	45.51	15	1
+631	CUST_36321	REST_1879	Texas	Dallas	10/9/2024 9:58	Desserts	New	Standard	Debit Card	Delivered	51.88	4.15	5.4	8.98	10	60.41	53	4
+632	CUST_6188	REST_710	Texas	Houston	9/4/2024 13:21	Desserts	VIP	Express	Cash	Delivered	29.19	2.34	8.31	1.48	10	31.32	16	4
+633	CUST_37839	REST_716	New York	Buffalo	6/9/2024 6:29	Desserts	New	Express	Google Pay	Delivered	37.75	3.02	5.72	5.03	0	51.52	16	3
+634	CUST_24806	REST_1440	Illinois	Springfield	4/10/2024 20:57	Burgers	New	Standard	Debit Card	Delivered	34.43	2.75	2.58	5.42	0	45.18	64	1
+635	CUST_34688	REST_924	Florida	Orlando	4/30/2024 5:40	Healthy	Returning	Express	Cash	Refunded	39.88	3.19	3.53	8.72	0	55.32	26	2
+636	CUST_17251	REST_920	California	San Diego	9/17/2024 1:21	Sushi	Returning	Standard	Google Pay	Refunded	23.46	1.88	4.1	0.31	0	29.75	19	4
+637	CUST_9169	REST_650	Illinois	Chicago	4/13/2024 21:32	Mexican	New	Express	Debit Card	Refunded	36.66	2.93	5.78	0.89	0	46.26	46	2
+638	CUST_11929	REST_1712	New York	Buffalo	8/3/2024 15:46	Healthy	VIP	Standard	Debit Card	Refunded	21.97	1.76	5.19	1.02	0	29.94	46	2
+639	CUST_15086	REST_615	Texas	Austin	1/15/2024 3:48	Mexican	VIP	Express	Credit Card	Delivered	19.76	1.58	6.78	8.74	0	36.86	69	4
+640	CUST_18560	REST_1912	Illinois	Chicago	8/14/2024 17:28	Burgers	VIP	Standard	Google Pay	Refunded	43.03	3.44	7.05	1.06	0	54.58	57	1
+641	CUST_8910	REST_1611	Texas	Dallas	7/4/2024 13:28	Sushi	VIP	Standard	Cash	Delivered	47.94	3.84	5.46	4.72	0	61.96	47	4
+642	CUST_28169	REST_695	Florida	Tampa	7/7/2024 21:16	Mexican	VIP	Standard	Credit Card	Delivered	31.07	2.49	8.01	9.08	0	50.65	24	2
+643	CUST_43255	REST_1862	New York	New York City	12/9/2024 20:10	Fast Food	Returning	Standard	Cash	Delivered	24.39	1.95	5.26	3.07	0	34.67	54	2
+644	CUST_10503	REST_908	New York	Buffalo	1/12/2024 2:48	Pizza	New	Express	Cash	Delivered	28.75	2.3	6.53	3.29	0	40.87	41	4
+645	CUST_27849	REST_1042	New York	Buffalo	6/1/2024 1:08	Fast Food	Returning	Express	Apple Pay	Delivered	52.13	4.17	4.53	5.64	0	66.47	40	1
+646	CUST_20049	REST_1859	Texas	Houston	6/30/2024 6:45	Pizza	New	Standard	Google Pay	Delivered	29.97	2.4	7.43	4.29	0	44.09	54	4
+647	CUST_23754	REST_419	Florida	Orlando	9/12/2024 15:23	Mexican	Returning	Express	Cash	Delivered	43.16	3.45	5.77	2.7	5	50.08	68	2
+648	CUST_45527	REST_1098	California	San Diego	3/26/2024 18:29	Fast Food	New	Express	Credit Card	Delivered	32.61	2.61	3.18	0.04	10	28.44	37	3
+649	CUST_30059	REST_313	Illinois	Springfield	1/15/2024 10:36	Mexican	New	Standard	Google Pay	Refunded	38.42	3.07	3.67	3.13	0	48.29	37	3
+650	CUST_43122	REST_1352	California	San Diego	3/30/2024 18:10	Sushi	VIP	Express	Apple Pay	Delivered	32.31	2.58	5.33	9.81	5	45.03	64	2
+651	CUST_33536	REST_120	Texas	Austin	4/27/2024 9:34	Healthy	VIP	Standard	Google Pay	Delivered	23.33	1.87	6.85	5.05	0	37.1	29	3
+652	CUST_34932	REST_1192	Texas	Austin	2/17/2024 21:20	Sushi	VIP	Standard	Apple Pay	Delivered	41.17	3.29	3.43	3.01	0	50.9	28	4
+653	CUST_3765	REST_166	Texas	Austin	1/9/2024 18:34	Sushi	Returning	Standard	Apple Pay	Cancelled	36.76	2.94	2.83	8.36	0	50.89	26	1
+654	CUST_39043	REST_753	New York	Rochester	11/17/2024 1:14	Fast Food	VIP	Express	Credit Card	Delivered	28.73	2.3	6.06	2.1	0	39.19	31	4
+655	CUST_36863	REST_420	New York	Buffalo	11/21/2024 18:23	Sushi	VIP	Standard	Credit Card	Refunded	46.93	3.75	7.2	9.37	0	67.25	26	1
+656	CUST_22225	REST_774	California	Los Angeles	12/28/2024 7:59	Mexican	Returning	Express	Google Pay	Delivered	51.49	4.12	2.51	8.94	0	67.06	56	4
+657	CUST_15435	REST_360	New York	Rochester	7/28/2024 13:17	Healthy	VIP	Express	Cash	Delivered	42.9	3.43	7.83	6.93	0	61.09	48	2
+658	CUST_3983	REST_1215	Illinois	Springfield	11/23/2024 6:46	Fast Food	Returning	Express	Credit Card	Delivered	47.55	3.8	2.59	7.81	0	61.75	53	4
+659	CUST_47057	REST_349	Texas	Austin	2/22/2024 17:37	Fast Food	New	Standard	Debit Card	Cancelled	50.98	4.08	7.97	5.54	0	68.57	62	4
+660	CUST_38266	REST_157	Illinois	Naperville	12/25/2024 2:22	Mexican	New	Standard	Google Pay	Delivered	12.67	1.01	7.86	9.2	0	30.74	65	2
+661	CUST_16898	REST_1739	California	Los Angeles	2/10/2024 15:44	Burgers	New	Standard	Cash	Delivered	42.83	3.43	3.02	4.64	0	53.92	18	3
+662	CUST_23301	REST_1145	New York	Buffalo	5/26/2024 20:58	Pizza	New	Standard	Cash	Delivered	45.59	3.65	7.52	2.15	0	58.91	55	2
+663	CUST_45398	REST_1893	Texas	Houston	9/14/2024 11:53	Desserts	New	Standard	Google Pay	Delivered	30.38	2.43	7.9	9.41	0	50.12	24	2
+664	CUST_22630	REST_1227	Texas	Austin	8/23/2024 22:07	Sushi	Returning	Express	Debit Card	Delivered	45.57	3.65	4.03	3.65	5	51.9	46	3
+665	CUST_25161	REST_236	Illinois	Chicago	9/13/2024 10:51	Burgers	Returning	Standard	Cash	Delivered	38.92	3.11	7.71	4.32	10	44.06	49	2
+666	CUST_42661	REST_1041	New York	New York City	7/17/2024 14:52	Sushi	Returning	Express	Cash	Delivered	18.33	1.47	8.46	6.98	0	35.24	60	2
+667	CUST_42307	REST_1931	Texas	Houston	5/18/2024 15:07	Mexican	Returning	Standard	Debit Card	Delivered	35.57	2.85	3.48	5.66	0	47.56	29	4
+668	CUST_35592	REST_543	California	Los Angeles	9/29/2024 0:46	Burgers	New	Express	Debit Card	Delivered	32.92	2.63	5.4	7.28	0	48.23	27	1
+669	CUST_32021	REST_1515	Florida	Miami	7/4/2024 20:04	Desserts	Returning	Standard	Google Pay	Delivered	36.01	2.88	5.56	5.46	0	49.91	63	1
+670	CUST_2469	REST_729	Illinois	Springfield	7/13/2024 10:11	Burgers	New	Express	Credit Card	Delivered	30.98	2.48	7.73	2.37	10	33.56	67	2
+671	CUST_20276	REST_1303	New York	New York City	7/24/2024 6:55	Pizza	New	Express	Debit Card	Delivered	29.91	2.39	5.26	2.86	0	40.42	57	3
+672	CUST_4641	REST_1216	Florida	Miami	7/14/2024 19:15	Sushi	New	Standard	Credit Card	Failed	29.56	2.36	7.71	4.14	0	43.77	53	4
+673	CUST_46712	REST_229	New York	Rochester	1/7/2024 22:38	Mexican	Returning	Standard	Google Pay	Delivered	9.74	0.78	8.17	6.74	0	25.43	43	2
+674	CUST_15692	REST_1836	New York	Rochester	10/10/2024 14:30	Burgers	VIP	Standard	Apple Pay	Delivered	59.51	4.76	5.52	0.6	10	60.39	46	4
+675	CUST_34435	REST_1422	Florida	Tampa	9/26/2024 12:54	Mexican	New	Standard	Debit Card	Delivered	43.77	3.5	8.31	8.9	0	64.48	49	3
+676	CUST_49113	REST_697	Illinois	Naperville	11/22/2024 5:31	Healthy	New	Standard	Apple Pay	Delivered	41.46	3.32	5.84	7.43	0	58.05	31	4
+677	CUST_2531	REST_1485	California	Los Angeles	3/31/2024 0:45	Desserts	VIP	Express	Credit Card	Delivered	32.88	2.63	5.87	8.49	0	49.87	43	2
+678	CUST_27149	REST_1304	Florida	Tampa	1/20/2024 15:16	Healthy	Returning	Express	Debit Card	Delivered	21.64	1.73	6.46	5.23	0	35.06	50	2
+679	CUST_9593	REST_1074	Texas	Austin	10/26/2024 11:54	Burgers	Returning	Express	Cash	Delivered	19.76	1.58	5.05	3.86	10	20.25	58	3
+680	CUST_42169	REST_1779	California	San Diego	4/25/2024 2:33	Healthy	VIP	Standard	Google Pay	Delivered	29.73	2.38	4.07	4.36	0	40.54	46	2
+681	CUST_43899	REST_232	Illinois	Chicago	12/11/2024 19:21	Pizza	New	Express	Credit Card	Delivered	24.24	1.94	5.44	0.76	0	32.38	43	4
+682	CUST_40601	REST_261	California	San Francisco	2/15/2024 21:07	Sushi	VIP	Standard	Apple Pay	Refunded	45.2	3.62	6.84	0.32	0	55.98	54	1
+683	CUST_12258	REST_1335	Illinois	Naperville	10/13/2024 21:43	Sushi	New	Express	Cash	Delivered	13.15	1.05	7.94	1.91	0	24.05	58	4
+684	CUST_20563	REST_318	Texas	Austin	12/29/2024 16:58	Burgers	New	Express	Apple Pay	Delivered	26.53	2.12	4.11	8.11	0	40.87	63	4
+685	CUST_42831	REST_303	New York	New York City	7/9/2024 22:31	Healthy	VIP	Express	Debit Card	Delivered	40.8	3.26	8.31	7.14	10	49.51	33	3
+686	CUST_49367	REST_1013	Illinois	Springfield	3/22/2024 20:50	Healthy	VIP	Standard	Debit Card	Delivered	47.73	3.82	4.93	9.7	0	66.18	57	3
+687	CUST_10843	REST_635	Texas	Austin	6/25/2024 16:11	Pizza	Returning	Standard	Apple Pay	Delivered	37.05	2.96	3.93	3.89	0	47.83	21	3
+688	CUST_23538	REST_1452	Illinois	Chicago	8/21/2024 16:28	Mexican	Returning	Express	Debit Card	Delivered	30.68	2.45	3.71	0.8	0	37.64	18	4
+689	CUST_45874	REST_1794	Illinois	Chicago	8/7/2024 12:22	Pizza	New	Standard	Apple Pay	Cancelled	42.39	3.39	3.74	8.74	0	58.26	27	3
+690	CUST_26596	REST_115	Florida	Tampa	12/24/2024 14:56	Pizza	VIP	Express	Google Pay	Delivered	32.36	2.59	3.43	2.26	0	40.64	51	1
+691	CUST_17956	REST_1661	California	San Francisco	5/3/2024 18:06	Burgers	New	Express	Debit Card	Delivered	47.41	3.79	5.83	9.02	10	56.05	53	3
+692	CUST_18733	REST_1748	Illinois	Chicago	11/21/2024 10:28	Burgers	New	Standard	Credit Card	Delivered	30.11	2.41	2.87	7.15	0	42.54	42	2
+693	CUST_30011	REST_1175	Florida	Orlando	6/1/2024 0:00	Desserts	Returning	Express	Apple Pay	Delivered	20.99	1.68	5.15	3.34	0	31.16	55	2
+694	CUST_24184	REST_697	Florida	Orlando	10/13/2024 16:54	Burgers	Returning	Express	Credit Card	Delivered	35.11	2.81	2.51	2.83	5	38.26	16	3
+695	CUST_33694	REST_1802	Florida	Miami	12/7/2024 4:03	Desserts	Returning	Express	Debit Card	Delivered	51.42	4.11	5.86	3.86	0	65.25	28	4
+696	CUST_38276	REST_1855	Illinois	Naperville	8/15/2024 16:20	Fast Food	Returning	Standard	Apple Pay	Refunded	23.01	1.84	8.35	8.26	0	41.46	17	1
+697	CUST_30401	REST_688	Illinois	Chicago	10/1/2024 0:01	Pizza	Returning	Standard	Cash	Delivered	30.57	2.45	6.51	4.1	0	43.63	28	4
+698	CUST_40373	REST_111	Illinois	Springfield	11/18/2024 14:50	Healthy	VIP	Standard	Debit Card	Delivered	37.57	3.01	7.63	7.49	0	55.7	43	3
+699	CUST_27986	REST_991	Florida	Tampa	10/22/2024 16:20	Pizza	VIP	Standard	Google Pay	Delivered	14.49	1.16	7.34	5.23	0	28.22	38	4
+700	CUST_21800	REST_489	New York	Buffalo	2/12/2024 22:22	Healthy	Returning	Express	Google Pay	Delivered	49.76	3.98	3.02	6.05	0	62.81	55	4
+701	CUST_20648	REST_1439	California	San Diego	6/1/2024 14:25	Mexican	VIP	Express	Apple Pay	Failed	27.4	2.19	5.65	6.52	5	36.76	26	2
+702	CUST_43782	REST_1924	California	San Diego	9/23/2024 11:41	Burgers	Returning	Standard	Apple Pay	Refunded	23.3	1.86	6.96	4.38	5	31.5	55	2
+703	CUST_27370	REST_910	Illinois	Chicago	7/2/2024 23:08	Pizza	New	Standard	Debit Card	Delivered	37.16	2.97	3.01	4.5	5	42.64	17	4
+704	CUST_47136	REST_1685	Florida	Tampa	11/14/2024 10:14	Mexican	New	Standard	Credit Card	Delivered	45.05	3.6	4.08	7.24	0	59.97	29	2
+705	CUST_16754	REST_1188	New York	New York City	3/22/2024 19:40	Desserts	VIP	Express	Google Pay	Delivered	28.44	2.28	5.01	2.51	0	38.24	15	3
+706	CUST_20859	REST_1205	Illinois	Naperville	7/31/2024 19:22	Fast Food	New	Express	Cash	Delivered	26.9	2.15	4.33	0.73	10	24.11	47	4
+707	CUST_43733	REST_420	Texas	Houston	9/26/2024 3:04	Pizza	VIP	Express	Apple Pay	Delivered	58.28	4.66	5.64	8.74	0	77.32	65	3
+708	CUST_4258	REST_1009	Illinois	Springfield	10/25/2024 4:16	Burgers	VIP	Express	Credit Card	Delivered	50.45	4.04	2.6	3.73	0	60.82	56	2
+709	CUST_13663	REST_842	New York	Rochester	10/14/2024 9:31	Mexican	Returning	Express	Credit Card	Delivered	24.54	1.96	6.16	3.82	0	36.48	41	1
+710	CUST_17940	REST_1575	New York	Buffalo	1/22/2024 1:45	Sushi	VIP	Standard	Debit Card	Delivered	51.28	4.1	7.41	9.3	0	72.09	36	2
+711	CUST_1486	REST_1334	Illinois	Chicago	7/22/2024 9:42	Healthy	New	Express	Cash	Delivered	22.86	1.83	5.31	5.91	5	30.91	31	4
+712	CUST_33275	REST_799	Florida	Tampa	8/5/2024 21:07	Desserts	VIP	Express	Google Pay	Delivered	44.73	3.58	3.04	9.62	5	55.97	24	4
+713	CUST_35258	REST_1324	Florida	Orlando	5/11/2024 4:03	Healthy	Returning	Express	Cash	Delivered	24.65	1.97	7.83	4.42	0	38.87	53	1
+714	CUST_6956	REST_1740	Illinois	Springfield	11/16/2024 9:20	Desserts	Returning	Standard	Credit Card	Delivered	41.71	3.34	5.1	7.48	10	47.63	55	3
+715	CUST_16329	REST_268	Illinois	Naperville	3/11/2024 23:22	Mexican	Returning	Standard	Credit Card	Delivered	26.31	2.1	6.09	6.02	0	40.52	28	4
+716	CUST_46771	REST_1075	Illinois	Chicago	9/1/2024 14:07	Sushi	Returning	Express	Cash	Delivered	34.31	2.74	4.47	1.13	5	37.65	52	2
+717	CUST_33060	REST_1261	Illinois	Chicago	4/10/2024 17:09	Mexican	New	Standard	Cash	Delivered	33.1	2.65	5.39	5.03	0	46.17	48	4
+718	CUST_47144	REST_432	California	San Francisco	4/19/2024 15:32	Healthy	VIP	Standard	Google Pay	Delivered	29.16	2.33	5.8	8.26	0	45.55	30	3
+719	CUST_38855	REST_198	California	Los Angeles	8/28/2024 22:47	Pizza	New	Standard	Cash	Delivered	30.56	2.44	3.09	5.8	0	41.89	45	1
+720	CUST_33222	REST_1143	Florida	Miami	1/10/2024 7:20	Burgers	VIP	Standard	Credit Card	Delivered	31.06	2.48	5.89	1.8	0	41.23	16	1
+721	CUST_47665	REST_961	Texas	Austin	5/11/2024 3:53	Pizza	New	Standard	Debit Card	Delivered	36.76	2.94	7.36	8	10	45.06	64	2
+722	CUST_46487	REST_1429	Florida	Tampa	12/15/2024 1:31	Desserts	New	Standard	Debit Card	Delivered	42.87	3.43	3.78	6.76	0	56.84	67	4
+723	CUST_11131	REST_888	California	San Diego	1/8/2024 9:45	Healthy	New	Express	Apple Pay	Delivered	19.62	1.57	3.14	6.7	0	31.03	64	2
+724	CUST_33069	REST_1969	California	Los Angeles	12/19/2024 8:45	Sushi	Returning	Express	Credit Card	Cancelled	15.84	1.27	3.66	4.16	0	24.93	61	4
+725	CUST_32385	REST_667	New York	New York City	12/24/2024 16:18	Fast Food	Returning	Express	Cash	Refunded	48.11	3.85	4.15	9.1	0	65.21	33	3
+726	CUST_10921	REST_243	Illinois	Springfield	1/26/2024 9:40	Pizza	New	Standard	Cash	Delivered	17.28	1.38	3.7	7.15	0	29.51	27	3
+727	CUST_20551	REST_1049	Texas	Houston	6/17/2024 12:30	Healthy	VIP	Express	Credit Card	Delivered	16.62	1.33	7.64	4.35	0	29.94	42	1
+728	CUST_8086	REST_942	Florida	Miami	4/14/2024 0:40	Burgers	New	Standard	Google Pay	Refunded	48.8	3.9	2.95	5.36	5	56.01	26	1
+729	CUST_49437	REST_1154	Texas	Austin	6/11/2024 1:10	Burgers	Returning	Express	Google Pay	Delivered	46.11	3.69	8.08	3.84	0	61.72	56	2
+730	CUST_1002	REST_1359	New York	Rochester	5/7/2024 17:29	Fast Food	Returning	Standard	Debit Card	Delivered	33.91	2.71	5.39	6.81	5	43.82	31	4
+731	CUST_28757	REST_814	New York	Rochester	5/21/2024 18:08	Desserts	Returning	Standard	Google Pay	Delivered	3.75	0.3	8.37	2.01	0	14.43	18	3
+732	CUST_44220	REST_535	Florida	Miami	6/20/2024 7:37	Healthy	Returning	Express	Credit Card	Delivered	28.69	2.3	4.97	9.34	0	45.3	18	3
+733	CUST_16835	REST_925	New York	Rochester	7/23/2024 8:03	Fast Food	New	Standard	Cash	Delivered	51.06	4.08	6.33	3.21	0	64.68	33	1
+734	CUST_8737	REST_1836	Florida	Miami	3/17/2024 12:57	Mexican	VIP	Express	Google Pay	Cancelled	47.09	3.77	5.92	3.83	5	55.61	62	4
+735	CUST_32759	REST_1457	New York	Buffalo	5/22/2024 0:16	Desserts	Returning	Standard	Cash	Delivered	26.99	2.16	7.95	0.93	0	38.03	67	1
+736	CUST_23030	REST_949	Florida	Miami	3/3/2024 10:48	Sushi	Returning	Express	Google Pay	Delivered	44.05	3.52	5.69	4	10	47.26	37	2
+737	CUST_19680	REST_1369	Florida	Miami	4/3/2024 0:44	Sushi	Returning	Standard	Cash	Delivered	30.45	2.44	3.69	6.02	0	42.6	43	3
+738	CUST_33800	REST_1963	New York	Rochester	7/8/2024 19:53	Fast Food	VIP	Express	Credit Card	Delivered	59.99	4.8	3.29	6.72	0	74.8	23	2
+739	CUST_23286	REST_804	New York	New York City	11/8/2024 22:04	Burgers	Returning	Express	Google Pay	Delivered	22.39	1.79	3.44	0.31	10	17.93	52	2
+740	CUST_39374	REST_722	California	San Diego	9/26/2024 3:17	Healthy	Returning	Express	Credit Card	Delivered	4.62	0.37	4.93	4.56	5	9.48	41	3
+741	CUST_20613	REST_1655	California	San Diego	4/22/2024 4:06	Healthy	New	Standard	Debit Card	Delivered	23.93	1.91	4.58	8.36	0	38.78	23	2
+742	CUST_7152	REST_112	Texas	Dallas	2/10/2024 6:25	Sushi	VIP	Standard	Credit Card	Delivered	53.65	4.29	3.65	5.04	5	61.63	65	4
+743	CUST_37558	REST_1423	Florida	Tampa	2/21/2024 16:37	Healthy	New	Express	Debit Card	Failed	24.56	1.96	7.65	7	0	41.17	47	4
+744	CUST_39379	REST_328	California	Los Angeles	8/30/2024 8:09	Desserts	New	Express	Apple Pay	Cancelled	48.17	3.85	4.06	6.36	0	62.44	39	4
+745	CUST_11055	REST_936	Florida	Tampa	10/7/2024 10:08	Pizza	Returning	Standard	Google Pay	Delivered	52.42	4.19	2.62	2.05	0	61.28	49	3
+746	CUST_17365	REST_356	Illinois	Naperville	10/5/2024 8:53	Burgers	New	Express	Apple Pay	Delivered	26.13	2.09	5.28	8.88	0	42.38	39	4
+747	CUST_44081	REST_454	New York	New York City	7/25/2024 14:43	Mexican	New	Standard	Credit Card	Delivered	58.92	4.71	5.2	3.38	0	72.21	22	4
+748	CUST_3431	REST_674	California	Los Angeles	1/23/2024 3:13	Pizza	New	Express	Debit Card	Delivered	23.66	1.89	2.95	5.04	0	33.54	63	2
+749	CUST_39636	REST_699	Florida	Miami	12/2/2024 6:22	Desserts	New	Express	Google Pay	Delivered	28.02	2.24	5.26	2.98	0	38.5	36	3
+750	CUST_14662	REST_1551	California	San Francisco	9/22/2024 8:26	Burgers	VIP	Standard	Credit Card	Delivered	16.86	1.35	3.05	9.23	0	30.49	51	2
+751	CUST_24195	REST_1281	Texas	Dallas	7/28/2024 14:37	Burgers	New	Standard	Debit Card	Delivered	33.23	2.66	6.48	5.28	10	37.65	17	2
+752	CUST_15728	REST_1866	Illinois	Naperville	10/25/2024 14:20	Healthy	New	Express	Credit Card	Delivered	11.31	0.9	5.6	9.08	5	21.89	42	3
+753	CUST_13856	REST_1697	Texas	Houston	4/18/2024 7:43	Pizza	New	Express	Debit Card	Delivered	39.91	3.19	2.99	7.66	0	53.75	32	3
+754	CUST_16082	REST_412	Illinois	Naperville	8/29/2024 7:05	Mexican	VIP	Express	Credit Card	Delivered	51.64	4.13	5.66	7.64	0	69.07	45	3
+755	CUST_49223	REST_873	Texas	Houston	9/25/2024 2:34	Burgers	VIP	Standard	Credit Card	Delivered	39.22	3.14	4.09	9.34	5	50.79	35	1
+756	CUST_38055	REST_690	Texas	Austin	10/14/2024 19:18	Burgers	Returning	Express	Apple Pay	Cancelled	29.36	2.35	3.12	9.62	5	39.45	57	2
+757	CUST_5018	REST_1196	Texas	Dallas	9/27/2024 5:51	Burgers	VIP	Standard	Google Pay	Delivered	47.02	3.76	2.92	8.65	0	62.35	67	4
+758	CUST_26675	REST_1174	Florida	Miami	7/5/2024 5:13	Healthy	Returning	Standard	Apple Pay	Delivered	24.24	1.94	4.07	2.42	0	32.67	41	2
+759	CUST_10795	REST_1167	New York	New York City	7/29/2024 23:25	Sushi	New	Standard	Debit Card	Delivered	36.25	2.9	5.24	3.98	0	48.37	43	4
+760	CUST_26287	REST_1222	Florida	Orlando	11/25/2024 2:46	Burgers	Returning	Standard	Google Pay	Delivered	38.78	3.1	3.55	1.45	0	46.88	32	2
+761	CUST_49466	REST_667	Florida	Tampa	9/13/2024 15:38	Fast Food	New	Standard	Google Pay	Delivered	31.08	2.49	3.85	4.66	0	42.08	53	2
+762	CUST_22702	REST_310	Texas	Houston	4/11/2024 13:48	Desserts	VIP	Express	Cash	Delivered	41.4	3.31	8.1	1.84	0	54.65	53	4
+763	CUST_27867	REST_426	Illinois	Springfield	1/23/2024 15:44	Pizza	VIP	Express	Debit Card	Refunded	20.82	1.67	6.17	5.66	5	29.32	29	2
+764	CUST_48176	REST_1869	New York	New York City	1/13/2024 10:59	Pizza	Returning	Express	Credit Card	Delivered	35.37	2.83	4.31	8.95	10	41.46	60	4
+765	CUST_26017	REST_1340	California	San Francisco	9/30/2024 10:15	Burgers	New	Standard	Credit Card	Delivered	42.27	3.38	4.71	1.43	0	51.79	38	2
+766	CUST_11973	REST_190	Illinois	Chicago	11/15/2024 15:06	Fast Food	New	Express	Cash	Delivered	30.96	2.48	6.1	6.95	5	41.49	29	2
+767	CUST_14017	REST_339	New York	Rochester	3/5/2024 23:03	Burgers	Returning	Express	Apple Pay	Refunded	40.41	3.23	4.42	5.52	0	53.58	23	3
+768	CUST_14092	REST_1810	Illinois	Naperville	3/10/2024 0:53	Desserts	Returning	Standard	Apple Pay	Delivered	31.86	2.55	4.95	3.27	5	37.63	66	2
+769	CUST_38361	REST_948	Illinois	Naperville	5/7/2024 14:57	Pizza	VIP	Express	Debit Card	Delivered	36.63	2.93	6.35	0.23	0	46.14	27	1
+770	CUST_27016	REST_456	New York	New York City	3/5/2024 14:32	Pizza	Returning	Standard	Cash	Delivered	34.37	2.75	5.92	0.54	0	43.58	44	1
+771	CUST_40657	REST_1766	Texas	Dallas	2/17/2024 7:48	Mexican	New	Standard	Google Pay	Delivered	30.39	2.43	3.14	4.93	0	40.89	57	1
+772	CUST_10776	REST_943	Illinois	Chicago	1/2/2024 8:55	Healthy	VIP	Standard	Cash	Delivered	37.43	2.99	6.28	2.93	0	49.63	64	3
+773	CUST_9983	REST_736	Texas	Houston	2/12/2024 17:03	Desserts	New	Standard	Debit Card	Failed	21.86	1.75	5.15	7.71	0	36.47	30	2
+774	CUST_46656	REST_1599	New York	Buffalo	8/13/2024 0:23	Burgers	VIP	Express	Apple Pay	Delivered	31.32	2.51	8.19	2.46	0	44.48	44	3
+775	CUST_5332	REST_1862	Florida	Tampa	1/27/2024 21:09	Fast Food	Returning	Standard	Credit Card	Delivered	20.82	1.67	3.09	5.76	0	31.34	60	1
+776	CUST_46167	REST_1415	New York	Rochester	3/20/2024 6:03	Mexican	New	Express	Apple Pay	Cancelled	43.69	3.5	4.11	6.54	0	57.84	69	3
+777	CUST_27148	REST_913	Florida	Orlando	1/17/2024 12:10	Fast Food	VIP	Express	Cash	Delivered	31.05	2.48	5.32	7.07	10	35.92	18	4
+778	CUST_36477	REST_474	Illinois	Chicago	12/1/2024 20:25	Healthy	Returning	Express	Apple Pay	Cancelled	14.62	1.17	2.96	6.79	0	25.54	42	1
+779	CUST_13751	REST_1011	Florida	Orlando	12/21/2024 10:36	Burgers	Returning	Standard	Debit Card	Delivered	42.47	3.4	3.42	8.56	0	57.85	56	4
+780	CUST_21125	REST_1111	Illinois	Chicago	3/12/2024 10:41	Sushi	VIP	Express	Cash	Delivered	25.15	2.01	4.29	2.63	0	34.08	21	1
+781	CUST_45111	REST_1646	Florida	Tampa	2/23/2024 7:21	Desserts	VIP	Standard	Credit Card	Delivered	35.4	2.83	6.62	3.25	0	48.1	21	4
+782	CUST_33530	REST_1972	New York	Rochester	10/13/2024 15:45	Burgers	New	Standard	Apple Pay	Cancelled	38.22	3.06	5.72	2.78	0	49.78	20	3
+783	CUST_8226	REST_1287	New York	New York City	10/31/2024 8:49	Desserts	VIP	Standard	Cash	Delivered	22.69	1.82	5.31	5.04	0	34.86	38	3
+784	CUST_3580	REST_1656	New York	Buffalo	2/26/2024 16:38	Mexican	Returning	Standard	Debit Card	Delivered	39.44	3.16	5.05	4.47	0	52.12	57	4
+785	CUST_2074	REST_1816	Illinois	Naperville	3/7/2024 16:43	Burgers	Returning	Express	Cash	Delivered	38.27	3.06	5.16	1.88	0	48.37	31	4
+786	CUST_19617	REST_578	Texas	Dallas	3/14/2024 14:41	Mexican	VIP	Standard	Google Pay	Delivered	24.21	1.94	6.49	2.86	0	35.5	15	3
+787	CUST_6901	REST_1854	Texas	Austin	3/7/2024 4:18	Mexican	New	Standard	Cash	Refunded	26	2.08	3.26	6.39	0	37.73	62	3
+788	CUST_12545	REST_140	New York	New York City	12/6/2024 8:22	Sushi	New	Standard	Google Pay	Delivered	23.88	1.91	3.51	8.34	0	37.64	52	4
+789	CUST_40802	REST_1265	California	San Francisco	9/23/2024 8:28	Burgers	VIP	Express	Credit Card	Refunded	18.31	1.46	4.04	4.79	0	28.6	47	1
+790	CUST_37943	REST_1154	Texas	Houston	2/24/2024 18:37	Desserts	New	Standard	Google Pay	Delivered	29.21	2.34	6.69	2.91	0	41.15	60	1
+791	CUST_21946	REST_698	California	San Francisco	7/23/2024 19:09	Desserts	Returning	Express	Credit Card	Delivered	36.66	2.93	2.55	0.95	0	43.09	27	1
+792	CUST_32212	REST_1824	California	San Francisco	9/4/2024 4:55	Fast Food	Returning	Express	Apple Pay	Delivered	21.49	1.72	6.1	8.07	0	37.38	32	4
+793	CUST_20396	REST_1028	Florida	Orlando	11/7/2024 20:06	Desserts	Returning	Express	Google Pay	Delivered	48.34	3.87	8.22	4.05	0	64.48	52	2
+794	CUST_23727	REST_1911	Texas	Houston	5/1/2024 0:03	Burgers	New	Express	Credit Card	Delivered	35.13	2.81	4.02	8.84	0	50.8	59	3
+795	CUST_47728	REST_205	California	San Diego	9/4/2024 22:17	Desserts	New	Express	Google Pay	Delivered	28.2	2.26	3.94	7.87	0	42.27	38	2
+796	CUST_18094	REST_1747	Florida	Miami	11/29/2024 2:33	Pizza	VIP	Standard	Apple Pay	Delivered	45.15	3.61	6.01	5.48	0	60.25	33	1
+797	CUST_12236	REST_1644	California	Los Angeles	10/29/2024 21:10	Pizza	New	Standard	Cash	Delivered	28.59	2.29	2.72	1.96	5	30.56	47	2
+798	CUST_26467	REST_188	Florida	Miami	10/1/2024 13:19	Healthy	Returning	Standard	Credit Card	Delivered	-1.77	-0.14	8.44	1.67	0	8.2	44	4
+799	CUST_14280	REST_510	New York	New York City	3/27/2024 18:17	Mexican	Returning	Standard	Cash	Delivered	55.81	4.46	5.29	6.31	0	71.87	36	4
+800	CUST_47347	REST_1134	Florida	Tampa	4/19/2024 2:36	Sushi	VIP	Standard	Google Pay	Refunded	23.3	1.86	3.18	7.21	0	35.55	46	1
+801	CUST_21157	REST_679	Texas	Dallas	6/14/2024 21:33	Sushi	New	Standard	Apple Pay	Delivered	43.23	3.46	3.39	7.46	0	57.54	57	4
+802	CUST_6914	REST_372	New York	New York City	2/28/2024 19:32	Mexican	Returning	Standard	Debit Card	Delivered	9.16	0.73	6.53	3.94	0	20.36	59	4
+803	CUST_38552	REST_949	Illinois	Chicago	7/26/2024 17:58	Pizza	VIP	Express	Google Pay	Cancelled	21.97	1.76	8.16	0.48	5	27.37	68	1
+804	CUST_4409	REST_789	Illinois	Springfield	5/15/2024 2:57	Burgers	New	Express	Debit Card	Delivered	60.37	4.83	8.48	2.81	0	76.49	47	3
+805	CUST_45399	REST_444	Illinois	Chicago	5/25/2024 6:15	Fast Food	New	Express	Credit Card	Cancelled	40.04	3.2	7.33	6.03	0	56.6	36	3
+806	CUST_45871	REST_795	Florida	Miami	11/3/2024 15:11	Fast Food	VIP	Express	Google Pay	Delivered	38.6	3.09	6.97	9.71	0	58.37	55	3
+807	CUST_41794	REST_1735	Florida	Orlando	8/14/2024 0:56	Pizza	Returning	Standard	Credit Card	Delivered	22.55	1.8	3.37	4.06	0	31.78	48	2
+808	CUST_38820	REST_1018	Illinois	Chicago	3/7/2024 4:13	Desserts	Returning	Express	Credit Card	Delivered	52.74	4.22	7.8	9.22	0	73.98	24	1
+809	CUST_21067	REST_660	Florida	Orlando	11/28/2024 15:40	Mexican	VIP	Express	Google Pay	Delivered	15.39	1.23	3.49	6.89	0	27	16	4
+810	CUST_8632	REST_1903	Texas	Houston	6/26/2024 20:58	Fast Food	New	Standard	Apple Pay	Delivered	29.9	2.39	2.94	8.12	5	38.35	27	3
+811	CUST_12525	REST_188	Illinois	Springfield	5/4/2024 8:58	Mexican	VIP	Express	Debit Card	Delivered	40.56	3.24	7.55	2.99	0	54.34	35	2
+812	CUST_38485	REST_1323	New York	New York City	9/22/2024 15:36	Burgers	New	Express	Cash	Delivered	43.61	3.49	4.55	7.7	0	59.35	50	2
+813	CUST_8399	REST_294	California	San Francisco	1/10/2024 0:28	Desserts	VIP	Standard	Google Pay	Delivered	22.74	1.82	8.08	1.72	0	34.36	53	2
+814	CUST_39619	REST_988	California	San Diego	11/26/2024 10:48	Healthy	VIP	Standard	Apple Pay	Delivered	24.04	1.92	6.22	7.19	0	39.37	17	4
+815	CUST_42632	REST_616	New York	New York City	10/25/2024 14:32	Fast Food	New	Standard	Apple Pay	Delivered	24.99	2	6.64	3.44	0	37.07	41	3
+816	CUST_45754	REST_706	New York	Buffalo	9/26/2024 7:03	Sushi	New	Standard	Cash	Cancelled	55.84	4.47	7.27	3.4	0	70.98	67	1
+817	CUST_23465	REST_1488	Illinois	Springfield	7/24/2024 22:59	Desserts	New	Express	Google Pay	Delivered	42.25	3.38	2.83	1.45	0	49.91	65	2
+818	CUST_48655	REST_1673	Illinois	Naperville	5/3/2024 18:00	Sushi	VIP	Express	Apple Pay	Delivered	15.46	1.24	2.53	7.48	10	16.71	25	1
+819	CUST_11846	REST_937	Florida	Miami	7/1/2024 18:42	Desserts	VIP	Standard	Credit Card	Delivered	28.99	2.32	8.26	3.85	0	43.42	40	3
+820	CUST_46278	REST_1755	Texas	Dallas	1/28/2024 7:13	Mexican	New	Standard	Apple Pay	Failed	40.75	3.26	3.48	6.74	0	54.23	64	1
+821	CUST_35108	REST_273	Florida	Tampa	10/7/2024 19:43	Fast Food	VIP	Express	Credit Card	Delivered	33.14	2.65	7.39	8.89	0	52.07	32	2
+822	CUST_17571	REST_1120	Illinois	Chicago	12/3/2024 19:15	Healthy	VIP	Express	Credit Card	Delivered	22.28	1.78	6.18	0.88	0	31.12	31	2
+823	CUST_42756	REST_659	Illinois	Springfield	10/14/2024 21:54	Healthy	Returning	Express	Google Pay	Refunded	40.22	3.22	4.53	4.7	5	47.67	49	3
+824	CUST_46765	REST_1963	Texas	Dallas	7/20/2024 18:36	Sushi	Returning	Express	Apple Pay	Delivered	47.01	3.76	7.32	8.97	0	67.06	58	4
+825	CUST_43364	REST_543	California	San Diego	2/9/2024 6:45	Fast Food	Returning	Express	Google Pay	Refunded	47.87	3.83	5.5	6.79	0	63.99	56	3
+826	CUST_40894	REST_1889	California	Los Angeles	12/12/2024 19:40	Burgers	Returning	Express	Cash	Delivered	31.33	2.51	2.5	9.37	0	45.71	38	1
+827	CUST_41818	REST_1951	Florida	Tampa	8/21/2024 12:46	Fast Food	VIP	Standard	Google Pay	Delivered	43.7	3.5	4.04	0.21	0	51.45	39	4
+828	CUST_14418	REST_1314	California	San Diego	1/31/2024 4:58	Pizza	VIP	Standard	Credit Card	Delivered	40.38	3.23	4.02	9.41	10	47.04	31	2
+829	CUST_11051	REST_124	Illinois	Springfield	6/15/2024 6:41	Mexican	Returning	Express	Google Pay	Delivered	48.63	3.89	8.08	1.84	0	62.44	34	2
+830	CUST_7884	REST_1209	Texas	Austin	8/10/2024 3:53	Desserts	VIP	Standard	Apple Pay	Delivered	37.18	2.97	7.76	1.58	0	49.49	31	2
+831	CUST_40218	REST_1267	California	Los Angeles	7/24/2024 8:34	Fast Food	New	Standard	Credit Card	Delivered	26.27	2.1	5.29	8.21	0	41.87	59	4
+832	CUST_11916	REST_805	New York	New York City	6/17/2024 9:40	Burgers	New	Standard	Credit Card	Delivered	33.78	2.7	4	8.37	0	48.85	69	1
+833	CUST_32358	REST_1580	California	San Diego	8/19/2024 8:42	Desserts	Returning	Express	Google Pay	Delivered	17.3	1.38	8.34	1.94	0	28.96	22	4
+834	CUST_19799	REST_1559	Florida	Miami	5/14/2024 8:39	Pizza	New	Standard	Apple Pay	Delivered	47.27	3.78	7.85	5.36	0	64.26	66	2
+835	CUST_44626	REST_1269	Texas	Houston	6/14/2024 10:25	Fast Food	VIP	Standard	Google Pay	Delivered	46.81	3.74	3.13	8.23	0	61.91	62	2
+836	CUST_20814	REST_480	Florida	Orlando	8/28/2024 8:26	Sushi	Returning	Express	Cash	Failed	36.51	2.92	7.31	4.42	0	51.16	26	3
+837	CUST_19268	REST_699	California	Los Angeles	1/21/2024 19:34	Healthy	Returning	Express	Cash	Delivered	17.89	1.43	4.11	8.03	0	31.46	69	3
+838	CUST_34414	REST_100	New York	New York City	4/1/2024 14:15	Healthy	New	Standard	Credit Card	Delivered	39.73	3.18	7.78	4.13	0	54.82	23	1
+839	CUST_45918	REST_1174	Texas	Dallas	1/26/2024 22:44	Pizza	VIP	Express	Debit Card	Delivered	32.4	2.59	6.39	7.12	0	48.5	17	1
+840	CUST_35262	REST_1744	New York	Buffalo	6/3/2024 20:46	Burgers	Returning	Standard	Cash	Failed	23.73	1.9	3.07	0.95	5	24.65	29	2
+841	CUST_45725	REST_1228	California	Los Angeles	6/9/2024 22:18	Pizza	Returning	Standard	Google Pay	Delivered	66.65	5.33	4.66	4.75	0	81.39	31	1
+842	CUST_3723	REST_758	New York	Buffalo	8/23/2024 12:29	Burgers	New	Standard	Credit Card	Delivered	38.62	3.09	8.45	7.9	0	58.06	29	3
+843	CUST_24238	REST_1607	New York	Rochester	2/7/2024 2:37	Fast Food	New	Standard	Debit Card	Delivered	59.42	4.75	7.49	1.5	0	73.16	66	3
+844	CUST_41146	REST_1789	California	Los Angeles	11/19/2024 11:04	Mexican	VIP	Express	Credit Card	Delivered	39.3	3.14	2.66	6.88	0	51.98	44	3
+845	CUST_36036	REST_1094	Texas	Austin	6/6/2024 2:58	Desserts	VIP	Standard	Debit Card	Delivered	22.23	1.78	2.61	2.71	5	24.33	22	4
+846	CUST_18502	REST_652	Illinois	Springfield	11/15/2024 9:12	Mexican	VIP	Express	Apple Pay	Delivered	13.81	1.1	7.2	4.53	5	21.64	35	4
+847	CUST_15547	REST_764	Illinois	Springfield	9/23/2024 1:49	Sushi	New	Standard	Cash	Delivered	30.84	2.47	3.76	4.55	10	31.62	56	3
+848	CUST_13563	REST_1104	Florida	Miami	8/8/2024 16:25	Burgers	VIP	Standard	Debit Card	Delivered	27.97	2.24	3.11	4.05	0	37.37	45	3
+849	CUST_44909	REST_642	Illinois	Chicago	5/9/2024 13:03	Sushi	New	Standard	Credit Card	Delivered	31.07	2.49	5.63	4.02	0	43.21	58	1
+850	CUST_23689	REST_968	Illinois	Springfield	8/21/2024 9:22	Pizza	VIP	Express	Credit Card	Delivered	48.32	3.87	7.55	8.01	0	67.75	22	3
+851	CUST_17465	REST_955	Texas	Houston	11/21/2024 10:43	Burgers	VIP	Standard	Apple Pay	Cancelled	19.61	1.57	3.16	7.94	0	32.28	24	3
+852	CUST_6664	REST_161	California	San Francisco	1/12/2024 6:16	Sushi	VIP	Express	Apple Pay	Delivered	43.6	3.49	5.24	9.42	5	56.75	45	3
+853	CUST_43459	REST_1930	Illinois	Springfield	7/11/2024 7:11	Sushi	VIP	Express	Credit Card	Delivered	46.68	3.73	4.89	3.36	0	58.66	66	4
+854	CUST_10990	REST_148	New York	Rochester	5/5/2024 14:58	Sushi	VIP	Express	Cash	Cancelled	42.49	3.4	8.13	1.53	0	55.55	34	2
+855	CUST_4937	REST_946	New York	Rochester	12/8/2024 1:10	Mexican	New	Standard	Cash	Delivered	53.88	4.31	6.62	8.33	0	73.14	56	1
+856	CUST_43447	REST_1927	New York	New York City	7/3/2024 22:58	Desserts	Returning	Standard	Apple Pay	Delivered	28.09	2.25	3.35	2.14	0	35.83	47	3
+857	CUST_7474	REST_443	Texas	Houston	4/4/2024 5:09	Mexican	New	Express	Cash	Refunded	26.08	2.09	4.74	2.3	0	35.21	66	2
+858	CUST_29231	REST_846	Florida	Orlando	5/4/2024 0:51	Healthy	VIP	Express	Google Pay	Delivered	25.74	2.06	7.4	9.88	0	45.08	21	2
+859	CUST_6741	REST_377	Florida	Orlando	4/24/2024 3:01	Burgers	New	Express	Apple Pay	Delivered	52.74	4.22	3.25	7.86	0	68.07	16	3
+860	CUST_22076	REST_750	Florida	Tampa	3/13/2024 18:15	Mexican	Returning	Express	Credit Card	Failed	47.16	3.77	6.07	7.94	10	54.94	18	1
+861	CUST_31531	REST_352	California	San Diego	5/2/2024 3:50	Fast Food	Returning	Express	Credit Card	Refunded	67.22	5.38	5.87	4.75	5	78.22	36	3
+862	CUST_40229	REST_1236	Texas	Houston	5/17/2024 15:41	Healthy	New	Standard	Credit Card	Delivered	44.69	3.58	4.99	4.03	0	57.29	20	3
+863	CUST_30362	REST_791	Florida	Orlando	7/5/2024 14:24	Burgers	VIP	Express	Google Pay	Delivered	44.19	3.54	3.68	8.96	0	60.37	48	4
+864	CUST_28742	REST_980	New York	Buffalo	3/10/2024 10:45	Healthy	VIP	Standard	Debit Card	Delivered	21.22	1.7	7.2	9.63	0	39.75	61	2
+865	CUST_38145	REST_459	Texas	Austin	4/12/2024 21:54	Burgers	New	Express	Cash	Delivered	33.53	2.68	8.42	6.19	0	50.82	69	4
+866	CUST_47766	REST_1818	Florida	Tampa	5/13/2024 0:07	Mexican	VIP	Express	Credit Card	Delivered	36.15	2.89	3.69	1.34	0	44.07	57	3
+867	CUST_48113	REST_1922	Florida	Orlando	4/2/2024 20:09	Mexican	VIP	Standard	Debit Card	Cancelled	25.81	2.06	3.95	9.36	0	41.18	31	2
+868	CUST_7044	REST_1539	California	San Diego	10/19/2024 17:25	Sushi	New	Express	Google Pay	Delivered	29.46	2.36	4.77	3.17	0	39.76	25	4
+869	CUST_38921	REST_1994	New York	New York City	2/4/2024 0:17	Sushi	New	Standard	Credit Card	Delivered	32.35	2.59	7.13	4.35	10	36.42	34	3
+870	CUST_3329	REST_1235	Florida	Orlando	11/7/2024 15:36	Healthy	VIP	Standard	Credit Card	Delivered	23.99	1.92	7.89	7.32	0	41.12	61	4
+871	CUST_42349	REST_1303	California	San Francisco	10/24/2024 21:33	Fast Food	VIP	Standard	Google Pay	Delivered	43.32	3.47	4.66	1.26	0	52.71	35	3
+872	CUST_18634	REST_692	Illinois	Naperville	4/30/2024 20:58	Sushi	Returning	Express	Google Pay	Delivered	10.67	0.85	7.96	1.02	0	20.5	38	2
+873	CUST_43875	REST_1535	California	San Francisco	11/13/2024 21:14	Burgers	VIP	Express	Cash	Failed	21.74	1.74	6.05	9.13	5	33.66	32	2
+874	CUST_27246	REST_1948	Illinois	Naperville	8/31/2024 3:32	Burgers	VIP	Standard	Cash	Delivered	42.91	3.43	8.48	1.03	0	55.85	67	4
+875	CUST_30928	REST_1450	Texas	Dallas	5/5/2024 11:47	Desserts	VIP	Standard	Apple Pay	Delivered	34.6	2.77	6.08	6.05	0	49.5	28	3
+876	CUST_27718	REST_884	Texas	Dallas	1/29/2024 9:28	Burgers	Returning	Express	Google Pay	Delivered	33.95	2.72	5.62	7.42	0	49.71	47	2
+877	CUST_31505	REST_1648	Illinois	Naperville	9/21/2024 6:15	Healthy	New	Standard	Debit Card	Cancelled	45.11	3.61	7.28	1.28	10	47.28	35	2
+878	CUST_40051	REST_966	Texas	Austin	1/20/2024 17:35	Mexican	Returning	Standard	Apple Pay	Refunded	42.26	3.38	2.93	1.89	5	45.46	68	2
+879	CUST_45843	REST_761	California	Los Angeles	6/26/2024 8:44	Pizza	New	Express	Credit Card	Delivered	26.77	2.14	6.75	2.15	0	37.81	33	4
+880	CUST_35937	REST_1375	Texas	Austin	4/24/2024 2:22	Sushi	VIP	Express	Debit Card	Delivered	44.84	3.59	5.36	2.71	0	56.5	69	1
+881	CUST_22143	REST_1615	Florida	Orlando	2/27/2024 11:26	Desserts	Returning	Express	Debit Card	Delivered	41.68	3.33	6.77	2.11	0	53.89	54	3
+882	CUST_38374	REST_1383	Florida	Tampa	3/2/2024 5:04	Burgers	New	Express	Google Pay	Refunded	10.61	0.85	7.32	4.32	5	18.1	25	1
+883	CUST_24086	REST_1769	Illinois	Chicago	12/6/2024 10:47	Desserts	Returning	Standard	Credit Card	Delivered	19.46	1.56	5.31	9.68	5	31.01	21	2
+884	CUST_12019	REST_1251	Illinois	Springfield	4/17/2024 20:13	Pizza	New	Standard	Apple Pay	Delivered	37.64	3.01	8.27	8.34	0	57.26	57	1
+885	CUST_3260	REST_999	Illinois	Springfield	6/29/2024 5:58	Desserts	VIP	Standard	Google Pay	Delivered	39.49	3.16	3.3	2.33	0	48.28	52	1
+886	CUST_20422	REST_897	Texas	Dallas	12/13/2024 16:13	Pizza	VIP	Standard	Credit Card	Delivered	30.09	2.41	5.19	0.63	0	38.32	32	3
+887	CUST_22975	REST_470	Illinois	Chicago	8/29/2024 1:41	Mexican	Returning	Express	Google Pay	Delivered	35.02	2.8	3.46	3.41	0	44.69	63	2
+888	CUST_36053	REST_1258	California	San Diego	4/1/2024 21:43	Mexican	VIP	Express	Google Pay	Delivered	13.41	1.07	6.72	2.91	0	24.11	38	3
+889	CUST_12966	REST_1448	New York	New York City	3/23/2024 3:50	Sushi	Returning	Express	Apple Pay	Delivered	43.18	3.45	6.04	4.5	5	52.17	56	3
+890	CUST_26105	REST_591	Texas	Austin	2/14/2024 13:38	Fast Food	Returning	Standard	Apple Pay	Delivered	46.55	3.72	7.49	8.51	0	66.27	15	4
+891	CUST_10066	REST_1331	Florida	Tampa	8/30/2024 11:46	Pizza	Returning	Standard	Credit Card	Delivered	43.81	3.5	8.23	8.88	0	64.42	46	1
+892	CUST_15340	REST_688	Illinois	Naperville	5/21/2024 14:05	Pizza	New	Express	Apple Pay	Delivered	44.18	3.53	3.28	3.09	0	54.08	15	1
+893	CUST_29371	REST_1874	Illinois	Naperville	9/11/2024 21:10	Sushi	New	Standard	Google Pay	Delivered	2.54	0.2	3.65	3.34	5	4.73	41	1
+894	CUST_38805	REST_1265	California	San Francisco	2/14/2024 8:27	Healthy	New	Express	Credit Card	Cancelled	33.87	2.71	5	1.8	0	43.38	28	1
+895	CUST_37366	REST_796	Illinois	Chicago	3/20/2024 17:06	Fast Food	New	Standard	Google Pay	Delivered	38.27	3.06	6.88	9.18	10	47.39	38	1
+896	CUST_37621	REST_798	New York	New York City	5/23/2024 7:28	Fast Food	New	Standard	Google Pay	Refunded	44.53	3.56	8.27	9.01	0	65.37	67	3
+897	CUST_17924	REST_569	New York	Rochester	6/3/2024 14:15	Desserts	Returning	Standard	Debit Card	Delivered	46.3	3.7	5.64	7.82	0	63.46	23	4
+898	CUST_9680	REST_1585	Florida	Tampa	1/15/2024 3:12	Pizza	New	Express	Apple Pay	Refunded	49.12	3.93	2.71	1.37	5	52.13	50	4
+899	CUST_32110	REST_1572	Texas	Dallas	3/1/2024 7:16	Desserts	VIP	Express	Cash	Delivered	43.58	3.49	3.61	9.78	10	50.46	58	3
+900	CUST_1784	REST_1496	New York	Buffalo	11/30/2024 21:15	Pizza	New	Standard	Credit Card	Delivered	34.39	2.75	8.33	1.53	5	42	38	1
+901	CUST_7200	REST_1400	California	San Diego	12/2/2024 20:50	Pizza	Returning	Standard	Apple Pay	Refunded	50.75	4.06	6.63	3.19	0	64.63	34	3
+902	CUST_18862	REST_125	Texas	Houston	11/20/2024 12:50	Mexican	Returning	Express	Debit Card	Delivered	46.23	3.7	5.43	7.94	0	63.3	22	1
+903	CUST_9484	REST_1308	California	San Francisco	1/4/2024 20:30	Desserts	Returning	Express	Cash	Delivered	39.16	3.13	3.07	3.9	0	49.26	42	1
+904	CUST_4869	REST_1211	California	San Diego	11/19/2024 20:19	Fast Food	Returning	Express	Credit Card	Delivered	36.08	2.89	6.9	6.62	5	47.49	21	4
+905	CUST_9554	REST_481	California	San Francisco	2/7/2024 15:51	Healthy	New	Express	Debit Card	Delivered	40.25	3.22	3.19	9.69	10	46.35	29	2
+906	CUST_1051	REST_418	Illinois	Chicago	10/24/2024 11:15	Fast Food	Returning	Express	Debit Card	Refunded	39.6	3.17	2.9	5.94	5	46.61	66	3
+907	CUST_42473	REST_1830	Texas	Dallas	2/12/2024 6:52	Pizza	Returning	Express	Credit Card	Failed	14.47	1.16	4.86	3.88	0	24.37	20	3
+908	CUST_16954	REST_230	Texas	Dallas	9/1/2024 17:43	Mexican	Returning	Standard	Apple Pay	Cancelled	30.28	2.42	4.57	0.62	0	37.89	45	1
+909	CUST_17997	REST_1383	Illinois	Naperville	3/3/2024 22:22	Healthy	VIP	Standard	Google Pay	Delivered	43.04	3.44	5.73	3.1	0	55.31	59	3
+910	CUST_17052	REST_1538	New York	Buffalo	10/27/2024 10:36	Sushi	VIP	Express	Google Pay	Delivered	42.46	3.4	2.9	3.67	0	52.43	44	2
+911	CUST_45078	REST_698	Illinois	Springfield	11/23/2024 11:24	Desserts	VIP	Express	Debit Card	Refunded	55.13	4.41	4	6.4	5	64.94	15	2
+912	CUST_24804	REST_484	Illinois	Naperville	11/9/2024 18:13	Desserts	VIP	Express	Apple Pay	Cancelled	25.12	2.01	8.2	9.58	0	44.91	42	1
+913	CUST_15610	REST_345	Texas	Dallas	9/15/2024 18:17	Sushi	VIP	Standard	Credit Card	Delivered	35.69	2.86	4.16	8.62	0	51.33	36	1
+914	CUST_32194	REST_754	New York	Rochester	6/14/2024 12:45	Pizza	New	Standard	Google Pay	Cancelled	31.81	2.54	7.36	5.56	10	37.27	40	3
+915	CUST_38888	REST_671	Texas	Dallas	10/6/2024 12:31	Mexican	Returning	Express	Cash	Delivered	23.61	1.89	5.72	4.49	0	35.71	35	3
+916	CUST_27483	REST_573	Illinois	Springfield	2/13/2024 18:57	Mexican	VIP	Standard	Debit Card	Delivered	24.12	1.93	3.87	5.84	0	35.76	59	2
+917	CUST_18718	REST_421	Texas	Austin	2/4/2024 18:05	Sushi	VIP	Standard	Debit Card	Delivered	33.89	2.71	2.88	2.21	0	41.69	69	4
+918	CUST_44027	REST_1392	New York	Buffalo	1/31/2024 9:18	Sushi	Returning	Express	Apple Pay	Delivered	35.36	2.83	6.76	5.34	0	50.29	25	4
+919	CUST_34120	REST_1007	New York	Buffalo	11/1/2024 18:03	Fast Food	New	Standard	Debit Card	Delivered	18.86	1.51	6.14	5.24	0	31.75	42	2
+920	CUST_30410	REST_1076	Illinois	Chicago	12/7/2024 16:25	Fast Food	VIP	Standard	Apple Pay	Refunded	47.58	3.81	8.28	5.89	0	65.56	24	2
+921	CUST_33356	REST_1861	Illinois	Naperville	4/11/2024 0:21	Fast Food	New	Standard	Cash	Delivered	39.56	3.16	7.68	6.74	0	57.14	48	2
+922	CUST_34276	REST_1288	California	San Diego	2/17/2024 20:34	Mexican	VIP	Standard	Credit Card	Refunded	37.79	3.02	7.83	8.45	0	57.09	50	1
+923	CUST_33499	REST_1787	Illinois	Springfield	12/9/2024 20:01	Burgers	New	Standard	Credit Card	Delivered	28.68	2.29	7.69	7.24	0	45.9	25	1
+924	CUST_28718	REST_689	California	Los Angeles	3/31/2024 7:09	Mexican	Returning	Standard	Cash	Delivered	19.13	1.53	4.01	4.54	0	29.21	57	4
+925	CUST_40743	REST_604	Florida	Tampa	1/13/2024 20:46	Sushi	New	Express	Apple Pay	Delivered	17.28	1.38	5.09	0.54	0	24.29	17	1
+926	CUST_15669	REST_383	Florida	Tampa	3/7/2024 14:18	Pizza	New	Express	Google Pay	Refunded	56.67	4.53	6.16	1.96	0	69.32	24	3
+927	CUST_42881	REST_1358	Illinois	Naperville	4/11/2024 23:24	Fast Food	New	Standard	Credit Card	Delivered	53.84	4.31	3.18	8.06	0	69.39	15	1
+928	CUST_34333	REST_1465	California	San Diego	3/17/2024 20:45	Sushi	Returning	Express	Debit Card	Delivered	28.44	2.28	5.73	9.08	5	40.53	69	2
+929	CUST_11355	REST_637	Illinois	Naperville	11/4/2024 15:25	Fast Food	VIP	Express	Cash	Delivered	31.05	2.48	7.13	3.51	5	39.17	43	3
+930	CUST_17569	REST_360	Texas	Houston	10/29/2024 7:22	Pizza	New	Standard	Apple Pay	Refunded	28.06	2.24	5.47	7.32	0	43.09	46	2
+931	CUST_20154	REST_1355	Illinois	Chicago	9/6/2024 19:19	Burgers	New	Standard	Google Pay	Delivered	22.6	1.81	5.54	1.27	0	31.22	53	2
+932	CUST_38921	REST_991	Illinois	Naperville	4/19/2024 7:23	Burgers	VIP	Express	Debit Card	Delivered	31.7	2.54	4.19	2.19	0	40.62	21	4
+933	CUST_21719	REST_1546	Illinois	Springfield	3/11/2024 13:13	Mexican	VIP	Express	Google Pay	Delivered	17.16	1.37	3.02	7.59	0	29.14	36	2
+934	CUST_48148	REST_928	Texas	Austin	8/3/2024 7:22	Sushi	New	Express	Credit Card	Delivered	45.43	3.63	7.77	3.02	0	59.85	47	1
+935	CUST_32912	REST_1751	California	Los Angeles	11/27/2024 23:26	Desserts	New	Express	Cash	Delivered	20.09	1.61	4.25	7.98	5	28.93	50	2
+936	CUST_15456	REST_1155	Texas	Houston	5/4/2024 1:35	Fast Food	Returning	Express	Google Pay	Delivered	47.99	3.84	6.89	9.33	0	68.05	51	1
+937	CUST_19013	REST_1066	Florida	Orlando	12/7/2024 12:54	Mexican	Returning	Express	Debit Card	Delivered	36.47	2.92	5.02	6.08	0	50.49	40	4
+938	CUST_25578	REST_1151	Illinois	Springfield	2/15/2024 21:59	Desserts	New	Express	Cash	Delivered	34.82	2.79	2.58	6.95	0	47.14	37	2
+939	CUST_35928	REST_1744	Florida	Orlando	11/28/2024 11:46	Mexican	Returning	Express	Debit Card	Delivered	20.96	1.68	7.26	9.15	0	39.05	47	1
+940	CUST_16619	REST_923	Florida	Orlando	11/30/2024 15:43	Pizza	New	Express	Cash	Delivered	37.44	3	6.64	7.25	0	54.33	44	2
+941	CUST_19452	REST_1434	Illinois	Chicago	4/4/2024 23:31	Desserts	VIP	Express	Google Pay	Delivered	44.42	3.55	5.52	0.52	10	44.01	16	1
+942	CUST_44147	REST_652	Texas	Dallas	5/5/2024 3:19	Mexican	New	Express	Credit Card	Delivered	15.71	1.26	4.68	5.31	5	21.96	64	2
+943	CUST_17863	REST_879	Illinois	Chicago	11/6/2024 7:55	Pizza	VIP	Express	Google Pay	Delivered	31.29	2.5	3	4.83	0	41.62	33	4
+944	CUST_13941	REST_1769	Illinois	Chicago	8/27/2024 4:24	Sushi	New	Standard	Credit Card	Cancelled	39.86	3.19	7.47	1.58	0	52.1	57	4
+945	CUST_45732	REST_619	Florida	Tampa	5/20/2024 3:38	Desserts	New	Express	Apple Pay	Delivered	41.01	3.28	6.16	6.44	0	56.89	48	4
+946	CUST_27974	REST_1648	Texas	Dallas	8/15/2024 2:45	Sushi	Returning	Standard	Google Pay	Delivered	23.21	1.86	8.08	3.03	5	31.18	34	1
+947	CUST_30119	REST_789	New York	New York City	11/13/2024 22:23	Burgers	VIP	Express	Google Pay	Delivered	44.14	3.53	7.75	0.27	0	55.69	68	4
+948	CUST_47036	REST_1260	Illinois	Springfield	1/15/2024 8:42	Burgers	New	Express	Cash	Delivered	43.75	3.5	2.57	5.57	0	55.39	52	2
+949	CUST_46667	REST_351	New York	Rochester	12/28/2024 22:48	Sushi	VIP	Express	Apple Pay	Delivered	46.6	3.73	4.86	2.65	0	57.84	21	4
+950	CUST_29415	REST_1135	Illinois	Chicago	6/21/2024 10:08	Burgers	Returning	Express	Cash	Delivered	54.22	4.34	6.39	6.37	0	71.32	28	3
+951	CUST_3366	REST_943	New York	Buffalo	6/20/2024 17:52	Desserts	Returning	Express	Cash	Refunded	16.86	1.35	3.72	3.4	0	25.33	59	1
+952	CUST_48164	REST_468	Florida	Orlando	6/16/2024 12:51	Pizza	VIP	Standard	Apple Pay	Delivered	41.42	3.31	8.09	9.14	0	61.96	48	2
+953	CUST_4216	REST_1692	Illinois	Springfield	1/17/2024 15:48	Desserts	VIP	Express	Cash	Delivered	21.35	1.71	3.21	7.61	10	23.88	15	1
+954	CUST_41498	REST_1599	Texas	Dallas	7/5/2024 5:32	Pizza	New	Express	Cash	Delivered	31.06	2.48	6.09	2.93	0	42.56	34	3
+955	CUST_7553	REST_857	Texas	Austin	2/11/2024 1:03	Sushi	Returning	Express	Credit Card	Delivered	29.02	2.32	3.25	0.41	0	35	34	2
+956	CUST_43816	REST_1859	New York	Buffalo	8/24/2024 17:15	Burgers	Returning	Standard	Credit Card	Delivered	48.96	3.92	5.96	7.02	0	65.86	35	2
+957	CUST_44271	REST_1261	Illinois	Springfield	9/30/2024 1:47	Healthy	Returning	Express	Apple Pay	Delivered	29.27	2.34	4.88	5.71	10	32.2	57	2
+958	CUST_34637	REST_1530	Florida	Miami	2/23/2024 13:39	Healthy	VIP	Express	Apple Pay	Delivered	34.46	2.76	5.95	9.51	5	47.68	37	3
+959	CUST_47581	REST_1264	Illinois	Naperville	10/21/2024 14:52	Healthy	Returning	Express	Cash	Refunded	42.16	3.37	6.92	1.78	5	49.23	23	3
+960	CUST_20095	REST_389	New York	New York City	10/16/2024 16:26	Pizza	New	Standard	Cash	Delivered	44.23	3.54	5.59	1.07	0	54.43	37	3
+961	CUST_42964	REST_1512	Florida	Miami	9/11/2024 0:56	Mexican	VIP	Standard	Apple Pay	Delivered	47.28	3.78	7.27	7.48	0	65.81	68	1
+962	CUST_4465	REST_763	Texas	Houston	12/17/2024 18:20	Pizza	Returning	Standard	Apple Pay	Cancelled	45.27	3.62	4.77	0.35	0	54.01	35	1
+963	CUST_2999	REST_613	Texas	Austin	4/25/2024 22:21	Sushi	New	Express	Debit Card	Refunded	49.24	3.94	7.25	3.24	5	58.67	59	1
+964	CUST_24142	REST_1042	Illinois	Chicago	11/21/2024 4:56	Pizza	VIP	Express	Google Pay	Delivered	12.3	0.98	6.8	9.43	0	29.51	15	3
+965	CUST_6487	REST_1566	Illinois	Naperville	10/30/2024 23:43	Pizza	Returning	Express	Apple Pay	Delivered	60.05	4.8	7.87	3.93	10	66.65	69	4
+966	CUST_47253	REST_511	Illinois	Naperville	7/27/2024 16:03	Fast Food	Returning	Standard	Cash	Delivered	29.88	2.39	6.98	5.21	0	44.46	40	3
+967	CUST_14463	REST_1225	Illinois	Naperville	8/29/2024 15:28	Fast Food	Returning	Express	Cash	Delivered	41.55	3.32	5.7	5.96	0	56.53	45	2
+968	CUST_22033	REST_887	New York	New York City	12/26/2024 4:01	Burgers	New	Express	Google Pay	Delivered	32.91	2.63	5.77	5.43	0	46.74	59	4
+969	CUST_21754	REST_305	New York	Buffalo	11/26/2024 9:46	Desserts	VIP	Standard	Cash	Delivered	54.67	4.37	4.91	9.09	0	73.04	49	1
+970	CUST_21102	REST_1147	California	San Diego	2/11/2024 16:58	Healthy	New	Standard	Cash	Delivered	47.94	3.84	3.53	2.71	0	58.02	57	1
+971	CUST_47664	REST_1538	Texas	Dallas	8/16/2024 19:02	Fast Food	VIP	Standard	Cash	Delivered	62.01	4.96	8.11	0.09	0	75.17	40	1
+972	CUST_7655	REST_146	Illinois	Springfield	2/3/2024 8:55	Sushi	VIP	Express	Debit Card	Delivered	48.77	3.9	6.87	0	10	49.54	66	2
+973	CUST_22446	REST_903	New York	New York City	10/10/2024 5:26	Sushi	New	Standard	Credit Card	Delivered	36.76	2.94	3.42	5.06	0	48.18	62	2
+974	CUST_48842	REST_1583	Illinois	Springfield	5/10/2024 16:52	Mexican	Returning	Express	Debit Card	Delivered	50.34	4.03	3.47	7.01	10	54.85	24	1
+975	CUST_15690	REST_295	Texas	Houston	12/20/2024 18:31	Desserts	VIP	Standard	Cash	Delivered	15.03	1.2	5.21	2.47	5	18.91	50	2
+976	CUST_42368	REST_461	Illinois	Chicago	5/26/2024 10:11	Fast Food	New	Express	Debit Card	Delivered	45.6	3.65	5.62	4.48	0	59.35	34	4
+977	CUST_34044	REST_1359	New York	New York City	5/30/2024 15:02	Mexican	VIP	Express	Apple Pay	Delivered	25.7	2.06	2.61	1.01	0	31.38	27	2
+978	CUST_49764	REST_1233	California	Los Angeles	2/4/2024 14:21	Pizza	Returning	Express	Cash	Delivered	51.42	4.11	3.33	2.37	0	61.23	28	1
+979	CUST_37051	REST_1673	New York	Rochester	12/12/2024 7:59	Burgers	Returning	Standard	Debit Card	Delivered	19.09	1.53	4.32	7.71	0	32.65	39	4
+980	CUST_26298	REST_622	Florida	Orlando	8/2/2024 14:58	Fast Food	Returning	Standard	Debit Card	Delivered	43.45	3.48	6.62	6.33	5	54.88	19	4
+981	CUST_3179	REST_1683	Illinois	Chicago	1/14/2024 17:25	Pizza	VIP	Express	Apple Pay	Delivered	48.52	3.88	3.85	0.77	5	52.02	61	4
+982	CUST_20465	REST_332	New York	Rochester	11/21/2024 15:28	Desserts	New	Standard	Credit Card	Delivered	44.28	3.54	5.58	8.25	5	56.65	28	4
+983	CUST_22326	REST_601	California	San Francisco	2/13/2024 23:41	Healthy	New	Standard	Apple Pay	Refunded	49.68	3.97	8.31	4.67	0	66.63	20	2
+984	CUST_32770	REST_1086	California	San Francisco	3/7/2024 15:11	Healthy	New	Express	Apple Pay	Delivered	41.29	3.3	3.09	2.65	0	50.33	51	2
+985	CUST_16256	REST_909	New York	Rochester	4/5/2024 1:11	Healthy	VIP	Express	Debit Card	Delivered	31.95	2.56	4.11	3.48	5	37.1	67	3
+986	CUST_4925	REST_371	Florida	Miami	11/14/2024 16:07	Desserts	Returning	Express	Credit Card	Delivered	46.29	3.7	6.39	7.25	0	63.63	32	3
+987	CUST_31436	REST_1000	California	Los Angeles	8/6/2024 21:16	Fast Food	New	Standard	Apple Pay	Delivered	21.02	1.68	7.94	5.3	0	35.94	67	2
+988	CUST_38367	REST_230	New York	New York City	3/10/2024 13:42	Pizza	Returning	Express	Credit Card	Delivered	16.87	1.35	6.54	5.42	5	25.18	57	3
+989	CUST_45288	REST_1981	Florida	Orlando	4/9/2024 0:56	Mexican	Returning	Express	Credit Card	Delivered	46.18	3.69	3.17	3.48	5	51.52	23	4
+990	CUST_19130	REST_124	California	Los Angeles	7/5/2024 11:21	Healthy	Returning	Express	Apple Pay	Delivered	39.74	3.18	7.63	6.87	0	57.42	38	4
+991	CUST_5263	REST_141	New York	Rochester	9/8/2024 18:49	Fast Food	Returning	Express	Debit Card	Delivered	51.66	4.13	7.25	5.81	5	63.85	27	4
+992	CUST_14036	REST_1991	Texas	Austin	1/8/2024 14:25	Desserts	VIP	Standard	Google Pay	Delivered	36.71	2.94	5.88	6.54	10	42.07	65	3
+993	CUST_19161	REST_1066	California	San Diego	5/16/2024 22:38	Mexican	Returning	Standard	Credit Card	Delivered	42.56	3.4	7.76	9.12	0	62.84	51	3
+994	CUST_37355	REST_1211	Florida	Orlando	3/27/2024 23:21	Fast Food	Returning	Express	Apple Pay	Delivered	8.1	0.65	4.22	7.64	0	20.61	33	2
+995	CUST_4952	REST_1684	Illinois	Chicago	9/15/2024 2:27	Pizza	Returning	Standard	Apple Pay	Delivered	31.85	2.55	6.08	0.87	5	36.35	43	4
+996	CUST_32876	REST_1435	California	Los Angeles	9/25/2024 2:01	Sushi	VIP	Standard	Google Pay	Delivered	33.57	2.69	4.09	5.28	0	45.63	46	1
+997	CUST_7840	REST_1070	New York	New York City	9/25/2024 20:59	Desserts	New	Standard	Cash	Failed	44.31	3.54	5.09	8.29	5	56.23	62	1
+998	CUST_40941	REST_1029	California	San Diego	12/7/2024 4:19	Pizza	Returning	Express	Credit Card	Delivered	29.19	2.34	3.88	0.01	5	30.42	62	3
+999	CUST_20207	REST_1291	New York	New York City	12/5/2024 12:46	Burgers	Returning	Express	Credit Card	Delivered	50.11	4.01	3.31	1.51	5	53.94	30	3
+1000	CUST_1497	REST_1869	California	San Diego	4/29/2024 9:24	Burgers	VIP	Standard	Apple Pay	Delivered	59.45	4.76	7.45	3.05	10	64.71	50	1
+1001	CUST_4574	REST_1055	Florida	Orlando	5/11/2024 3:25	Mexican	VIP	Express	Debit Card	Refunded	8.05	0.64	5.29	6.9	5	15.88	30	1
+1002	CUST_24490	REST_1275	Illinois	Chicago	7/26/2024 6:50	Pizza	New	Standard	Credit Card	Delivered	37.34	2.99	2.97	3.74	0	47.04	23	1
+1003	CUST_26594	REST_1889	California	Los Angeles	10/30/2024 2:53	Healthy	Returning	Standard	Cash	Delivered	35.27	2.82	2.76	3.48	0	44.33	53	2
+1004	CUST_24279	REST_111	New York	New York City	4/16/2024 6:53	Healthy	New	Express	Credit Card	Delivered	7.67	0.61	3.79	5.17	5	12.24	60	2
+1005	CUST_21561	REST_1844	New York	Rochester	1/7/2024 13:49	Burgers	New	Express	Credit Card	Delivered	36.14	2.89	2.87	9.59	0	51.49	25	4
+1006	CUST_22038	REST_1482	Florida	Miami	1/10/2024 15:33	Mexican	New	Standard	Debit Card	Cancelled	29.02	2.32	5.68	3.95	0	40.97	68	1
+1007	CUST_9266	REST_1043	Florida	Tampa	8/5/2024 12:11	Desserts	VIP	Express	Apple Pay	Delivered	51	4.08	8.28	1.56	0	64.92	25	1
+1008	CUST_49582	REST_474	California	Los Angeles	3/18/2024 8:38	Mexican	VIP	Standard	Debit Card	Delivered	25.06	2	2.93	0.69	0	30.68	32	4
+1009	CUST_40386	REST_1269	California	Los Angeles	7/9/2024 4:22	Healthy	New	Standard	Google Pay	Delivered	19.44	1.56	7.46	0.98	5	24.44	16	1
+1010	CUST_38177	REST_690	Texas	Austin	4/2/2024 0:41	Pizza	Returning	Standard	Credit Card	Cancelled	8.49	0.68	4.15	5.07	5	13.39	63	3
+1011	CUST_4770	REST_1394	Florida	Tampa	9/24/2024 20:29	Sushi	Returning	Express	Credit Card	Delivered	16.69	1.34	6.22	8.91	0	33.16	25	3
+1012	CUST_18326	REST_1332	Illinois	Naperville	9/14/2024 0:30	Desserts	New	Standard	Credit Card	Delivered	21.15	1.69	6.62	3.52	5	27.98	49	2
+1013	CUST_27199	REST_126	Florida	Miami	3/2/2024 20:15	Pizza	VIP	Standard	Cash	Delivered	21.29	1.7	3.3	9.44	5	30.73	36	4
+1014	CUST_30541	REST_336	New York	Buffalo	2/9/2024 12:09	Sushi	Returning	Standard	Debit Card	Delivered	36.84	2.95	5.18	2.25	5	42.22	44	2
+1015	CUST_38710	REST_917	Florida	Orlando	5/28/2024 9:55	Mexican	Returning	Standard	Cash	Delivered	52.75	4.22	3.87	4.9	0	65.74	66	2
+1016	CUST_4098	REST_1316	Florida	Tampa	6/15/2024 7:48	Fast Food	New	Standard	Debit Card	Cancelled	36.23	2.9	5.31	4.04	0	48.48	51	2
+1017	CUST_46580	REST_998	Texas	Austin	3/2/2024 5:25	Sushi	Returning	Express	Apple Pay	Delivered	24.84	1.99	5.15	0.72	0	32.7	33	2
+1018	CUST_49228	REST_1445	New York	Buffalo	6/24/2024 21:16	Desserts	VIP	Express	Apple Pay	Delivered	42.3	3.38	2.79	3.85	0	52.32	25	1
+1019	CUST_34729	REST_783	Texas	Dallas	3/27/2024 9:02	Healthy	Returning	Standard	Credit Card	Delivered	50.18	4.01	7.25	1.93	0	63.37	16	1
+1020	CUST_44083	REST_593	Illinois	Chicago	2/4/2024 16:28	Mexican	New	Express	Debit Card	Delivered	40.16	3.21	6.04	2.01	0	51.42	29	1
+1021	CUST_12991	REST_596	New York	New York City	10/6/2024 14:41	Fast Food	VIP	Express	Cash	Delivered	33.24	2.66	4.9	8.7	0	49.5	59	4
+1022	CUST_34362	REST_1456	Florida	Orlando	3/31/2024 0:59	Sushi	New	Standard	Cash	Delivered	38.3	3.06	4.86	5.78	0	52	36	1
+1023	CUST_9204	REST_1126	California	San Diego	8/15/2024 23:01	Healthy	VIP	Standard	Google Pay	Delivered	10.18	0.81	5.55	0.24	0	16.78	32	4
+1024	CUST_37145	REST_1457	New York	Rochester	6/23/2024 2:00	Mexican	Returning	Express	Apple Pay	Delivered	36.07	2.89	7.51	9.67	0	56.14	17	3
+1025	CUST_8543	REST_1518	Illinois	Springfield	2/9/2024 3:35	Mexican	New	Standard	Credit Card	Refunded	32.14	2.57	3.74	2	0	40.45	28	2
+1026	CUST_39485	REST_748	Illinois	Chicago	2/15/2024 11:48	Pizza	New	Standard	Cash	Delivered	23.9	1.91	7.69	5	0	38.5	54	2
+1027	CUST_11524	REST_429	Texas	Houston	6/26/2024 4:05	Sushi	VIP	Standard	Google Pay	Delivered	26.58	2.13	3.52	7.18	5	34.41	19	4
+1028	CUST_8311	REST_1183	Florida	Miami	4/19/2024 4:57	Pizza	New	Standard	Cash	Delivered	24.49	1.96	4.52	5.55	0	36.52	25	3
+1029	CUST_21605	REST_866	Illinois	Naperville	3/3/2024 11:36	Mexican	VIP	Express	Credit Card	Delivered	42.42	3.39	6.62	0.18	0	52.61	18	4
+1030	CUST_5478	REST_1840	Florida	Tampa	6/20/2024 20:15	Fast Food	Returning	Express	Apple Pay	Refunded	52.47	4.2	6.46	3.49	0	66.62	26	1
+1031	CUST_19688	REST_1652	California	Los Angeles	8/29/2024 3:01	Burgers	New	Standard	Credit Card	Delivered	53.91	4.31	3.83	2.69	0	64.74	67	1
+1032	CUST_12530	REST_1643	Texas	Austin	2/28/2024 22:08	Fast Food	Returning	Standard	Debit Card	Delivered	34.43	2.75	8.33	9.47	5	49.98	20	1
+1033	CUST_8463	REST_1521	California	San Diego	12/20/2024 7:49	Burgers	VIP	Standard	Cash	Failed	28.28	2.26	3.61	6.81	0	40.96	67	4
+1034	CUST_3395	REST_149	Illinois	Chicago	12/21/2024 16:36	Sushi	VIP	Express	Credit Card	Delivered	44.48	3.56	4.86	6.96	10	49.86	50	1
+1035	CUST_40227	REST_100	Florida	Orlando	1/27/2024 7:31	Mexican	Returning	Standard	Google Pay	Refunded	40.66	3.25	2.73	4.88	5	46.52	19	3
+1036	CUST_42176	REST_295	Illinois	Chicago	6/12/2024 0:13	Desserts	VIP	Express	Debit Card	Delivered	52.6	4.21	7.16	9.71	0	73.68	49	3
+1037	CUST_18946	REST_739	California	Los Angeles	5/14/2024 9:12	Pizza	Returning	Express	Apple Pay	Refunded	35.26	2.82	3.18	8.28	0	49.54	37	3
+1038	CUST_29489	REST_993	California	San Francisco	7/22/2024 2:25	Healthy	New	Standard	Debit Card	Delivered	38.8	3.1	4.69	3.53	0	50.12	61	3
+1039	CUST_42476	REST_717	New York	New York City	6/5/2024 19:50	Burgers	New	Express	Debit Card	Refunded	66.19	5.3	7.13	6.61	0	85.23	50	2
+1040	CUST_35866	REST_1202	Florida	Miami	9/25/2024 0:15	Desserts	Returning	Express	Credit Card	Failed	14.31	1.14	3.97	7.3	5	21.72	66	2
+1041	CUST_6190	REST_1068	New York	New York City	3/3/2024 11:59	Sushi	VIP	Standard	Google Pay	Failed	48.27	3.86	4.71	5.91	0	62.75	67	4
+1042	CUST_10854	REST_976	California	San Francisco	3/11/2024 13:46	Burgers	New	Standard	Debit Card	Delivered	31.45	2.52	8.2	8.69	0	50.86	51	1
+1043	CUST_28153	REST_1948	Texas	Dallas	9/18/2024 19:25	Sushi	VIP	Express	Apple Pay	Delivered	18.91	1.51	7.96	1.75	0	30.13	46	2
+1044	CUST_21637	REST_564	Florida	Miami	7/12/2024 12:22	Pizza	VIP	Express	Credit Card	Cancelled	31.16	2.49	2.85	3.72	5	35.22	52	3
+1045	CUST_1303	REST_1184	California	San Diego	8/1/2024 4:47	Pizza	VIP	Standard	Credit Card	Delivered	36.86	2.95	7.85	8.04	0	55.7	32	3
+1046	CUST_23043	REST_1484	Texas	Austin	10/10/2024 17:15	Healthy	Returning	Standard	Google Pay	Delivered	30.22	2.42	7.26	9.69	0	49.59	50	1
+1047	CUST_14117	REST_1719	Florida	Miami	6/23/2024 13:50	Pizza	Returning	Express	Credit Card	Delivered	43.48	3.48	4.56	9.63	10	51.15	37	1
+1048	CUST_29779	REST_1396	Texas	Houston	6/14/2024 7:18	Pizza	New	Express	Credit Card	Delivered	33.25	2.66	5.33	1.5	0	42.74	29	2
+1049	CUST_38486	REST_1124	New York	Rochester	10/30/2024 12:20	Sushi	New	Standard	Debit Card	Cancelled	35.22	2.82	6.32	2.34	0	46.7	45	4
+1050	CUST_46518	REST_1853	Illinois	Naperville	4/17/2024 0:32	Burgers	VIP	Express	Debit Card	Delivered	30.16	2.41	8.39	8.98	10	39.94	59	4
+1051	CUST_30006	REST_411	California	Los Angeles	2/8/2024 15:44	Desserts	New	Express	Debit Card	Delivered	22.61	1.81	2.98	8.37	0	35.77	68	2
+1052	CUST_46907	REST_973	Texas	Dallas	10/10/2024 17:01	Healthy	Returning	Express	Credit Card	Delivered	42.29	3.38	5.91	9.28	0	60.86	34	3
+1053	CUST_37468	REST_1616	Florida	Orlando	7/20/2024 22:36	Healthy	Returning	Express	Google Pay	Delivered	43.04	3.44	7.64	0	0	54.12	16	1
+1054	CUST_4688	REST_1800	Texas	Houston	11/20/2024 17:10	Desserts	VIP	Standard	Apple Pay	Cancelled	43.54	3.48	5.91	8.32	10	51.25	48	3
+1055	CUST_14222	REST_1012	California	San Francisco	6/10/2024 20:21	Healthy	New	Express	Cash	Cancelled	36.7	2.94	4.62	6.03	0	50.29	62	3
+1056	CUST_41592	REST_141	California	San Francisco	6/23/2024 13:46	Healthy	New	Standard	Cash	Delivered	40.7	3.26	2.7	8.16	0	54.82	20	4
+1057	CUST_13186	REST_734	New York	Buffalo	9/29/2024 16:13	Desserts	VIP	Standard	Cash	Refunded	18.92	1.51	4.74	3.33	0	28.5	60	1
+1058	CUST_46520	REST_1579	Texas	Dallas	4/11/2024 16:18	Healthy	Returning	Express	Credit Card	Delivered	29.17	2.33	7.08	7.59	5	41.17	48	3
+1059	CUST_35678	REST_389	Illinois	Springfield	10/13/2024 10:55	Desserts	VIP	Standard	Debit Card	Delivered	31.7	2.54	3.56	0.29	10	28.09	30	1
+1060	CUST_42791	REST_1893	Texas	Houston	3/27/2024 11:26	Fast Food	New	Standard	Google Pay	Cancelled	29.51	2.36	3.71	2.7	0	38.28	47	2
+1061	CUST_26920	REST_1702	California	San Francisco	8/7/2024 18:42	Desserts	VIP	Express	Debit Card	Delivered	47.7	3.82	7.7	5.19	10	54.41	45	4
+1062	CUST_31543	REST_1200	Florida	Tampa	2/12/2024 13:07	Mexican	Returning	Express	Debit Card	Delivered	26.12	2.09	4.71	0.25	0	33.17	19	3
+1063	CUST_43840	REST_1781	Illinois	Springfield	8/16/2024 19:23	Pizza	Returning	Standard	Apple Pay	Delivered	30.36	2.43	3.63	8.21	10	34.63	67	2
+1064	CUST_28201	REST_1094	Florida	Miami	3/12/2024 14:44	Fast Food	Returning	Express	Apple Pay	Cancelled	24.4	1.95	6.42	6.81	5	34.58	33	1
+1065	CUST_39121	REST_1459	Illinois	Springfield	6/13/2024 21:05	Burgers	Returning	Express	Cash	Delivered	24.67	1.97	5.15	0.57	10	22.36	29	4
+1066	CUST_9050	REST_564	Florida	Tampa	9/27/2024 13:53	Fast Food	VIP	Express	Apple Pay	Delivered	27.16	2.17	6.17	7.16	0	42.66	53	4
+1067	CUST_11774	REST_1221	California	Los Angeles	10/14/2024 11:08	Fast Food	Returning	Standard	Apple Pay	Delivered	16.13	1.29	4.32	2.69	0	24.43	37	1
+1068	CUST_33322	REST_1925	Florida	Tampa	7/8/2024 21:19	Sushi	Returning	Express	Debit Card	Delivered	28.26	2.26	3.84	2.61	0	36.97	31	1
+1069	CUST_12167	REST_376	New York	Buffalo	5/26/2024 22:14	Burgers	New	Express	Credit Card	Delivered	24.04	1.92	3.53	1.03	0	30.52	41	2
+1070	CUST_37023	REST_1317	Florida	Tampa	12/18/2024 15:38	Mexican	Returning	Standard	Credit Card	Cancelled	34.79	2.78	6.36	0.15	5	39.08	52	1
+1071	CUST_30527	REST_183	Illinois	Naperville	1/28/2024 6:17	Sushi	New	Express	Debit Card	Delivered	42.33	3.39	5.26	0.39	0	51.37	45	4
+1072	CUST_16123	REST_689	Florida	Miami	1/7/2024 12:53	Fast Food	VIP	Express	Google Pay	Cancelled	19.18	1.53	7.99	8.68	0	37.38	64	3
+1073	CUST_1027	REST_568	Texas	Austin	4/29/2024 19:03	Healthy	VIP	Standard	Google Pay	Delivered	19.17	1.53	5.36	4.95	0	31.01	68	4
+1074	CUST_27251	REST_1718	New York	Rochester	2/4/2024 16:08	Burgers	Returning	Standard	Credit Card	Delivered	34.03	2.72	7.5	5.54	0	49.79	63	4
+1075	CUST_11437	REST_1217	Illinois	Naperville	3/19/2024 0:01	Fast Food	VIP	Standard	Credit Card	Delivered	-2.66	-0.21	5.61	1.4	0	4.14	67	3
+1076	CUST_11223	REST_1162	Illinois	Chicago	6/26/2024 6:57	Fast Food	Returning	Express	Credit Card	Delivered	33.36	2.67	5.32	4.4	0	45.75	31	3
+1077	CUST_5849	REST_1643	California	San Francisco	8/19/2024 6:03	Fast Food	Returning	Express	Apple Pay	Delivered	34.54	2.76	3.63	0.22	0	41.15	35	3
+1078	CUST_49226	REST_715	Illinois	Naperville	8/31/2024 20:52	Desserts	VIP	Standard	Debit Card	Delivered	32.12	2.57	7.08	2.01	0	43.78	56	4
+1079	CUST_29069	REST_1426	Illinois	Springfield	8/31/2024 8:07	Pizza	VIP	Standard	Cash	Delivered	28.54	2.28	2.67	6.29	10	29.78	16	2
+1080	CUST_25086	REST_205	Texas	Austin	3/17/2024 22:28	Burgers	New	Standard	Debit Card	Delivered	40.6	3.25	6.24	3.15	0	53.24	43	1
+1081	CUST_11419	REST_1848	New York	Rochester	9/20/2024 21:52	Pizza	VIP	Express	Debit Card	Delivered	56.72	4.54	7.24	1.94	0	70.44	41	3
+1082	CUST_32351	REST_164	Texas	Austin	5/2/2024 2:05	Desserts	Returning	Express	Debit Card	Delivered	39.79	3.18	8.31	0.84	0	52.12	21	4
+1083	CUST_16372	REST_1420	California	San Francisco	4/15/2024 11:42	Sushi	VIP	Express	Apple Pay	Delivered	21.28	1.7	8.3	1.6	5	27.88	64	1
+1084	CUST_45343	REST_513	Florida	Tampa	10/6/2024 20:43	Healthy	VIP	Standard	Credit Card	Delivered	24.31	1.94	4.92	9.35	0	40.52	25	3
+1085	CUST_37075	REST_802	Texas	Houston	8/22/2024 16:35	Sushi	Returning	Express	Apple Pay	Refunded	36.71	2.94	6.78	9.26	0	55.69	40	2
+1086	CUST_40386	REST_727	Texas	Austin	4/3/2024 9:18	Healthy	Returning	Standard	Debit Card	Delivered	11.86	0.95	8.38	0.89	10	12.08	35	1
+1087	CUST_35119	REST_936	New York	Buffalo	12/13/2024 15:57	Healthy	New	Standard	Cash	Delivered	34.9	2.79	6.99	6.67	10	41.35	66	2
+1088	CUST_25331	REST_549	California	Los Angeles	7/24/2024 21:22	Sushi	New	Express	Credit Card	Cancelled	36.08	2.89	5.63	0.07	0	44.67	69	4
+1089	CUST_10522	REST_1551	California	San Diego	1/28/2024 21:37	Desserts	VIP	Express	Google Pay	Delivered	32.57	2.61	8.49	2.59	5	41.26	27	2
+1090	CUST_29522	REST_891	Florida	Orlando	3/22/2024 8:48	Pizza	Returning	Express	Debit Card	Delivered	37.09	2.97	8.22	0.54	5	43.82	58	1
+1091	CUST_4515	REST_458	Florida	Miami	9/11/2024 0:22	Desserts	VIP	Standard	Credit Card	Delivered	51.06	4.08	4.02	4.22	5	58.38	15	4
+1092	CUST_31593	REST_950	California	San Francisco	8/31/2024 20:17	Pizza	New	Standard	Credit Card	Delivered	30.87	2.47	6.77	5.8	0	45.91	61	1
+1093	CUST_33761	REST_1287	New York	New York City	2/19/2024 13:05	Healthy	Returning	Express	Credit Card	Refunded	26.41	2.11	4.91	7.4	10	30.83	48	4
+1094	CUST_10408	REST_1178	Illinois	Naperville	12/9/2024 13:25	Mexican	Returning	Standard	Debit Card	Delivered	46.3	3.7	2.55	4.92	0	57.47	28	4
+1095	CUST_2938	REST_1866	California	San Diego	1/25/2024 2:04	Mexican	Returning	Standard	Credit Card	Delivered	28.48	2.28	3.1	6.34	5	35.2	47	1
+1096	CUST_39523	REST_1016	California	San Francisco	3/18/2024 5:09	Fast Food	VIP	Express	Credit Card	Delivered	50.17	4.01	7.41	3.66	0	65.25	47	2
+1097	CUST_21875	REST_869	California	San Diego	6/17/2024 14:43	Burgers	New	Standard	Debit Card	Delivered	34.98	2.8	3.57	5.13	5	41.48	24	4
+1098	CUST_17212	REST_1336	Illinois	Chicago	8/1/2024 8:42	Healthy	Returning	Standard	Google Pay	Cancelled	36.68	2.93	7.86	1.94	0	49.41	46	3
+1099	CUST_18175	REST_1099	Illinois	Naperville	1/5/2024 6:08	Pizza	New	Standard	Cash	Delivered	33.43	2.67	8.19	8.48	0	52.77	46	4
+1100	CUST_18226	REST_450	Texas	Dallas	8/12/2024 5:43	Pizza	New	Express	Apple Pay	Delivered	51.48	4.12	6.15	3.99	0	65.74	36	3
+1101	CUST_14347	REST_656	New York	New York City	2/9/2024 14:40	Pizza	Returning	Express	Cash	Delivered	42.48	3.4	3.92	2.89	10	42.69	40	3
+1102	CUST_47281	REST_1473	Florida	Orlando	7/25/2024 3:26	Mexican	Returning	Express	Google Pay	Delivered	42.7	3.42	5.72	2.75	0	54.59	52	1
+1103	CUST_11662	REST_1661	Texas	Houston	7/5/2024 10:38	Pizza	Returning	Standard	Cash	Delivered	29.81	2.38	7.95	3.63	0	43.77	53	1
+1104	CUST_38830	REST_1022	Florida	Orlando	5/1/2024 5:58	Pizza	Returning	Standard	Cash	Delivered	61.23	4.9	7.62	9.73	0	83.48	60	1
+1105	CUST_43477	REST_1456	Florida	Miami	1/25/2024 21:17	Healthy	New	Express	Apple Pay	Delivered	16.24	1.3	7.78	3.27	0	28.59	52	1
+1106	CUST_1565	REST_1382	Florida	Orlando	5/16/2024 12:36	Desserts	New	Standard	Debit Card	Delivered	43.7	3.5	5.65	9.74	10	52.59	61	4
+1107	CUST_7962	REST_1433	New York	New York City	6/9/2024 6:18	Fast Food	New	Express	Apple Pay	Delivered	66.25	5.3	7.62	8.06	0	87.23	31	2
+1108	CUST_43998	REST_1806	California	San Francisco	6/4/2024 18:26	Healthy	Returning	Standard	Debit Card	Delivered	45.42	3.63	8.25	7.35	5	59.65	63	3
+1109	CUST_11596	REST_1126	Illinois	Naperville	7/4/2024 7:41	Burgers	New	Standard	Google Pay	Delivered	36.72	2.94	3.35	0.26	5	38.27	29	2
+1110	CUST_46891	REST_854	California	San Diego	9/12/2024 1:44	Sushi	Returning	Standard	Debit Card	Delivered	51.15	4.09	5.28	6.01	5	61.53	55	3
+1111	CUST_41728	REST_1661	Illinois	Springfield	2/29/2024 8:23	Desserts	Returning	Express	Credit Card	Delivered	42.43	3.39	6.34	0.67	0	52.83	59	1
+1112	CUST_20355	REST_784	Illinois	Springfield	11/30/2024 6:32	Mexican	Returning	Express	Credit Card	Delivered	39.27	3.14	5.46	6.2	0	54.07	54	3
+1113	CUST_30684	REST_1153	Texas	Austin	5/13/2024 5:03	Fast Food	New	Standard	Cash	Delivered	11.7	0.94	7.09	5.83	0	25.56	35	4
+1114	CUST_8188	REST_1268	Texas	Houston	10/20/2024 7:14	Sushi	Returning	Standard	Cash	Delivered	16.91	1.35	4.89	3.02	5	21.17	32	1
+1115	CUST_38822	REST_1016	New York	Buffalo	11/11/2024 5:11	Sushi	New	Express	Cash	Cancelled	52.38	4.19	7.1	9.05	0	72.72	68	3
+1116	CUST_35147	REST_1583	Texas	Houston	11/6/2024 13:51	Sushi	New	Express	Cash	Delivered	43.22	3.46	5.31	1.27	0	53.26	60	2
+1117	CUST_41831	REST_1913	New York	New York City	10/15/2024 17:19	Fast Food	VIP	Express	Debit Card	Delivered	35.41	2.83	8.48	5.25	0	51.97	16	2
+1118	CUST_26835	REST_1171	California	San Diego	5/21/2024 5:33	Mexican	VIP	Express	Credit Card	Delivered	43.46	3.48	4.63	9.06	10	50.63	45	1
+1119	CUST_4549	REST_361	Florida	Miami	3/11/2024 7:08	Sushi	New	Standard	Credit Card	Delivered	20.11	1.61	4.43	2.25	5	23.4	51	3
+1120	CUST_8425	REST_669	Illinois	Chicago	7/4/2024 8:05	Mexican	New	Standard	Debit Card	Delivered	34	2.72	2.61	3.35	0	42.68	59	2
+1121	CUST_41758	REST_1536	Texas	Dallas	7/11/2024 12:49	Healthy	New	Express	Debit Card	Cancelled	19.12	1.53	6.39	8.71	5	30.75	33	3
+1122	CUST_48475	REST_931	Illinois	Naperville	4/10/2024 4:42	Pizza	VIP	Express	Google Pay	Refunded	29.77	2.38	7.31	3.97	0	43.43	49	4
+1123	CUST_43709	REST_675	Illinois	Chicago	3/18/2024 6:25	Fast Food	Returning	Standard	Cash	Delivered	44.72	3.58	8.27	6.54	5	58.11	60	3
+1124	CUST_25680	REST_793	California	San Francisco	9/12/2024 14:36	Pizza	VIP	Express	Cash	Delivered	37.77	3.02	4.33	6.82	5	46.94	55	4
+1125	CUST_9981	REST_652	Texas	Austin	2/16/2024 10:00	Fast Food	VIP	Express	Credit Card	Delivered	29.1	2.33	4.04	5.29	0	40.76	39	2
+1126	CUST_18158	REST_863	Florida	Orlando	11/10/2024 4:58	Healthy	Returning	Express	Google Pay	Delivered	3.26	0.26	8.12	8.27	5	14.91	66	4
+1127	CUST_36533	REST_869	Florida	Miami	11/3/2024 14:41	Sushi	Returning	Standard	Google Pay	Delivered	46.37	3.71	7.5	7.15	5	59.73	41	1
+1128	CUST_48130	REST_1083	Illinois	Naperville	3/11/2024 15:09	Fast Food	New	Standard	Cash	Delivered	23.89	1.91	3.97	7.05	0	36.82	34	3
+1129	CUST_30672	REST_1182	Texas	Dallas	2/12/2024 7:06	Desserts	VIP	Standard	Credit Card	Delivered	56.1	4.49	5.9	9.51	0	76	54	2
+1130	CUST_15039	REST_355	New York	Buffalo	8/28/2024 16:47	Healthy	Returning	Express	Credit Card	Failed	28.54	2.28	4.29	4.56	0	39.67	56	2
+1131	CUST_13803	REST_573	Florida	Tampa	7/12/2024 13:47	Burgers	Returning	Standard	Cash	Delivered	36.89	2.95	8.31	4.78	5	47.93	17	1
+1132	CUST_23242	REST_1044	New York	New York City	1/17/2024 6:47	Healthy	New	Standard	Debit Card	Delivered	37.34	2.99	4.71	8.33	0	53.37	64	3
+1133	CUST_9273	REST_945	California	Los Angeles	12/12/2024 8:37	Fast Food	New	Express	Google Pay	Delivered	26.4	2.11	8.2	5.78	0	42.49	56	1
+1134	CUST_7695	REST_292	California	San Francisco	10/2/2024 9:09	Healthy	Returning	Standard	Credit Card	Delivered	19.92	1.59	6.66	3.95	0	32.12	18	3
+1135	CUST_14207	REST_1774	Illinois	Chicago	5/16/2024 15:04	Desserts	New	Standard	Cash	Delivered	22.34	1.79	7.29	8.57	0	39.99	31	1
+1136	CUST_25914	REST_1321	Illinois	Chicago	1/13/2024 19:32	Healthy	Returning	Standard	Google Pay	Cancelled	38.71	3.1	3.87	5.27	0	50.95	53	4
+1137	CUST_6008	REST_897	California	Los Angeles	6/17/2024 20:56	Desserts	Returning	Express	Cash	Delivered	45.7	3.66	4.43	7.25	0	61.04	60	3
+1138	CUST_17575	REST_1812	New York	Rochester	2/22/2024 20:16	Burgers	Returning	Express	Debit Card	Delivered	23.54	1.88	3.62	9.35	10	28.39	21	1
+1139	CUST_24301	REST_1906	Illinois	Chicago	7/11/2024 4:56	Burgers	Returning	Standard	Google Pay	Delivered	34.99	2.8	7.13	0.02	5	39.94	30	4
+1140	CUST_45040	REST_558	Florida	Miami	11/28/2024 11:41	Desserts	Returning	Standard	Debit Card	Delivered	35.63	2.85	5.46	3.12	0	47.06	36	2
+1141	CUST_45864	REST_1245	New York	Rochester	6/22/2024 8:19	Burgers	VIP	Standard	Apple Pay	Delivered	1.33	0.11	4.76	7.07	0	13.27	53	4
+1142	CUST_45554	REST_1261	Florida	Tampa	10/28/2024 4:48	Pizza	Returning	Standard	Google Pay	Delivered	39.58	3.17	6.37	4.11	0	53.23	69	2
+1143	CUST_7818	REST_1913	California	San Francisco	1/31/2024 11:50	Fast Food	VIP	Standard	Google Pay	Delivered	50.35	4.03	6.08	6.44	5	61.9	69	3
+1144	CUST_39881	REST_615	Texas	Austin	4/5/2024 2:30	Desserts	VIP	Standard	Credit Card	Delivered	27.91	2.23	6.7	2.02	0	38.86	18	4
+1145	CUST_11002	REST_1905	California	Los Angeles	5/1/2024 8:15	Burgers	VIP	Standard	Google Pay	Delivered	36.2	2.9	4.56	1.84	0	45.5	29	3
+1146	CUST_35189	REST_1769	Florida	Tampa	10/19/2024 20:49	Burgers	VIP	Standard	Debit Card	Delivered	60.92	4.87	5.54	9.66	0	80.99	66	4
+1147	CUST_37657	REST_853	Texas	Dallas	12/25/2024 0:31	Burgers	New	Express	Google Pay	Refunded	30.19	2.42	3.27	8.55	0	44.43	28	3
+1148	CUST_23218	REST_872	Illinois	Naperville	2/19/2024 8:13	Desserts	New	Standard	Google Pay	Delivered	43.52	3.48	6.26	7.94	0	61.2	46	4
+1149	CUST_17882	REST_1525	New York	New York City	3/19/2024 18:21	Mexican	New	Express	Credit Card	Delivered	33.26	2.66	3.15	5.07	0	44.14	28	4
+1150	CUST_19953	REST_680	Texas	Houston	3/20/2024 17:57	Mexican	VIP	Express	Debit Card	Delivered	39.87	3.19	6.86	9.99	10	49.91	33	1
+1151	CUST_13818	REST_1243	New York	Buffalo	2/13/2024 2:05	Fast Food	VIP	Express	Credit Card	Delivered	55.97	4.48	4.93	2.11	0	67.49	16	1
+1152	CUST_20179	REST_1156	California	Los Angeles	7/7/2024 12:29	Sushi	Returning	Standard	Debit Card	Delivered	10.91	0.87	6.64	8.43	0	26.85	24	4
+1153	CUST_39373	REST_1895	Florida	Orlando	12/3/2024 18:06	Healthy	VIP	Standard	Apple Pay	Delivered	36.81	2.94	6.03	7.9	0	53.68	58	3
+1154	CUST_37807	REST_1404	New York	New York City	12/25/2024 20:36	Pizza	Returning	Standard	Apple Pay	Cancelled	11.34	0.91	3.42	1.8	0	17.47	32	3
+1155	CUST_45113	REST_130	New York	New York City	8/23/2024 17:09	Desserts	New	Express	Google Pay	Delivered	64.56	5.16	4.15	7.17	0	81.04	27	4
+1156	CUST_27044	REST_1591	Illinois	Springfield	6/25/2024 17:34	Mexican	New	Standard	Credit Card	Delivered	33.69	2.7	8.04	8.05	0	52.48	22	4
+1157	CUST_39394	REST_518	Florida	Miami	11/10/2024 6:01	Pizza	New	Standard	Google Pay	Refunded	53.18	4.25	4.37	3.2	0	65	57	3
+1158	CUST_45740	REST_1069	Illinois	Chicago	1/31/2024 19:27	Healthy	New	Express	Google Pay	Delivered	48.76	3.9	2.7	9.46	10	54.82	48	4
+1159	CUST_13985	REST_1813	Florida	Tampa	7/12/2024 17:12	Mexican	New	Standard	Google Pay	Delivered	13.56	1.08	4.62	8.91	0	28.17	69	4
+1160	CUST_29255	REST_1245	Texas	Dallas	11/25/2024 21:54	Desserts	Returning	Standard	Google Pay	Delivered	69.7	5.58	4.84	4.12	0	84.24	60	3
+1161	CUST_21445	REST_1218	New York	Rochester	11/3/2024 3:27	Pizza	New	Express	Cash	Delivered	22.67	1.81	7.05	5.61	0	37.14	18	3
+1162	CUST_47840	REST_1740	Texas	Houston	6/3/2024 4:05	Burgers	New	Standard	Google Pay	Cancelled	45.19	3.62	6.46	6.15	5	56.42	22	3
+1163	CUST_9382	REST_770	Florida	Tampa	9/27/2024 4:18	Healthy	New	Standard	Credit Card	Delivered	37.49	3	8.01	5.47	0	53.97	24	3
+1164	CUST_31549	REST_277	Florida	Orlando	3/27/2024 2:02	Pizza	VIP	Express	Apple Pay	Delivered	46.03	3.68	8.46	0.92	0	59.09	53	2
+1165	CUST_7787	REST_471	Illinois	Springfield	5/28/2024 22:51	Mexican	Returning	Express	Apple Pay	Delivered	36.3	2.9	2.69	8.95	0	50.84	17	1
+1166	CUST_44154	REST_1807	Illinois	Naperville	2/22/2024 1:03	Burgers	Returning	Express	Apple Pay	Delivered	33.98	2.72	3.4	4.69	5	39.79	53	3
+1167	CUST_32283	REST_611	Florida	Tampa	4/18/2024 11:11	Mexican	VIP	Express	Cash	Refunded	17.68	1.41	8.04	7.75	0	34.88	55	2
+1168	CUST_40776	REST_1653	New York	Rochester	10/21/2024 8:56	Mexican	Returning	Standard	Google Pay	Delivered	42.66	3.41	2.74	3.86	0	52.67	46	1
+1169	CUST_7608	REST_447	Illinois	Naperville	9/17/2024 17:47	Healthy	New	Standard	Cash	Cancelled	42.73	3.42	3.5	7.18	5	51.83	36	3
+1170	CUST_4521	REST_318	New York	Rochester	12/22/2024 14:49	Desserts	Returning	Express	Credit Card	Delivered	36.76	2.94	3.83	0.82	0	44.35	35	4
+1171	CUST_39732	REST_1086	New York	New York City	3/23/2024 1:25	Fast Food	VIP	Standard	Credit Card	Delivered	51.83	4.15	2.58	5.48	5	59.04	49	1
+1172	CUST_31183	REST_1382	California	San Francisco	7/25/2024 13:55	Desserts	Returning	Standard	Apple Pay	Delivered	31.79	2.54	6.21	7.18	0	47.72	42	3
+1173	CUST_21439	REST_1623	California	Los Angeles	4/13/2024 16:44	Desserts	Returning	Express	Debit Card	Delivered	45.51	3.64	5.32	2.11	0	56.58	19	2
+1174	CUST_12294	REST_1641	California	Los Angeles	6/27/2024 3:13	Pizza	Returning	Express	Credit Card	Delivered	45.83	3.67	2.93	0.46	0	52.89	43	3
+1175	CUST_7443	REST_1136	Florida	Tampa	11/25/2024 17:32	Sushi	VIP	Standard	Apple Pay	Delivered	1.84	0.15	7.66	9.53	0	19.18	46	4
+1176	CUST_26010	REST_120	Texas	Austin	4/18/2024 4:55	Healthy	Returning	Standard	Cash	Cancelled	54.43	4.35	6.98	2.05	0	67.81	67	2
+1177	CUST_9382	REST_247	Illinois	Naperville	3/13/2024 0:11	Sushi	New	Standard	Google Pay	Delivered	48.89	3.91	7.15	2.88	0	62.83	40	3
+1178	CUST_9816	REST_129	New York	Buffalo	3/30/2024 23:31	Mexican	New	Express	Cash	Delivered	32.94	2.64	8.42	7.67	10	41.67	51	3
+1179	CUST_17555	REST_146	Illinois	Naperville	10/31/2024 1:40	Desserts	VIP	Express	Apple Pay	Delivered	45.82	3.67	7.63	0.22	0	57.34	62	4
+1180	CUST_28299	REST_1299	California	San Francisco	7/25/2024 4:10	Sushi	VIP	Standard	Google Pay	Delivered	30.42	2.43	7.04	0.48	10	30.37	60	4
+1181	CUST_42401	REST_370	Illinois	Chicago	12/17/2024 9:39	Pizza	New	Express	Credit Card	Delivered	46.76	3.74	3.85	0.65	0	55	69	3
+1182	CUST_17015	REST_992	Florida	Tampa	11/27/2024 9:45	Fast Food	VIP	Express	Credit Card	Delivered	13.03	1.04	8.14	5.55	0	27.76	28	3
+1183	CUST_23831	REST_231	Illinois	Chicago	9/2/2024 7:23	Pizza	Returning	Express	Credit Card	Delivered	20.25	1.62	6.34	6.08	0	34.29	15	4
+1184	CUST_30011	REST_511	Illinois	Chicago	7/16/2024 14:35	Burgers	Returning	Standard	Apple Pay	Delivered	46.39	3.71	6.94	7.84	0	64.88	44	1
+1185	CUST_29981	REST_1048	New York	Rochester	3/26/2024 17:45	Burgers	VIP	Express	Credit Card	Delivered	34.72	2.78	4.04	1.2	10	32.74	32	2
+1186	CUST_26511	REST_481	New York	Buffalo	7/10/2024 22:44	Mexican	New	Standard	Debit Card	Delivered	32.83	2.63	3.99	4.32	0	43.77	31	1
+1187	CUST_49790	REST_722	Illinois	Chicago	11/1/2024 22:05	Burgers	VIP	Express	Debit Card	Delivered	22.06	1.76	4.28	8.42	0	36.52	41	1
+1188	CUST_25789	REST_1717	California	San Diego	8/18/2024 12:02	Burgers	Returning	Standard	Debit Card	Delivered	46.12	3.69	2.69	4.61	0	57.11	20	3
+1189	CUST_37244	REST_1086	Texas	Austin	3/2/2024 4:08	Burgers	VIP	Express	Debit Card	Delivered	31.69	2.54	3.62	7.73	0	45.58	20	2
+1190	CUST_29030	REST_257	Florida	Tampa	10/31/2024 10:46	Desserts	New	Standard	Google Pay	Delivered	20.31	1.62	8.4	5.8	0	36.13	39	4
+1191	CUST_43596	REST_1561	Illinois	Springfield	9/5/2024 7:04	Pizza	VIP	Standard	Debit Card	Cancelled	10.9	0.87	4.01	5.94	0	21.72	53	3
+1192	CUST_27998	REST_1414	California	Los Angeles	1/13/2024 15:43	Pizza	New	Standard	Google Pay	Delivered	41.83	3.35	6.49	2.46	5	49.13	49	3
+1193	CUST_2908	REST_910	Illinois	Naperville	8/29/2024 13:49	Sushi	VIP	Express	Google Pay	Cancelled	26.15	2.09	6.74	5.88	0	40.86	27	4
+1194	CUST_22635	REST_433	Florida	Tampa	9/11/2024 8:08	Burgers	New	Standard	Google Pay	Delivered	11.6	0.93	3.29	6.64	0	22.46	16	4
+1195	CUST_30191	REST_1858	Texas	Dallas	8/30/2024 13:19	Mexican	VIP	Express	Google Pay	Delivered	38.15	3.05	8.43	4.73	5	49.36	54	2
+1196	CUST_34844	REST_1982	New York	New York City	10/9/2024 7:40	Pizza	Returning	Express	Cash	Refunded	33.55	2.68	7.18	6.02	0	49.43	16	1
+1197	CUST_28426	REST_996	Florida	Tampa	8/29/2024 4:40	Sushi	Returning	Standard	Google Pay	Delivered	33.26	2.66	5.16	1.15	5	37.23	43	4
+1198	CUST_46073	REST_1474	Texas	Dallas	11/12/2024 0:16	Fast Food	VIP	Express	Apple Pay	Delivered	39.17	3.13	5.52	4.63	0	52.45	30	2
+1199	CUST_6149	REST_1132	Illinois	Springfield	9/22/2024 7:11	Fast Food	Returning	Standard	Google Pay	Delivered	46.44	3.72	4.68	9.52	10	54.36	68	1
+1200	CUST_29750	REST_1598	Florida	Orlando	7/11/2024 9:48	Desserts	VIP	Express	Cash	Refunded	31.4	2.51	8.29	4.04	0	46.24	61	4
+1201	CUST_43144	REST_1585	California	San Diego	11/9/2024 22:41	Sushi	Returning	Standard	Google Pay	Failed	53.27	4.26	4.73	2.44	5	59.7	67	1
+1202	CUST_20163	REST_1775	Illinois	Chicago	1/26/2024 7:49	Desserts	VIP	Express	Credit Card	Delivered	29.97	2.4	5.97	0.65	0	38.99	28	2
+1203	CUST_15393	REST_664	California	San Francisco	6/11/2024 11:51	Fast Food	Returning	Standard	Debit Card	Delivered	31.33	2.51	4.38	3.81	0	42.03	50	1
+1204	CUST_33917	REST_1146	Texas	Houston	9/10/2024 1:18	Mexican	Returning	Express	Cash	Delivered	46.61	3.73	6.18	3.12	10	49.64	29	2
+1205	CUST_19330	REST_1266	New York	New York City	5/10/2024 22:19	Mexican	Returning	Express	Apple Pay	Delivered	47.07	3.77	8.32	4.25	5	58.41	19	3
+1206	CUST_16589	REST_1659	Florida	Orlando	9/10/2024 8:06	Mexican	VIP	Standard	Apple Pay	Cancelled	33.38	2.67	7.57	2.97	5	41.59	15	1
+1207	CUST_35592	REST_1937	Illinois	Chicago	4/18/2024 23:26	Healthy	New	Standard	Apple Pay	Delivered	32.67	2.61	7.05	5.3	5	42.63	20	2
+1208	CUST_23205	REST_1951	Illinois	Springfield	10/11/2024 22:39	Desserts	VIP	Standard	Credit Card	Delivered	42.99	3.44	3.1	6.74	0	56.27	55	3
+1209	CUST_15372	REST_1699	California	San Diego	8/24/2024 17:48	Healthy	New	Express	Google Pay	Delivered	35.4	2.83	5.48	9.3	5	48.01	65	1
+1210	CUST_41134	REST_700	Illinois	Springfield	2/3/2024 6:02	Mexican	VIP	Standard	Google Pay	Delivered	51.16	4.09	6.3	5.54	5	62.09	29	1
+1211	CUST_25091	REST_369	New York	New York City	10/11/2024 9:31	Burgers	VIP	Standard	Cash	Delivered	37.16	2.97	5.08	6.48	0	51.69	27	3
+1212	CUST_6942	REST_1645	Florida	Orlando	6/15/2024 8:27	Mexican	Returning	Express	Cash	Delivered	13.58	1.09	6.53	0.32	0	21.52	62	3
+1213	CUST_40419	REST_564	New York	Buffalo	4/25/2024 2:27	Fast Food	VIP	Express	Apple Pay	Delivered	24.24	1.94	6.16	7.26	0	39.6	42	3
+1214	CUST_4546	REST_321	Illinois	Naperville	8/25/2024 20:10	Desserts	VIP	Standard	Credit Card	Delivered	41.88	3.35	5.75	8.89	0	59.87	43	2
+1215	CUST_42120	REST_1525	Texas	Houston	11/4/2024 22:56	Desserts	VIP	Express	Debit Card	Delivered	51.51	4.12	5.78	5.47	0	66.88	35	1
+1216	CUST_38049	REST_1297	New York	Buffalo	12/28/2024 19:59	Desserts	Returning	Standard	Credit Card	Refunded	30.15	2.41	5.58	8.8	0	46.94	55	3
+1217	CUST_34766	REST_1706	New York	Rochester	10/5/2024 10:54	Desserts	Returning	Express	Google Pay	Delivered	47.8	3.82	4.79	7.4	0	63.81	69	1
+1218	CUST_35169	REST_545	Florida	Miami	4/22/2024 3:22	Healthy	New	Express	Debit Card	Delivered	38.54	3.08	2.61	2.16	0	46.39	29	4
+1219	CUST_16782	REST_1591	Texas	Dallas	10/31/2024 16:43	Healthy	New	Standard	Credit Card	Delivered	27.51	2.2	3.85	3.53	0	37.09	69	2
+1220	CUST_46489	REST_307	Texas	Houston	10/7/2024 3:06	Pizza	New	Standard	Google Pay	Delivered	49.15	3.93	7.36	4.81	0	65.25	18	2
+1221	CUST_38390	REST_136	Florida	Tampa	10/8/2024 16:38	Sushi	Returning	Standard	Debit Card	Cancelled	41.85	3.35	7.37	6.79	0	59.36	67	4
+1222	CUST_12637	REST_617	Texas	Dallas	3/12/2024 14:20	Burgers	Returning	Standard	Apple Pay	Delivered	25.23	2.02	4.98	2.54	5	29.77	43	2
+1223	CUST_47290	REST_138	New York	Buffalo	9/15/2024 0:43	Desserts	New	Standard	Debit Card	Delivered	36.24	2.9	7.35	5.21	5	46.7	44	3
+1224	CUST_10305	REST_778	Texas	Houston	9/6/2024 17:51	Fast Food	VIP	Express	Cash	Delivered	34	2.72	4.33	4.96	0	46.01	49	2
+1225	CUST_31276	REST_1239	Florida	Orlando	2/21/2024 13:35	Fast Food	New	Standard	Google Pay	Delivered	63.6	5.09	8.27	3.21	0	80.17	25	2
+1226	CUST_8015	REST_812	Texas	Dallas	10/24/2024 16:29	Healthy	VIP	Standard	Google Pay	Refunded	60.77	4.86	3.79	6.56	0	75.98	48	3
+1227	CUST_15751	REST_525	Illinois	Springfield	9/25/2024 3:26	Sushi	VIP	Express	Cash	Delivered	41.76	3.34	3.27	0.88	5	44.25	39	4
+1228	CUST_20423	REST_514	Florida	Tampa	12/20/2024 21:23	Healthy	New	Express	Apple Pay	Delivered	37.1	2.97	8.07	3.07	0	51.21	47	3
+1229	CUST_38622	REST_1371	Texas	Houston	1/25/2024 3:23	Sushi	New	Standard	Apple Pay	Cancelled	9.33	0.75	5.01	9.29	10	14.38	15	2
+1230	CUST_46246	REST_1870	Texas	Houston	10/20/2024 12:57	Desserts	Returning	Standard	Google Pay	Cancelled	32.64	2.61	4.9	9.86	5	45.01	24	3
+1231	CUST_17462	REST_563	Illinois	Naperville	4/12/2024 6:09	Burgers	New	Standard	Cash	Delivered	32.23	2.58	7.39	3.59	0	45.79	18	1
+1232	CUST_22307	REST_862	Florida	Miami	2/19/2024 16:09	Fast Food	New	Express	Apple Pay	Refunded	34.44	2.76	5.24	8.14	0	50.58	60	1
+1233	CUST_30402	REST_356	Illinois	Springfield	10/8/2024 5:50	Healthy	Returning	Express	Google Pay	Failed	37.84	3.03	2.96	0.28	5	39.11	62	2
+1234	CUST_41572	REST_1061	New York	Rochester	1/14/2024 21:54	Burgers	Returning	Standard	Apple Pay	Cancelled	36.23	2.9	3.2	5.79	0	48.12	45	1
+1235	CUST_4307	REST_1533	Texas	Houston	12/15/2024 19:20	Mexican	New	Express	Debit Card	Delivered	34.37	2.75	2.85	7.29	0	47.26	30	1
+1236	CUST_43002	REST_1271	Illinois	Chicago	11/27/2024 23:25	Healthy	VIP	Standard	Google Pay	Delivered	42.84	3.43	7.81	0.45	0	54.53	41	2
+1237	CUST_9699	REST_1767	Illinois	Springfield	12/6/2024 11:34	Fast Food	Returning	Standard	Debit Card	Failed	23.25	1.86	4.57	1.48	0	31.16	37	1
+1238	CUST_22196	REST_1220	Illinois	Springfield	4/7/2024 1:35	Burgers	Returning	Express	Debit Card	Delivered	34.87	2.79	2.6	5.37	0	45.63	16	2
+1239	CUST_6054	REST_1816	California	Los Angeles	4/26/2024 4:03	Sushi	VIP	Express	Google Pay	Delivered	41.01	3.28	7.06	0.6	0	51.95	45	3
+1240	CUST_14012	REST_568	California	Los Angeles	4/15/2024 0:05	Desserts	New	Standard	Google Pay	Refunded	27.03	2.16	3.28	4.97	0	37.44	33	4
+1241	CUST_8077	REST_950	California	San Francisco	11/28/2024 17:51	Healthy	Returning	Standard	Apple Pay	Failed	51.17	4.09	4.26	3.22	0	62.74	54	1
+1242	CUST_9043	REST_912	Florida	Miami	1/21/2024 21:14	Burgers	Returning	Standard	Google Pay	Delivered	45.91	3.67	2.76	2.44	0	54.78	67	1
+1243	CUST_48382	REST_857	Texas	Austin	12/18/2024 6:08	Pizza	Returning	Standard	Credit Card	Delivered	51.57	4.13	7.53	9.1	0	72.33	57	3
+1244	CUST_45942	REST_607	California	San Diego	11/23/2024 6:24	Fast Food	Returning	Express	Cash	Delivered	35.42	2.83	6.3	2.57	0	47.12	19	4
+1245	CUST_3365	REST_624	New York	Buffalo	5/22/2024 9:45	Pizza	VIP	Express	Apple Pay	Delivered	31.8	2.54	2.75	1.6	0	38.69	34	4
+1246	CUST_4247	REST_419	Florida	Orlando	4/1/2024 11:56	Desserts	VIP	Express	Apple Pay	Delivered	38.88	3.11	3.07	7.32	5	47.38	23	1
+1247	CUST_48299	REST_244	California	San Diego	8/28/2024 16:35	Fast Food	New	Express	Credit Card	Delivered	47.94	3.84	3.85	4.77	0	60.4	44	4
+1248	CUST_13572	REST_583	Texas	Houston	6/22/2024 23:28	Burgers	New	Express	Apple Pay	Delivered	33.97	2.72	8.47	1.15	5	41.31	20	3
+1249	CUST_23740	REST_1794	California	San Francisco	10/5/2024 6:45	Sushi	VIP	Express	Credit Card	Delivered	29.61	2.37	3.94	5.16	0	41.08	50	1
+1250	CUST_1164	REST_914	Illinois	Springfield	4/21/2024 19:37	Sushi	New	Standard	Cash	Delivered	30.13	2.41	6.02	9.1	0	47.66	21	2
+1251	CUST_21998	REST_296	New York	New York City	1/22/2024 6:22	Healthy	VIP	Standard	Apple Pay	Delivered	51.7	4.14	7.13	9.2	0	72.17	32	1
+1252	CUST_38438	REST_395	New York	New York City	6/1/2024 7:07	Sushi	Returning	Express	Credit Card	Delivered	32.45	2.6	6.2	4.35	0	45.6	29	3
+1253	CUST_20623	REST_369	California	San Francisco	5/13/2024 7:30	Healthy	VIP	Standard	Cash	Delivered	41.25	3.3	8.22	9.02	5	56.79	20	2
+1254	CUST_28799	REST_1982	Texas	Houston	3/29/2024 0:24	Desserts	New	Express	Credit Card	Delivered	8.55	0.68	6.74	4.79	0	20.76	37	1
+1255	CUST_30974	REST_847	Illinois	Naperville	4/7/2024 20:29	Healthy	New	Express	Credit Card	Delivered	30.53	2.44	5.34	4.68	0	42.99	47	3
+1256	CUST_27563	REST_1770	Texas	Dallas	5/7/2024 16:33	Desserts	VIP	Standard	Apple Pay	Delivered	56.21	4.5	7.64	4.91	0	73.26	23	3
+1257	CUST_32423	REST_1276	Florida	Miami	6/9/2024 0:19	Pizza	VIP	Standard	Credit Card	Delivered	41.38	3.31	4.89	6.75	0	56.33	31	1
+1258	CUST_8626	REST_635	Texas	Houston	7/6/2024 12:02	Sushi	Returning	Standard	Debit Card	Delivered	13.64	1.09	5.38	5.61	5	20.72	51	1
+1259	CUST_49285	REST_1937	California	San Francisco	5/4/2024 11:41	Healthy	New	Standard	Apple Pay	Refunded	47.33	3.79	7.18	4.78	0	63.08	35	3
+1260	CUST_11046	REST_367	Texas	Dallas	8/16/2024 15:57	Fast Food	VIP	Express	Credit Card	Delivered	44.7	3.58	3.28	1.15	0	52.71	52	3
+1261	CUST_27583	REST_1397	Florida	Tampa	6/29/2024 3:29	Desserts	New	Standard	Apple Pay	Delivered	43.58	3.49	2.52	0.21	0	49.8	31	4
