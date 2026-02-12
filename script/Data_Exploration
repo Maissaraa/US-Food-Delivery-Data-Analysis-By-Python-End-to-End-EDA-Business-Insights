@@ -1,0 +1,24 @@
+# ================= DATA EXPLORATION =================
+def explore_data(df):
+    """
+    Perform basic exploration of the dataset:
+    - Display dataset info (columns, types, memory usage)
+    - Check for missing values
+    - Identify duplicate rows
+    - Show basic statistical summary for numeric columns
+    """
+    print("\n" + "="*50)
+    print("DATA OVERVIEW")
+    print("="*50)
+    
+    print("\n--- Info ---")
+    print(df.info())
+    
+    print("\n--- Missing Values ---")
+    print(df.isnull().sum())
+    
+    print("\n--- Duplicates ---")
+    print(f"Duplicate rows: {df.duplicated().sum()}")
+    
+    print("\n--- Basic Stats ---")
+    print(df.describe())
