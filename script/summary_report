@@ -1,0 +1,25 @@
+# ================= SUMMARY REPORT ===================
+def print_summary(df):
+    """
+    Print a final summary of the dataset analysis:
+    - Total number of orders analyzed
+    - Date range of the dataset
+    - Number of unique states, customer segments, and delivery modes
+    - Average order value
+    - Delivery success rate
+    Provides a concise overview of key metrics and dataset scope.
+    """
+    
+    print("\n" + "="*50)
+    print("ANALYSIS SUMMARY")
+    print("="*50)
+    
+    print(f"Total Orders Analyzed: {len(df):,}")
+    print(f"Date Range: {df['order_datetime'].min().date()} to {df['order_datetime'].max().date()}")
+    print(f"Total States: {df['state'].nunique()}")
+    print(f"Customer Segments: {df['customer_segment'].nunique()}")
+    print(f"Delivery Modes: {df['delivery_mode'].nunique()}")
+    print(f"Average Order Value: ${df['total_amount'].mean():.2f}")
+    print(f"Success Rate: {(df['order_status'] == 'Delivered').mean()*100:.1f}%")
+    
+    print("\nAnalysis complete!")
